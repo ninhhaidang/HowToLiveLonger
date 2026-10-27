@@ -12,7 +12,7 @@ import subprocess
 import sys
 import tempfile
 from urllib.parse import urlparse
-from build import LANGUAGES, load_locales, load_readers, load_glossary
+from build import LANGUAGES, load_locales, load_readers, load_glossary, load_citation_notes
 
 ROOT = Path(__file__).resolve().parents[1]
 FIELDS = (
@@ -119,6 +119,11 @@ def validate(check_build=False):
         require(url.scheme in ("http", "https") and bool(url.netloc), "invalid citation URL")
         require(bool(citation.get("readLevel")) and bool(citation.get("status")),
                 "citation reading level/status missing")
+    citation_notes = {}
+    try:
+        citation_notes = load_citation_notes(citations)
+    except (ValueError, OSError, KeyError) as exc:
+        errors.append(str(exc))
     original = ROOT / "docs/original-readme.zh.md"
     require(original.is_file(), "frozen Chinese README archive missing")
     if original.is_file():
@@ -130,7 +135,7 @@ def validate(check_build=False):
         locale_bundle, _ = load_locales(records)
     except (ValueError, OSError, KeyError) as exc:
         errors.append(str(exc))
-    require(set(locale_bundle) == set(LANGUAGES), "all eight complete language bundles required")
+    require(set(locale_bundle) == set(LANGUAGES), "all supported language bundles required")
     reader_bundle, glossary = {}, {}
     try:
         reader_bundle = load_readers(records)
@@ -179,8 +184,9 @@ def validate(check_build=False):
                     "index.html differs from a clean rebuild; run python3 scripts/build.py")
             parser = EmbeddedJSON()
             parser.feed(artifact.read_text(encoding="utf-8"))
-            expected = {"dataset": records, "citations": citations, "metadata": data["metadata"],
-                        "i18n-data": locale, "locales-data": locale_bundle, "readme-data": original.read_text(encoding="utf-8"),
+            expected = {"dataset": records, "citations": citations, "citation-notes": citation_notes,
+                        "metadata": data["metadata"], "i18n-data": locale, "locales-data": locale_bundle,
+                        "readme-data": original.read_text(encoding="utf-8"),
                         "readers-data": reader_bundle, "glossary-data": glossary}
             for block, value in expected.items():
                 try:
@@ -193,7 +199,7 @@ def validate(check_build=False):
               "reader_records": {code: len(bundle["records"]) for code, bundle in reader_bundle.items()},
               "glossary_terms": len(glossary.get("languages", {}).get("en", {})),
               "clean_rebuild_checked": check_build and not errors,
-              "scope": "Eight-language structure, provenance, translation coverage, effect/CI types and numeric tokens; not medical interpretation",
+              "scope": "All-language structure, provenance, translation coverage, effect/CI types and numeric tokens; not medical interpretation",
               "errors": errors}
     print(json.dumps(result, ensure_ascii=False, indent=2))
     return 0 if not errors else 1

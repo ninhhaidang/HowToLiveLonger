@@ -1,0 +1,1395 @@
+{
+  "language": "vi",
+  "name": "Tiếng Việt",
+  "dir": "ltr",
+  "ui": {
+    "skip": "Chuyển đến bằng chứng",
+    "repository": "Kho mã nguồn gốc ↗",
+    "dark": "Tối",
+    "light": "Sáng",
+    "title": "Cẩm nang sống lâu hơn cho lập trình viên",
+    "intro": "Thêm năng lượng cho những điều bạn yêu thích. Thêm thời gian bên những người quan trọng. Khám phá nghiên cứu về ăn uống, vận động và giấc ngủ để tìm những thói quen giúp sống lâu hơn, khỏe mạnh hơn và hạnh phúc hơn.",
+    "records": "bản ghi bằng chứng",
+    "recordsShort": "bản ghi",
+    "caution": "ACM là tỷ lệ tử vong do mọi nguyên nhân: các trường hợp tử vong vì bất kỳ nguyên nhân nào trong thời gian nghiên cứu. Trước tiên hãy xem những ai được so sánh, sau đó đọc ước lượng hiệu quả và khoảng ước lượng. Mở một chủ đề để xem quần thể nghiên cứu, kết quả và nguồn gốc.",
+    "paths": "Các hướng nghiên cứu",
+    "sideNote": "Đọc thông tin về quần thể và phép so sánh trước khi xem con số. Các mức xếp hạng bằng chữ mô tả bằng chứng về ACM, không phải độ mạnh của khuyến nghị.",
+    "methodLink": "Cách đọc nghiên cứu ↓",
+    "explore": "Khám phá bằng chứng",
+    "table": "Bảng",
+    "tree": "Cây",
+    "ledger": "Nguồn",
+    "sort": "Sắp xếp",
+    "filterToggle": "Bộ lọc",
+    "reset": "Xóa bộ lọc",
+    "csv": "Xuất CSV hiện tại ↓",
+    "json": "JSON đầy đủ ↓",
+    "scrollHint": " · Cuộn bảng theo chiều ngang",
+    "methodTitle": "Hiểu kết quả nghiên cứu",
+    "methodIntro": "Mỗi bản ghi cho biết ai được nghiên cứu, điều gì được so sánh, kết quả ra sao và có thể đọc thêm ở đâu. Trước tiên hãy cân nhắc mức độ tương đồng giữa nghiên cứu và hoàn cảnh của bạn.",
+    "methodAssociation": "Các ước lượng hiệu quả mô tả sự khác biệt giữa các nhóm; các khoảng ước lượng thể hiện tính không chắc chắn. Hãy đọc cùng với thông tin về nhóm so sánh, nguy cơ nền và thời gian theo dõi.",
+    "methodNegative": "Tỷ lệ tử vong do mọi nguyên nhân, sự xuất hiện của bệnh và các dấu ấn sinh học trả lời những câu hỏi khác nhau. Trước tiên hãy kiểm tra nghiên cứu đã đo lường điều gì.",
+    "methodRead": "Các nguồn cho biết nội dung đã được đọc: siêu dữ liệu, tóm tắt hay những phần chính trong toàn văn. Theo liên kết để tiếp tục đọc nghiên cứu gốc.",
+    "methodScope": "Các chủ đề như ăn uống, vận động và giấc ngủ tiếp tục được mở rộng. Hoan nghênh các nghiên cứu mới và ý kiến đính chính.",
+    "cochrane": "Tài liệu hướng dẫn đọc: Cochrane Handbook, Chương 14 ↗",
+    "notes": "Ghi chú xác minh ban đầu (tiếng Trung)",
+    "archive": "README gốc được lưu cố định (tiếng Trung)",
+    "footerTitle": "Sống lâu hơn, khỏe mạnh hơn và hạnh phúc hơn",
+    "footerNote": "Đọc ngoại tuyến · Cùng xây dựng công khai",
+    "close": "Đóng ×",
+    "search": "Tìm yếu tố, nghiên cứu, kết quả hoặc DOI…",
+    "all": "Tất cả yếu tố",
+    "allGrades": "Tất cả mức bằng chứng",
+    "allOrigins": "Gốc + bổ sung",
+    "allVerdicts": "Tất cả loại kết luận",
+    "allSources": "Tất cả mức độ đọc",
+    "category": "Danh mục",
+    "subcategory": "Danh mục con",
+    "factor": "Yếu tố",
+    "grade": "Mức bằng chứng",
+    "origin": "Nguồn gốc bản ghi",
+    "verdict": "Loại kết luận",
+    "finding": "Kết quả nghiên cứu",
+    "effect": "Ước lượng hiệu quả",
+    "ci": "Khoảng ước lượng (khoảng tin cậy 95% nếu không ghi khác)",
+    "comparison": "Phơi nhiễm / can thiệp và nhóm đối chiếu",
+    "population": "Quần thể và thời gian theo dõi",
+    "design": "Thiết kế nghiên cứu",
+    "gradeReason": "Lý do xếp mức này",
+    "limitations": "Khả năng áp dụng và hạn chế",
+    "action": "Áp dụng trong đời sống hằng ngày",
+    "originalClaim": "Phát biểu ban đầu",
+    "raw": "Bản lưu các nhận định ban đầu (tiếng Trung, gồm các liên kết gốc)",
+    "sources": "Nguồn nghiên cứu",
+    "sourceEvidence": "Trích đoạn nghiên cứu",
+    "originalUrl": "Mục gốc",
+    "yearUnknown": "Chưa xác nhận năm",
+    "unmarked": "Không nêu",
+    "interval": "Khoảng ước lượng",
+    "byCategory": "Thứ tự danh mục",
+    "byGrade": "Mức bằng chứng",
+    "byName": "Tên yếu tố",
+    "byYear": "Năm công bố mới nhất",
+    "empty": "Không có bản ghi phù hợp. Hãy bỏ một bộ lọc hoặc thử từ khóa khác.",
+    "expand": "Mở rộng các nhánh",
+    "collapse": "Thu gọn các nhánh",
+    "sourceLink": "nguồn ↗",
+    "shown": "Đang hiển thị",
+    "of": "/",
+    "openHint": "Mở một yếu tố để đối chiếu nhận định với nghiên cứu gốc",
+    "ledgerTitle": "Tiêu đề nguồn",
+    "ledgerState": "Trạng thái đọc",
+    "ledgerNote": "Ghi chú về nguồn",
+    "ledgerIntro": "Tìm nghiên cứu và bài viết liên quan. Chọn một tiêu đề để đọc bản gốc.",
+    "lines": "Số dòng trong bản gốc",
+    "resolved": "Nguồn thay thế / nghiên cứu gốc ↗",
+    "copy": "Sao chép tóm tắt nghiên cứu",
+    "png": "Tải thẻ chia sẻ PNG",
+    "link": "Sao chép liên kết",
+    "copied": "Đã sao chép tóm tắt.",
+    "linkCopied": "Đã sao chép liên kết. Hãy chia sẻ tệp kèm theo liên kết trang cục bộ.",
+    "manual": "Không thể truy cập bảng nhớ tạm tự động. Hãy chọn văn bản bên dưới và sao chép thủ công.",
+    "manualLabel": "Văn bản để sao chép thủ công",
+    "shareWarning": "Đọc nghiên cứu gốc để biết thêm chi tiết.",
+    "pngDone": "Đã tạo thẻ chia sẻ PNG; quá trình tải xuống đã bắt đầu.",
+    "pngFail": "Không thể xuất ảnh. Vui lòng dùng bản tóm tắt bằng chứng.",
+    "translationMissing": "Bản dịch đã chọn chưa hoàn chỉnh. Các trường còn thiếu được đánh dấu rõ ràng.",
+    "untranslated": "[Đang chờ dịch]",
+    "checked": "Rà soát ban đầu",
+    "baseline": "Mốc dữ liệu gốc",
+    "readmeHash": "SHA-256 của README gốc",
+    "ledgerCount": "mục văn bản gốc riêng biệt",
+    "sourceColumn": "Nguồn nghiên cứu",
+    "rawColumn": "Bản lưu tiếng Trung gốc",
+    "jsonNotice": "Dữ liệu chuẩn và tất cả bảng ánh xạ bản dịch",
+    "gradeA": "Ngẫu nhiên hóa",
+    "gradeB": "Bằng chứng mạnh hơn",
+    "gradeC": "Bằng chứng quan sát hạn chế",
+    "gradeD": "Gián tiếp",
+    "gradeU": "Thông tin hạn chế",
+    "guideA": "Các nghiên cứu can thiệp ngẫu nhiên hóa đo lường trực tiếp tỷ lệ tử vong do mọi nguyên nhân.",
+    "guideB": "Bằng chứng trực tiếp mạnh hơn từ các nghiên cứu đoàn hệ lớn hoặc phân tích gộp, hoặc các nghiên cứu ngẫu nhiên hóa có một số hạn chế.",
+    "guideC": "Kết quả quan sát trực tiếp có những hạn chế quan trọng về cỡ mẫu, số lượng nghiên cứu hoặc thiết kế.",
+    "guideD": "Các dấu hiệu gián tiếp từ những chỉ số sức khỏe khác, cơ chế hoặc nghiên cứu trên động vật.",
+    "guideU": "Thông tin hiện có chưa đủ để đánh giá.",
+    "languageLabel": "Ngôn ngữ",
+    "coverAlt": "Hình minh họa các vòng sinh trưởng của cây và những cành lá, với một người nhỏ đang đi bên cạnh các vòng cây.",
+    "coverCaption": "Những vòng đời",
+    "visualGuide": "Đọc một kết quả nghiên cứu",
+    "visualIntro": "Xác định quần thể, phép so sánh và kết cục.",
+    "visualPopulation": "Quần thể",
+    "visualComparison": "So sánh",
+    "visualOutcome": "Kết cục",
+    "visualNote": "Tuổi tác, hút thuốc và các yếu tố khác có thể ảnh hưởng đến cả thói quen hằng ngày lẫn kết cục sức khỏe.",
+    "visualConfounder": "Các yếu tố chung",
+    "visualExposure": "Phơi nhiễm / can thiệp",
+    "visualAssociation": "Mối liên quan quan sát được",
+    "visualGrade": "Các mức bằng chứng trong bộ sưu tập",
+    "visualGradeNote": "Các mức phản ánh thiết kế nghiên cứu, kết cục và hạn chế.",
+    "auditTemplate": "Rà soát {date}: {reviewed}/{total} bản ghi, {abstracts} bản tóm tắt gốc và {full} phần chính trong toàn văn.",
+    "exampleLabel": "So sánh minh họa, không phải dữ liệu nghiên cứu",
+    "higherExposure": "Nhóm có mức tiêu thụ cao hơn",
+    "referenceGroup": "Nhóm tham chiếu",
+    "samePopulation": "Trong cùng một quần thể nghiên cứu",
+    "confounderExamples": "Ví dụ: tuổi tác hoặc hút thuốc",
+    "studyDetails": "Chi tiết nghiên cứu",
+    "list": "Danh sách"
+  },
+  "terms": {
+    "输入": "Lượng đưa vào cơ thể",
+    "输出": "Hoạt động",
+    "上下文": "Bối cảnh",
+    "方法": "Phương pháp",
+    "固体": "Thực phẩm",
+    "液体": "Đồ uống",
+    "气体": "Không khí",
+    "药物": "Thuốc",
+    "运动": "Tập thể dục",
+    "日常": "Hoạt động hằng ngày",
+    "睡眠": "Giấc ngủ",
+    "久坐": "Thời gian ít vận động",
+    "体重": "Cân nặng",
+    "光照": "Ánh sáng",
+    "情绪": "Tâm lý & xã hội",
+    "新冠": "COVID-19",
+    "贫富": "Mức độ giàu có",
+    "风险解释": "Diễn giải nguy cơ",
+    "原库": "Gốc",
+    "新增": "Bổ sung",
+    "支持但需限定": "Được bằng chứng ủng hộ nhưng cần nêu rõ điều kiện giới hạn",
+    "无直接ACM证据": "Không có bằng chứng trực tiếp về ACM",
+    "未能核实": "Chưa xác minh được",
+    "部分支持": "Được bằng chứng ủng hộ một phần",
+    "需纠正": "Cần đính chính",
+    "元数据": "Chỉ có siêu dữ liệu",
+    "全文": "Toàn văn",
+    "全文（关键结果段）": "Toàn văn (các phần kết quả chính)",
+    "全文（说明书相关段）": "Toàn văn (các phần liên quan trong thông tin nhãn thuốc)",
+    "原文检索摘录": "Trích đoạn tìm kiếm từ bản gốc",
+    "摘要": "Tóm tắt",
+    "摘要及原文检索摘录": "Tóm tắt và trích đoạn tìm kiếm từ bản gốc",
+    "未读": "Chưa đọc",
+    "二手报道": "Thông tin từ nguồn thứ cấp",
+    "已核验": "Đã xác minh",
+    "无法访问": "Không thể truy cập",
+    "错链": "Liên kết sai",
+    "非医学来源": "Nguồn ngoài lĩnh vực y khoa"
+  },
+  "records": {
+    "poultry-fish": {
+      "factor": "Thịt trắng, thịt đỏ và thịt chế biến sẵn",
+      "originalClaim": "Phần hành động trong bản gốc nêu: thịt trắng −11% đến −3% ACM; phần bằng chứng nêu: tăng lượng thịt đỏ thêm ≥nửa khẩu phần/ngày làm tăng ACM 10%; hai khẩu phần thịt đỏ/thịt chế biến sẵn mỗi tuần làm tăng 3%.",
+      "finding": "Đoạn gốc kết hợp hai bài báo: JAMA về việc ăn thêm 2 khẩu phần thịt mỗi tuần và BMJ về thay đổi lượng thịt đỏ tiêu thụ trong tám năm. Không có mối liên quan có ý nghĩa thống kê giữa thịt trắng và ACM không chứng minh rằng không có nguy cơ; trong JAMA, thịt gia cầm có liên quan đến nguy cơ CVD cao hơn.",
+      "effect": "Thịt chế biến sẵn HR 1.03; thịt đỏ HR 1.03; thịt gia cầm HR 0.99; cá HR 0.99; tăng lượng thịt đỏ thêm ≥nửa khẩu phần/ngày HR 1.10",
+      "ci": "Khoảng tin cậy 95% tương ứng: 1.02–1.05; 1.01–1.05; 0.97–1.02; 0.97–1.01; 1.04–1.17",
+      "comparison": "JAMA: mỗi 2 khẩu phần/tuần ăn thêm; BMJ: tăng thêm ≥nửa khẩu phần/ngày trong tám năm so với lượng tiêu thụ ổn định",
+      "population": "JAMA: 29,682 người tham gia trong 6 đoàn hệ tại Hoa Kỳ, 8,875 ca tử vong; BMJ: 81,469 người tham gia, 14,019 ca tử vong",
+      "design": "Phân tích tiến cứu nhiều đoàn hệ",
+      "gradeReason": "Mối liên quan trực tiếp với ACM từ các đoàn hệ gộp hoặc một đoàn hệ lớn, chất lượng cao; không phải bằng chứng về quan hệ nhân quả",
+      "limitations": "Bảng câu hỏi về thực phẩm và nhiễu còn sót lại; hai nghiên cứu có khoảng thời gian đánh giá phơi nhiễm khác nhau",
+      "action": "Hạn chế thịt chế biến sẵn; thay một phần thịt đỏ bằng đậu, các loại hạt, cá và thực phẩm tương tự. Cân nhắc cách chế biến và chế độ ăn tổng thể.",
+      "sources": [
+        {
+          "evidence": "Tóm tắt, Kết quả: ước tính ACM đối với thịt chế biến sẵn 1.03 (1.02–1.05), thịt đỏ 1.03 (1.01–1.05), thịt gia cầm 0.99 (0.97–1.02), cá 0.99 (0.97–1.01)."
+        },
+        {
+          "evidence": "Tóm tắt, Kết quả: thay đổi lượng tiêu thụ trong tám năm và tử vong trong tám năm tiếp theo; HR 1.10 (1.04–1.17)."
+        }
+      ]
+    },
+    "fresh-fruit-diabetes": {
+      "factor": "Trái cây tươi (người mắc đái tháo đường)",
+      "originalClaim": "Bản gốc cho rằng ăn 200 g trái cây tươi mỗi ngày có thể giảm tỷ lệ tử vong 17%, biến chứng mạch máu lớn của đái tháo đường 13% và biến chứng vi mạch 28%.",
+      "finding": "Tóm tắt hội nghị về gánh nặng CVD quy thuộc trên toàn cầu được trích dẫn ban đầu không phải nguồn của con số ACM này. Nguồn thực tế là quần thể mắc đái tháo đường trong CKB: với mỗi 100 g/ngày ăn thêm, không phải 200 g, ACM HR 0.83; các giá trị 0.87 đối với biến chứng mạch máu lớn và 0.72 đối với biến chứng vi mạch cũng tính cho mỗi 100 g/ngày. Không thể khái quát thành ăn 200 g/ngày giúp giảm 17% cho tất cả mọi người.",
+      "effect": "HR 0.83",
+      "ci": "Khoảng tin cậy 95% 0.74–0.93",
+      "comparison": "Mỗi 100 g/ngày trái cây tươi ăn thêm ở người mắc đái tháo đường",
+      "population": "CKB tại Trung Quốc: 30,300 người tham gia mắc đái tháo đường lúc ban đầu, 3,389 ca tử vong, khoảng 7 năm",
+      "design": "Một đoàn hệ tiến cứu lớn",
+      "gradeReason": "Một đoàn hệ hoặc có nhiễu/tính không đồng nhất đáng kể; bằng chứng trực tiếp về ACM còn hạn chế",
+      "limitations": "Quần thể đặc thù mắc đái tháo đường; không ngẫu nhiên hóa; kết cục và liều lượng được trích dẫn không khớp với nguồn",
+      "action": "Thay món tráng miệng ngọt bằng lượng vừa phải trái cây nguyên quả, điều chỉnh theo đường huyết và kế hoạch điều trị cá nhân; không thay bằng nước ép trái cây.",
+      "sources": [
+        {
+          "evidence": "Tóm tắt, Phương pháp và phát hiện: 30,300 người tham gia mắc đái tháo đường lúc ban đầu; mỗi 100 g/ngày, ACM HR 0.83 (0.74–0.93), biến chứng vi mạch 0.72 (0.61–0.87), biến chứng mạch máu lớn 0.87 (0.82–0.93)."
+        },
+        {
+          "evidence": "Chỉ kiểm tra thông tin thư mục: tóm tắt hội nghị về gánh nặng bệnh tim mạch toàn cầu/khu vực/quốc gia liên quan đến trái cây và rau. Không lấy được nội dung chính; không dùng làm bằng chứng định lượng về ACM."
+        }
+      ]
+    },
+    "flavonoid-foods": {
+      "factor": "Thực phẩm chứa flavonoid",
+      "originalClaim": "Bản gốc nêu rằng ăn thực phẩm chứa flavonoid có liên quan đến nguy cơ tử vong thấp hơn 20%; ví dụ gồm một tách trà, một quả táo, một quả cam, 100 g việt quất hoặc 100 g bông cải xanh.",
+      "finding": "Chiều của mối liên quan được bằng chứng ủng hộ, nhưng đây không phải thử nghiệm ăn 100 g bông cải xanh mỗi ngày. Mối liên quan đạt vùng bình nguyên khi tổng lượng flavonoid tiêu thụ khoảng 500 mg/ngày. Sau khi điều chỉnh thêm về chế độ ăn, Q3 HR là 0.88 và Q5 HR là 0.92; khẳng định chung rằng giảm 20% bỏ qua khác biệt giữa các mô hình.",
+      "effect": "Q3 HR 0.88; Q5 HR 0.92",
+      "ci": "Khoảng tin cậy 95% 0.84–0.91; 0.88–0.97",
+      "comparison": "Nhóm ngũ phân vị 3/5 về tổng lượng flavonoid tiêu thụ so với nhóm ngũ phân vị 1, Bảng 2 Mô hình 3",
+      "population": "Đan Mạch: 56,048 người tham gia, 14,083 ca tử vong, 23 năm",
+      "design": "Đoàn hệ tiến cứu",
+      "gradeReason": "Một đoàn hệ hoặc có nhiễu/tính không đồng nhất đáng kể; bằng chứng trực tiếp về ACM còn hạn chế",
+      "limitations": "Nhiễu do chế độ ăn lành mạnh và yếu tố kinh tế xã hội; chỉ một lần đo bằng FFQ; không thể suy ra tác dụng của thực phẩm bổ sung",
+      "action": "Lấy dưỡng chất thực vật từ nhiều loại rau, trái cây, đậu và thực phẩm tương tự; không dựa vào thực phẩm bổ sung flavonoid hoặc dùng chúng để bù đắp tác hại của hút thuốc hay uống rượu.",
+      "sources": [
+        {
+          "evidence": "Toàn văn, Bảng 2, tổng flavonoid: Mô hình 2 Q3/Q5 đều khoảng 0.83; Mô hình 3 Q3 0.88 (0.84–0.91), Q5 0.92 (0.88–0.97). Kết quả: đạt vùng bình nguyên ở khoảng 500 mg/ngày."
+        }
+      ]
+    },
+    "chili-us": {
+      "factor": "Ớt đỏ cay (Hoa Kỳ)",
+      "originalClaim": "Bản gốc nêu nghiên cứu tại Hoa Kỳ theo dõi 16,179 người trong khoảng 19 năm: 21.6% người ăn ớt tử vong so với 33.6% người không ăn; đoạn gốc sau đó khẳng định ACM thấp hơn 23% khi ăn >4 lần/tuần.",
+      "finding": "Các số liệu 16,179 người tham gia, 4,946 ca tử vong và 21.6% so với 33.6% thuộc nghiên cứu tại Hoa Kỳ. Sau điều chỉnh, ACM thấp hơn 13%, khác với chênh lệch nguy cơ thô và ước tính 23% của nghiên cứu tại Ý.",
+      "effect": "HR 0.87",
+      "ci": "Khoảng tin cậy 95% 0.77–0.97",
+      "comparison": "Ăn ớt đỏ cay so với không ăn",
+      "population": "NHANES III tại Hoa Kỳ: 16,179 người trưởng thành, trung vị 18.9 năm",
+      "design": "Đoàn hệ tiến cứu",
+      "gradeReason": "Một đoàn hệ hoặc có nhiễu/tính không đồng nhất đáng kể; bằng chứng trực tiếp về ACM còn hạn chế",
+      "limitations": "Tỷ lệ tử vong thô chịu nhiễu do tuổi và các yếu tố khác; chỉ đo chế độ ăn một lần",
+      "action": "Dùng làm gia vị nếu thích và dung nạp được; người có khó chịu đường tiêu hóa không cần cố tăng lượng ăn.",
+      "sources": [
+        {
+          "evidence": "Tóm tắt, Kết quả: NHANES III tại Hoa Kỳ, 16,179 người tham gia, 4,946 ca tử vong, trung vị 18.9 năm; người ăn so với người không ăn, HR đã điều chỉnh 0.87 (0.77–0.97); tỷ lệ tử vong thô 21.6% so với 33.6%."
+        }
+      ]
+    },
+    "chili-italy": {
+      "factor": "Ớt (Ý)",
+      "originalClaim": "Bản gốc cho rằng ăn ớt >4 lần/tuần giảm ACM 23% và tử vong do tim mạch 34%; một tiêu đề từ nguồn thứ cấp khẳng định “nguy cơ tử vong do bệnh thấp hơn 61%.”",
+      "finding": "Mối liên quan giữa ăn >4 lần/tuần với ACM thấp hơn 23% và tử vong do CVD thấp hơn 34% đến từ đoàn hệ tại Ý. Con số 61% là mức giảm tương đối của tử vong do bệnh mạch máu não, không phải tử vong chung do bệnh. Nhóm tham chiếu là người không bao giờ/hiếm khi ăn, không phải tất cả người ăn ớt ít hơn 2 lần/tuần.",
+      "effect": "ACM HR 0.77",
+      "ci": "Khoảng tin cậy 95% 0.66–0.90",
+      "comparison": ">4 lần/tuần so với không bao giờ/hiếm khi",
+      "population": "Đoàn hệ Moli-sani tại Ý: 22,811 người tham gia, 1,236 ca tử vong, trung vị 8.2 năm",
+      "design": "Đoàn hệ tiến cứu",
+      "gradeReason": "Một đoàn hệ hoặc có nhiễu/tính không đồng nhất đáng kể; bằng chứng trực tiếp về ACM còn hạn chế",
+      "limitations": "Nhiễu còn sót lại do chế độ ăn/lối sống; không chứng minh hiệu quả của can thiệp bằng capsaicin",
+      "action": "Ăn theo khả năng dung nạp; không thể thay thế kiểm soát huyết áp hay các điều trị khác.",
+      "sources": [
+        {
+          "evidence": "Tóm tắt, Kết quả: Moli-sani tại Ý, 22,811 người tham gia, 1,236 ca tử vong, trung vị 8.2 năm; >4 lần/tuần so với không bao giờ/hiếm khi: ACM HR 0.77 (0.66–0.90), tử vong do CVD 0.66 (0.50–0.86), tử vong do bệnh mạch máu não 0.39 (0.20–0.75)."
+        }
+      ]
+    },
+    "eggs": {
+      "factor": "Trứng",
+      "originalClaim": "Bản gốc cho rằng ăn thêm nửa quả trứng mỗi ngày làm tăng nguy cơ tử vong do mọi nguyên nhân và do tim mạch 7%; thay nửa quả trứng nguyên bằng lòng trắng trứng, thịt gia cầm, cá, sản phẩm sữa, các loại hạt hoặc đậu cho mức giảm ACM theo mô hình lần lượt là 6%, 8%, 9%, 7%, 13% và 10%.",
+      "finding": "Con số 7% và các con số trong mô hình thay thế của bản gốc đã được đối chiếu xác nhận. Đây là kết quả quan sát ở người trung niên và cao tuổi tại Hoa Kỳ và các phép thay thế giả định với lượng tương đương, không phải mức giảm tử vong do thay đổi chế độ ăn được phân bổ ngẫu nhiên gây ra, cũng không phải mức tăng cố định 7% do trứng đối với tất cả mọi người.",
+      "effect": "HR 1.07 cho mỗi nửa quả trứng nguyên/ngày ăn thêm",
+      "ci": "Khoảng tin cậy 95% 1.06–1.08",
+      "comparison": "Mỗi 25 g/ngày trứng nguyên ăn thêm; mô hình thay thế, không phải can thiệp thực tế",
+      "population": "NIH-AARP: 521,120 người tham gia, 129,328 ca tử vong, trung vị 16 năm",
+      "design": "Đoàn hệ tiến cứu lớn",
+      "gradeReason": "Mối liên quan trực tiếp với ACM từ các đoàn hệ gộp hoặc một đoàn hệ lớn, chất lượng cao; không phải bằng chứng về quan hệ nhân quả",
+      "limitations": "Tự báo cáo, chỉ đo chế độ ăn một lần lúc ban đầu, nhiễu còn sót lại; kết quả có thể khác nhau giữa các khu vực",
+      "action": "Lựa chọn lượng trứng ăn trong bối cảnh chế độ ăn tổng thể và lipid máu; đậu hoặc các loại hạt có thể thay một phần protein động vật. Không loại bỏ trứng chỉ dựa trên một nghiên cứu.",
+      "sources": [
+        {
+          "evidence": "Tóm tắt trong toàn văn và phần Kết quả/Thay thế giả định: nửa quả trứng/ngày, ACM 1.07 (1.06–1.08); thay bằng lòng trắng trứng/thịt gia cầm/cá/sản phẩm sữa/các loại hạt/đậu cho mức giảm ACM theo mô hình lần lượt là 6/8/9/7/13/10%."
+        }
+      ]
+    },
+    "walnuts": {
+      "factor": "Hạt óc chó",
+      "originalClaim": "Bản gốc nêu ≥5 khẩu phần hạt óc chó/tuần (28 g/khẩu phần): tuổi thọ kỳ vọng khỏe mạnh tăng 1.3 năm, ACM thấp hơn 14% và tử vong do tim mạch thấp hơn 25%.",
+      "finding": "ACM thấp hơn 14% khi ăn ≥5 khẩu phần/tuần được bằng chứng ủng hộ. Các giá trị 1.30/1.26 năm là tuổi thọ kỳ vọng tổng thể tại tuổi 60 được ước tính bằng mô hình, không phải tuổi thọ kỳ vọng khỏe mạnh hay bảo đảm sống lâu hơn.",
+      "effect": "HR 0.86",
+      "ci": "Khoảng tin cậy 95% 0.79–0.93",
+      "comparison": "≥5 khẩu phần/tuần so với không ăn; 28 g mỗi khẩu phần",
+      "population": "NHS/HPFS: 93,340 người tham gia, 30,263 ca tử vong, tối đa 20 năm",
+      "design": "Phân tích hai đoàn hệ",
+      "gradeReason": "Mối liên quan trực tiếp với ACM từ các đoàn hệ gộp hoặc một đoàn hệ lớn, chất lượng cao; không phải bằng chứng về quan hệ nhân quả",
+      "limitations": "Sai lệch do người sử dụng có lối sống lành mạnh; tuổi thọ kỳ vọng được ước tính bằng mô hình; cần lưu ý nguồn tài trợ từ ngành công nghiệp",
+      "action": "Nếu không dị ứng với các loại hạt, thay đồ ăn vặt bằng lượng vừa phải các loại hạt không muối, có tính đến tổng năng lượng nạp vào.",
+      "sources": [
+        {
+          "evidence": "Tóm tắt, Kết quả: ≥5 khẩu phần/tuần HR 0.86 (0.79–0.93); tuổi thọ kỳ vọng tại tuổi 60 dài hơn 1.30 năm ở nữ và 1.26 ở nam, không phải tuổi thọ kỳ vọng khỏe mạnh."
+        }
+      ]
+    },
+    "nuts-general": {
+      "factor": "Tần suất ăn các loại hạt",
+      "originalClaim": "Bản gốc mô tả tần suất hằng tuần với khẩu phần 1 ounce, kèm mức giảm tử vong 7%, 11%, 13%, 15% và 20%; đồng thời gọi một nghiên cứu trên 7,216 người là “cắt ngang”, báo cáo tử vong thấp hơn 39% khi ăn >3 khẩu phần/tuần.",
+      "finding": "Các tần suất trong NEJM là <1, 1, 2–4, 5–6 và ≥7 lần/tuần, tương ứng với tử vong thấp hơn 7/11/13/15/20%, không phải các nhóm dựa trên tổng khối lượng ăn mỗi tuần; những dữ liệu này không chứng minh rằng phải ăn hạt sống. Con số 39% của PREDIMED đến từ phân tích quan sát về lượng hạt tiêu thụ, không phải nghiên cứu cắt ngang cũng không phải tác động lên ACM của lượng hạt được phân bổ ngẫu nhiên riêng biệt.",
+      "effect": "NEJM ≥7 lần/tuần HR 0.80; PREDIMED >3 khẩu phần/tuần HR 0.61",
+      "ci": "Khoảng tin cậy 95% 0.73–0.86; 0.45–0.83",
+      "comparison": "Cả hai đều so với không ăn các loại hạt",
+      "population": "NEJM: 118,962 người tham gia, 27,429 ca tử vong; PREDIMED: 7,216 người trưởng thành có nguy cơ CVD cao, 323 ca tử vong",
+      "design": "Các đoàn hệ tiến cứu và phân tích quan sát trong một RCT",
+      "gradeReason": "Mối liên quan trực tiếp với ACM từ các đoàn hệ gộp hoặc một đoàn hệ lớn, chất lượng cao; không phải bằng chứng về quan hệ nhân quả",
+      "limitations": "Các nhóm lượng tiêu thụ không được phân bổ ngẫu nhiên; không thử nghiệm trực tiếp hạt sống so với hạt rang",
+      "action": "Tránh nếu dị ứng; chọn các loại hạt không muối, ít đường thêm vào để thay đồ ăn vặt khác giàu năng lượng.",
+      "sources": [
+        {
+          "evidence": "Tóm tắt, Kết quả: tần suất <1/1/2–4/5–6/≥7 lần/tuần, HR tương ứng 0.93/0.89/0.87/0.85/0.80; khoảng tin cậy của nhóm cao nhất 0.73–0.86."
+        },
+        {
+          "evidence": "Tóm tắt, Phương pháp/Kết quả: lượng tiêu thụ lúc ban đầu và các phép đo lặp lại hằng năm có liên quan đến tử vong; >3 khẩu phần/tuần HR 0.61 (0.45–0.83), 323 ca tử vong."
+        }
+      ]
+    },
+    "sodium-ecological": {
+      "factor": "Mối liên quan sinh thái giữa các quốc gia với lượng natri tiêu thụ",
+      "originalClaim": "Bản gốc nêu nghiên cứu sinh thái trên 181 quốc gia: với mỗi 1 g/ngày natri tăng thêm, tuổi thọ kỳ vọng khỏe mạnh khi sinh β=2.6 năm và tại tuổi 60 β=0.3 năm; ACM β=−131; ở 46 quốc gia thu nhập cao, β=3.4 năm và ACM β=−168.",
+      "finding": "Các giá trị β trong bản gốc khớp với tóm tắt, nhưng tương quan sinh thái cấp quốc gia không thể làm cơ sở để cá nhân ăn thêm muối. Các tác giả nêu rõ rằng không nên dùng những dữ liệu này cho can thiệp dinh dưỡng.",
+      "effect": "β −131 biến cố tử vong cho mỗi 1 g/ngày natri tiêu thụ cao hơn (hồi quy cấp quốc gia)",
+      "ci": "Không được báo cáo",
+      "comparison": "Lượng natri tiêu thụ trung bình so với các chỉ số tử vong chuẩn hóa theo tuổi trên 181 quốc gia; không phải HR cá nhân",
+      "population": "Dữ liệu tổng hợp năm 2010 từ 181 quốc gia; phân tích độ nhạy ở 46 quốc gia thu nhập cao",
+      "design": "Phân tích sinh thái cắt ngang",
+      "gradeReason": "Kết quả trên động vật, kết quả sinh thái hoặc kết cục không phải ACM không thể trực tiếp chứng minh tác động lên ACM của từng người",
+      "limitations": "Ngụy biện sinh thái; nhiễu do thu nhập quốc gia và chăm sóc y tế; sai số trong ước tính lượng tiêu thụ",
+      "action": "Không tăng natri để kéo dài tuổi thọ; điều chỉnh muối theo huyết áp, bệnh lý và chế độ ăn cá nhân.",
+      "sources": [
+        {
+          "evidence": "Tóm tắt, Phương pháp và kết quả: 181 quốc gia; ACM β −131, R² 0.60, P<0.001; kết luận cuối nêu rằng không nên dùng những dữ liệu quan sát này làm cơ sở cho can thiệp dinh dưỡng."
+        }
+      ]
+    },
+    "potassium-salt": {
+      "factor": "Thay muối thông thường bằng muối giảm natri, tăng kali",
+      "originalClaim": "Bản gốc nêu nhiều nghiên cứu cho thấy muối ít natri có thể giảm sự xuất hiện của bệnh và có tác dụng tích cực đối với giảm ACM.",
+      "finding": "SSaSS cung cấp bằng chứng trực tiếp ủng hộ ACM thấp hơn khi những người trưởng thành nông thôn thuộc nhóm nguy cơ cao cụ thể thay muối thông thường bằng muối 75% NaCl/25% KCl; không thể tách riêng đóng góp của giảm natri và bổ sung kali.",
+      "effect": "Tỷ số tỷ suất tử vong 0.88",
+      "ci": "Khoảng tin cậy 95% 0.82–0.95",
+      "comparison": "75% NaCl + 25% KCl so với 100% NaCl; 39.28 so với 44.61 trên 1,000 người-năm",
+      "population": "20,995 người tại 600 làng ở Trung Quốc; có tiền sử đột quỵ hoặc tuổi ≥60 kèm tăng huyết áp; thời gian theo dõi trung bình 4.74 năm",
+      "design": "Thử nghiệm ngẫu nhiên theo cụm, nhãn mở; ACM là tiêu chí đánh giá phụ",
+      "gradeReason": "Thử nghiệm ngẫu nhiên lớn với tiêu chí đánh giá ACM trực tiếp; phạm vi quần thể áp dụng được xác định rõ",
+      "limitations": "Quần thể nguy cơ cao đặc thù; nhãn mở; khả năng áp dụng hạn chế ở người mắc bệnh thận hoặc có nguy cơ tăng kali máu",
+      "action": "Người phù hợp, bao gồm người tăng huyết áp, có thể thay bằng muối giảm natri, tăng kali sau khi được nhân viên y tế xác nhận. Khi suy giảm chức năng thận, tăng kali máu hoặc dùng thuốc làm tăng kali, cần hỏi ý kiến trước thay vì tự đổi loại muối.",
+      "sources": [
+        {
+          "evidence": "Tóm tắt, Phương pháp/Kết quả: 20,995 người tham gia, 4.74 năm; tỷ suất ACM 39.28 so với 44.61 trên 1,000 người-năm, tỷ số tỷ suất 0.88 (0.82–0.95); tăng kali máu trên lâm sàng 1.04 (0.80–1.37)."
+        }
+      ]
+    },
+    "carbohydrate-share": {
+      "factor": "Tỷ trọng carbohydrate trong năng lượng nạp vào",
+      "originalClaim": "Bản gốc cho rằng lượng carbohydrate tiêu thụ càng thấp thì tuổi thọ càng ngắn; lượng cao hơn cũng làm tuổi thọ ngắn đi đôi chút; khoảng 50% năng lượng là khoảng có tuổi thọ dài nhất.",
+      "finding": "Nghiên cứu năm 2018 ủng hộ mối liên quan quan sát hình chữ U, với mức thấp nhất ở khoảng 50–55% năng lượng. Điều này không có nghĩa là ăn ít carbohydrate chắc chắn làm một cá nhân giảm tuổi thọ; nguồn chất béo/protein thay thế carbohydrate rất quan trọng.",
+      "effect": "Ít carbohydrate HR 1.20; nhiều carbohydrate HR 1.23",
+      "ci": "Khoảng tin cậy 95% 1.09–1.32; 1.11–1.36",
+      "comparison": "<40% và >70% năng lượng từ carbohydrate, mỗi nhóm đều so với lượng tiêu thụ vừa phải (các nhóm trong phân tích gộp); mức thấp nhất trong ARIC tại 50–55%",
+      "population": "ARIC: 15,428 người tham gia; tổng số trong phân tích gộp: 432,179",
+      "design": "Đoàn hệ tiến cứu kết hợp phân tích gộp các đoàn hệ",
+      "gradeReason": "Mối liên quan trực tiếp với ACM từ các đoàn hệ gộp hoặc một đoàn hệ lớn, chất lượng cao; không phải bằng chứng về quan hệ nhân quả",
+      "limitations": "Nghiên cứu quan sát và dữ liệu tự báo cáo; khác biệt về phân nhóm lượng tiêu thụ và thực phẩm thay thế; ước tính tuổi thọ kỳ vọng không phải can thiệp",
+      "action": "Ưu tiên chất lượng carbohydrate và tăng ngũ cốc nguyên hạt cùng đậu; chế độ ăn cho đái tháo đường hoặc chế độ ketogenic điều trị cần được cá nhân hóa.",
+      "sources": [
+        {
+          "evidence": "Tóm tắt, Phát hiện: ARIC có 15,428 người tham gia và tổng hợp gồm 432,179 người; ACM thấp nhất ở khoảng 50%–55% năng lượng từ carbohydrate; ít carbohydrate HR 1.20 (1.09–1.32), nhiều carbohydrate 1.23 (1.11–1.36); nguồn thay thế từ động vật và thực vật có chiều liên quan khác nhau."
+        }
+      ]
+    },
+    "betel-quid": {
+      "factor": "Hạt cau / miếng trầu",
+      "originalClaim": "Bản gốc cho rằng nhai hạt cau làm tăng tử vong do mọi nguyên nhân 21%.",
+      "finding": "ACM cao hơn 21% là nguy cơ tương đối gộp từ các nghiên cứu quan sát. Tính không đồng nhất cao; thành phần miếng trầu và việc đồng thời phơi nhiễm với thuốc lá, rượu ảnh hưởng đến cách diễn giải.",
+      "effect": "RR 1.21",
+      "ci": "Khoảng tin cậy 95% 1.04–1.42",
+      "comparison": "Người nhai hạt cau/miếng trầu so với người không nhai",
+      "population": "Phân tích ACM: 179,582 người tham gia, 5 nhóm so sánh trong các nghiên cứu tại châu Á",
+      "design": "Tổng quan hệ thống/phân tích gộp các nghiên cứu quan sát",
+      "gradeReason": "Một đoàn hệ hoặc có nhiễu/tính không đồng nhất đáng kể; bằng chứng trực tiếp về ACM còn hạn chế",
+      "limitations": "I² 85%; khác biệt về thành phần sản phẩm và nhiễu còn sót lại do hút thuốc/uống rượu; không ngẫu nhiên hóa",
+      "action": "Tránh hoặc ngừng sử dụng hạt cau/miếng trầu; không có thuốc lá không có nghĩa là an toàn. Tìm hỗ trợ cai nếu bị lệ thuộc.",
+      "sources": [
+        {
+          "evidence": "Toàn văn, Tử vong do mọi nguyên nhân: 5 nhóm so sánh, N=179,582, RR 1.21 (1.04–1.42), I² 85%, tính không đồng nhất P<0.001."
+        }
+      ]
+    },
+    "calorie-restriction": {
+      "factor": "Hạn chế calo (linh trưởng không phải người)",
+      "originalClaim": "Bản gốc nêu về hạn chế calo ở khỉ rhesus: nhóm đối chứng được cho ăn bình thường có nguy cơ mắc bệnh gấp 2.9 lần và nguy cơ tử vong gấp 3.0 lần.",
+      "finding": "Con số tử vong gấp ba lần trong bản gốc liên quan đến tử vong do tuổi tác trong một nghiên cứu trước đó ở khỉ rhesus, không phải ACM ở người. Bản cập nhật năm 2014 của cùng dự án báo cáo HR tử vong do mọi nguyên nhân giữa nhóm đối chứng/CR là 1.78 và HR tử vong liên quan đến tuổi tác là 2.89. Mức độ kéo dài tuổi thọ ở người chưa được chứng minh.",
+      "effect": "HR tử vong do mọi nguyên nhân ở khỉ 1.78 (đối chứng/CR)",
+      "ci": "Khoảng tin cậy 95% 1.04–3.04",
+      "comparison": "Cho ăn bình thường so với hạn chế calo khoảng 30%",
+      "population": "UW: 76 khỉ rhesus; nghiên cứu riêng ở khỉ của NIA ban đầu không thấy khác biệt có ý nghĩa thống kê về sống còn",
+      "design": "Can thiệp dài hạn trên động vật",
+      "gradeReason": "Kết quả trên động vật, kết quả sinh thái hoặc kết cục không phải ACM không thể trực tiếp chứng minh tác động lên ACM của từng người",
+      "limitations": "Không thể ngoại suy kết quả trên động vật sang người; các trung tâm khác nhau về thức ăn, tuổi và lượng ăn của nhóm đối chứng",
+      "action": "Tránh ăn quá mức nhưng vẫn bảo đảm đủ dinh dưỡng. Người thiếu cân, đang mang thai/cho con bú, người chưa thành niên, người cao tuổi suy yếu hoặc người có rối loạn ăn uống không nên tự hạn chế calo.",
+      "sources": [
+        {
+          "evidence": "Tóm tắt nghiên cứu gốc trên Europe PMC (Phương pháp/Kết quả/Phát hiện); đã lưu JSON gốc: tóm tắt năm 2009 mô tả nghiên cứu 20 năm trên động vật với ít ca tử vong liên quan đến tuổi tác hơn, không phải ACM ở người."
+        },
+        {
+          "evidence": "Toàn văn, Kết quả: ACM đối chứng/CR HR 1.78 (1.04–3.04), P=0.037; HR liên quan đến tuổi tác 2.89 (1.34–6.25); phần Đặt vấn đề phân biệt với con số tử vong gấp 3.0 lần trước đó."
+        }
+      ]
+    },
+    "macronutrient-pattern": {
+      "factor": "Dinh dưỡng tổng thể và tỷ lệ các chất dinh dưỡng đa lượng",
+      "originalClaim": "Bản gốc khẳng định tỷ lệ tối ưu áp dụng cho mọi người: <24% tinh bột, 15%–17% protein, >15% chất béo không bão hòa đơn, <15% đường, 6% chất béo bão hòa và 6% chất béo không bão hòa đa, cùng 30 g+ chất xơ; đồng thời mô tả mối liên quan tuyến tính giữa tổng chất béo và ACM.",
+      "finding": "Trong bài báo, tổng chất béo không có mối liên quan có ý nghĩa thống kê với ACM; nghiên cứu không cho thấy mọi chất béo đều có hại theo quan hệ tuyến tính. Ma trận nguy cơ mô tả các tổ hợp trong dữ liệu quan sát, không phải một mức tối ưu chung. Các khoảng thấp nhất trên đường cong của từng chất dinh dưỡng gồm chất xơ 15–30 g/ngày, protein 14–18% và tinh bột 20–30%, khác với một số khoảng ban đầu và các “tỷ lệ tối ưu” chính xác được nêu.",
+      "effect": "Ví dụ: chất xơ 15–30 g/ngày HR 0.68; protein 14–18% HR 0.73",
+      "ci": "Khoảng tin cậy 95% 0.65–0.72; 0.70–0.75",
+      "comparison": "Chất xơ so với 5 g/ngày; protein so với 10% năng lượng; mỗi chất dinh dưỡng có mức tham chiếu riêng",
+      "population": "UK Biobank: 195,658 người tham gia, 4,780 ca tử vong, trung bình 10.6 năm",
+      "design": "Đoàn hệ tiến cứu lớn với mô hình hóa phi tuyến",
+      "gradeReason": "Mối liên quan trực tiếp với ACM từ các đoàn hệ gộp hoặc một đoàn hệ lớn, chất lượng cao; không phải bằng chứng về quan hệ nhân quả",
+      "limitations": "Tự báo cáo hồi tưởng ăn uống trong 24 giờ, sai lệch chọn mẫu và nhiễu còn sót lại; kết hợp các mức thấp nhất của những đường cong riêng không tạo ra một chỉ định đã được kiểm chứng",
+      "action": "Xây dựng chế độ ăn dựa trên chất lượng thực phẩm tổng thể thay vì tỷ lệ chính xác các chất dinh dưỡng đa lượng; tuân theo kế hoạch dinh dưỡng y khoa khi mắc bệnh thận, đái tháo đường và bệnh tương tự.",
+      "sources": [
+        {
+          "evidence": "Toàn văn, Kết quả/Hình 1: tổng chất béo không có liên quan có ý nghĩa thống kê; chất xơ 15–30 g/ngày so với 5 g/ngày HR 0.68 (0.65–0.72); protein 14–18% so với 10% HR 0.73 (0.70–0.75). Phương pháp: các nhóm trong ma trận nguy cơ không phải so sánh chế độ ăn được phân bổ ngẫu nhiên."
+        }
+      ]
+    },
+    "ultraprocessed-acm": {
+      "factor": "Thực phẩm siêu chế biến và ACM",
+      "originalClaim": "Phần hành động trong bản gốc nêu: ăn ít thực phẩm siêu chế biến hơn, −62% đến −18%; tiêu đề được trích dẫn khẳng định người thường xuyên ăn khoai tây chiên, bánh burger và sô-cô-la có “tuổi tử vong trung bình chỉ 58.”",
+      "finding": "SUN ủng hộ mối liên quan giữa nhóm tiêu thụ cao nhất với ACM cao hơn 62%. Con số 58 năm là tuổi trung bình của những người tử vong trong mẫu; không có nghĩa là người thường xuyên tiêu thụ có tuổi thọ kỳ vọng 58 hoặc UPF gây ra cái chết của họ.",
+      "effect": "HR 1.62; mỗi 1 khẩu phần/ngày ăn thêm HR 1.18",
+      "ci": "Khoảng tin cậy 95% 1.13–2.33; 1.05–1.33",
+      "comparison": "Nhóm tứ phân vị cao nhất so với thấp nhất; nhóm cao nhất >4 khẩu phần/ngày",
+      "population": "Người tốt nghiệp đại học tại Tây Ban Nha trong SUN: 19,899 người tham gia, 335 ca tử vong, 200,432 người-năm",
+      "design": "Đoàn hệ tiến cứu",
+      "gradeReason": "Một đoàn hệ hoặc có nhiễu/tính không đồng nhất đáng kể; bằng chứng trực tiếp về ACM còn hạn chế",
+      "limitations": "Chỉ 335 ca tử vong; mẫu chọn lọc có trình độ học vấn cao; nhiễu do chế độ ăn; khoảng tin cậy rộng",
+      "action": "Thay một phần UPF bằng thực phẩm nguyên dạng ít chế biến hơn, đồng thời bảo đảm đủ dinh dưỡng và khả năng chi trả.",
+      "sources": [
+        {
+          "evidence": "Toàn văn, Kết quả: 335 ca tử vong; tuổi tử vong trung bình 58.0 (SD 15.6); HR nhóm cao nhất/thấp nhất 1.62 (1.13–2.33); mỗi khẩu phần HR 1.18 (1.05–1.33)."
+        }
+      ]
+    },
+    "ultraprocessed-cvd": {
+      "factor": "Thực phẩm siêu chế biến (giới hạn về tiêu chí đánh giá của các nguồn CVD)",
+      "originalClaim": "Mục thực phẩm siêu chế biến trong bản gốc liệt kê chung nghiên cứu tử vong do mọi nguyên nhân SUN, nghiên cứu mới mắc bệnh tim mạch NutriNet-Santé và một bài bình luận.",
+      "finding": "Nghiên cứu NutriNet-Santé xem xét CVD mới mắc, không phải ACM. Lawrence/Baker là bài bình luận, không có bằng chứng định lượng độc lập về ACM. Không nên tính các nguồn này cùng SUN thành ba nghiên cứu về tử vong.",
+      "effect": "CVD HR 1.12; không đánh giá ACM",
+      "ci": "CVD khoảng tin cậy 95% 1.05–1.20; không báo cáo ACM",
+      "comparison": "Mỗi mức tăng 10 điểm phần trăm về tỷ trọng UPF trong chế độ ăn",
+      "population": "Pháp: 105,159 người trưởng thành, 1,409 biến cố CVD, trung vị 5.2 năm",
+      "design": "Đoàn hệ tiến cứu (CVD); bài bình luận",
+      "gradeReason": "Kết quả trên động vật, kết quả sinh thái hoặc kết cục không phải ACM không thể trực tiếp chứng minh tác động lên ACM của từng người",
+      "limitations": "Tiêu chí đánh giá không phải ACM; không truy cập được PDF gốc của bài bình luận, chỉ kiểm tra thông tin thư mục",
+      "action": "Các nguồn này có thể ủng hộ định hướng ăn uống tổng thể là giảm UPF, nhưng không thể dùng bài báo này để tính nguy cơ tử vong.",
+      "sources": [
+        {
+          "evidence": "Tóm tắt, Tiêu chí đánh giá chính/Kết quả: CVD mới mắc, HR 1.12 (1.05–1.20) cho mỗi mức tăng 10 điểm phần trăm về tỷ trọng UPF; không báo cáo ACM."
+        },
+        {
+          "evidence": "Bản ghi thư mục Europe PMC PMID 31142449: Ultra-processed food and adverse health outcomes, 2019, BMJ l2289; không có tóm tắt, liên kết RG gốc trả về 403; chưa đọc toàn văn bài bình luận."
+        }
+      ]
+    },
+    "whole-grains": {
+      "factor": "Ngũ cốc nguyên hạt",
+      "originalClaim": "Yếu tố này không có trong kho lưu trữ gốc.",
+      "finding": "Lượng ngũ cốc nguyên hạt ăn vào cao hơn có liên quan đến ACM thấp hơn. Nghiên cứu đo khối lượng thực phẩm từ ngũ cốc nguyên hạt; 90 g không có nghĩa là 90 g hạt ngũ cốc khô hoặc chất xơ.",
+      "effect": "RR 0.83",
+      "ci": "95% CI 0.77–0.90",
+      "comparison": "Mỗi 90 g/ngày thực phẩm từ ngũ cốc nguyên hạt ăn thêm (khoảng 3 khẩu phần)",
+      "population": "11 nghiên cứu tiến cứu được gộp để phân tích ACM; 45 nghiên cứu trong toàn bộ tổng quan",
+      "design": "Phân tích gộp mối quan hệ liều–đáp ứng từ các nghiên cứu tiến cứu",
+      "gradeReason": "Mối liên quan trực tiếp với ACM từ các đoàn hệ được gộp hoặc một đoàn hệ lớn, chất lượng cao; không phải bằng chứng về quan hệ nhân quả",
+      "limitations": "ACM I² 83%; nghiên cứu quan sát; định nghĩa khẩu phần thực phẩm không đồng nhất",
+      "action": "Dần thay ngũ cốc tinh chế bằng ngũ cốc nguyên hạt. Người mắc bệnh celiac nên chọn ngũ cốc nguyên hạt không chứa gluten; điều chỉnh theo khả năng dung nạp của đường tiêu hóa.",
+      "sources": [
+        {
+          "evidence": "Tóm tắt, Kết quả: ACM với mỗi 90 g/ngày, RR 0.83 (0.77–0.90), I² 83%, 11 nghiên cứu; ví dụ về 90 g là hai lát bánh mì và một bát ngũ cốc."
+        }
+      ]
+    },
+    "dietary-fiber": {
+      "factor": "Chất xơ trong chế độ ăn",
+      "originalClaim": "Yếu tố này không có trong kho lưu trữ gốc.",
+      "finding": "Tổng quan ủng hộ mối liên quan giữa lượng chất xơ ăn vào cao hơn và ACM thấp hơn. Khoảng 15–30% trong tóm tắt bao gồm nhiều kết cục, không phải mức tác động chính xác riêng cho ACM. Các RCT cho thấy sự cải thiện các yếu tố nguy cơ chứ không phải giảm số ca tử vong.",
+      "effect": "Chiều hướng liên quan với ACM: thấp hơn; tóm tắt không đưa ra ước tính gộp chính xác riêng cho ACM",
+      "ci": "Không được báo cáo",
+      "comparison": "Mức tiêu thụ chất xơ cao nhất so với thấp nhất; nguy cơ thấp hơn 15–30% trên một số kết cục",
+      "population": "185 nghiên cứu tiến cứu và 58 thử nghiệm; 4,635 người tham gia thử nghiệm",
+      "design": "Các tổng quan hệ thống và phân tích gộp (ACM từ các đoàn hệ)",
+      "gradeReason": "Mối liên quan trực tiếp với ACM từ các đoàn hệ được gộp hoặc một đoàn hệ lớn, chất lượng cao; không phải bằng chứng về quan hệ nhân quả",
+      "limitations": "Bằng chứng về ACM không được ngẫu nhiên hóa; không suy ra CI của ACM từ khoảng chung",
+      "action": "Dần tăng chất xơ từ ngũ cốc nguyên hạt, các loại đậu, rau và trái cây, đồng thời chú ý lượng nước uống; tuân theo tư vấn y tế nếu có hẹp ruột hoặc bệnh tiêu hóa cấp tính.",
+      "sources": [
+        {
+          "evidence": "Tóm tắt, Phát hiện: 185 đoàn hệ, 58 thử nghiệm lâm sàng; dữ liệu quan sát cho thấy mức giảm 15–30% trên một số kết cục, với lợi ích lớn hơn ở khoảng 25–29 g/ngày. Các thử nghiệm báo cáo cân nặng/huyết áp/cholesterol, không phải ACM."
+        }
+      ]
+    },
+    "plant-protein": {
+      "factor": "Nguồn protein thực vật",
+      "originalClaim": "Yếu tố này không có trong kho lưu trữ gốc.",
+      "finding": "Lượng protein thực vật ăn vào cao hơn có liên quan đến ACM thấp hơn. Loại thực phẩm được thay thế có vai trò quan trọng; không thể diễn giải đây là tác dụng can thiệp của việc bổ sung bột protein.",
+      "effect": "Cỡ hiệu ứng gộp 0.92",
+      "ci": "95% CI 0.87–0.97",
+      "comparison": "Lượng protein thực vật ăn vào cao nhất so với thấp nhất",
+      "population": "32 đoàn hệ được tổng quan, 31 được gộp; 715,128 người tham gia, 113,039 ca tử vong",
+      "design": "Tổng quan hệ thống/phân tích gộp mối quan hệ liều–đáp ứng từ các đoàn hệ tiến cứu",
+      "gradeReason": "Mối liên quan trực tiếp với ACM từ các đoàn hệ được gộp hoặc một đoàn hệ lớn, chất lượng cao; không phải bằng chứng về quan hệ nhân quả",
+      "limitations": "Tính không đồng nhất I² 57.5%; nhiễu còn sót lại; khó tách biệt tác động của thực phẩm toàn phần khỏi thành phần protein",
+      "action": "Thay một phần thịt đỏ/thịt chế biến sẵn bằng các loại đậu, thực phẩm từ đậu nành và các loại hạt; điều chỉnh theo nhu cầu cá nhân nếu bị dị ứng hoặc bệnh thận.",
+      "sources": [
+        {
+          "evidence": "Tóm tắt, Kết quả: protein thực vật và ACM, cỡ hiệu ứng gộp 0.92 (0.87–0.97), I² 57.5%; mỗi 3% năng lượng bổ sung có liên quan đến ACM thấp hơn 5%; tóm tắt không đưa ra CI cho ước tính theo liều đó."
+        }
+      ]
+    },
+    "dairy": {
+      "factor": "Sản phẩm từ sữa / sữa",
+      "originalClaim": "* Sữa\n  * [Nghiên cứu của The Lancet trên 130,000 người ở 21 quốc gia: 500 g sữa hoặc sữa chua mỗi ngày làm giảm 23% nguy cơ tử vong do tim mạch](https://www.sohu.com/a/253940257_419768)\n  * Nguồn: [Association of dairy intake with cardiovascular disease and mortality in 21 countries from five continents (PURE): a prospective cohort study](http://mdrf-eprints.in/1114/1/Association_of_dietary_patterns_and_dietary_diversity_with_cardiometabolic_disease_risk_factors.pdf)\n  * So với người không dùng sản phẩm từ sữa, người dùng hai khẩu phần mỗi ngày (một khẩu phần nghĩa là 244 g sữa/sữa chua, 15 g phô mai hoặc 5 g bơ) có **nguy cơ tử vong do mọi nguyên nhân thấp hơn 17%**, nguy cơ tử vong do tim mạch thấp hơn 23% và nguy cơ đột quỵ thấp hơn 33%\nPhần hành động trong bản gốc: uống sữa (−17% đến −10% ACM)",
+      "finding": "Con số 17% của PURE là mối liên quan với ACM khi dùng tổng sản phẩm từ sữa >2 khẩu phần/ngày so với không dùng, không phải tác dụng của riêng sữa hoặc của đúng 2 khẩu phần. 95% CI của HR 0.77 đối với tử vong do tim mạch bao gồm 1, nên không thể khẳng định mức giảm 23% là lợi ích đã được xác lập. Các tổng quan khác không tìm thấy mối liên quan nhất quán giữa tổng sản phẩm từ sữa hoặc sữa với ACM; không nên hứa hẹn uống sữa sẽ kéo dài tuổi thọ. Không truy cập được PDF gốc, và tên tệp không khớp với tiêu đề được trích dẫn, gợi ý đường dẫn sai.",
+      "effect": "HR 0.83",
+      "ci": "95% CI 0.72–0.96",
+      "comparison": "Tổng sản phẩm từ sữa >2 khẩu phần/ngày so với 0; không phải riêng sữa",
+      "population": "136,384 người tại 21 quốc gia, tuổi 35–70; trung vị thời gian theo dõi 9.1 năm; 6,796 ca tử vong",
+      "design": "Đoàn hệ tiến cứu PURE; kiểm tra thêm một tổng quan gồm 8 phân tích gộp",
+      "gradeReason": "Đoàn hệ đa quốc gia lớn với kết cục ACM trực tiếp; kết quả không nhất quán giữa các đoàn hệ gộp khác không cho phép suy luận nhân quả",
+      "limitations": "Sai số của bảng câu hỏi tần suất thực phẩm (FFQ) và nhiễu còn sót lại do thu nhập và mô hình ăn uống; loại sản phẩm từ sữa và thực phẩm thay thế có vai trò quan trọng. HR 0.90 khi dùng sữa >1 khẩu phần liên quan đến kết cục gộp tử vong/CVD, không phải ACM riêng cho sữa.",
+      "action": "Chọn sữa hoặc sữa chua không thêm đường theo nhu cầu dinh dưỡng; dùng sản phẩm thay thế phù hợp nếu không dung nạp lactose hoặc dị ứng sữa, thay vì ép tăng lượng dùng để kéo dài tuổi thọ.",
+      "sources": [
+        {
+          "evidence": "Tóm tắt, Phương pháp/Phát hiện: tổng sản phẩm từ sữa >2 khẩu phần/ngày so với không dùng, ACM 0.83 (0.72–0.96); tử vong do tim mạch 0.77 (0.58–1.01)."
+        },
+        {
+          "evidence": "Tóm tắt: 8 phân tích gộp; khoảng RR 0.99–1.01 cho mỗi 200–244 g sữa; kết luận không tìm thấy mối liên quan với ACM."
+        }
+      ]
+    },
+    "tea-china-par": {
+      "factor": "Trà (China-PAR)",
+      "originalClaim": "* Trà\n  * [Theo dõi 100,000 người Trung Quốc trong 7 năm cho thấy uống trà ba lần/tuần có liên quan đến nguy cơ tử vong do mọi nguyên nhân thấp hơn 15% và tuổi thọ kỳ vọng dài hơn 1.26 năm ](https://www.jianshu.com/p/5461a205cf95?utm_campaign=hugo)\n  * Nguồn: [Tea consumption and the risk of atherosclerotic cardiovascular disease and all-cause mortality: The China-PAR project](https://www.researchgate.net/profile/Fangchao-Liu-4/publication/338483323_Tea_consumption_and_the_risk_of_atherosclerotic_cardiovascular_disease_and_all-cause_mortality_The_China-PAR_project/links/5e55e5e94585152ce8efe511/Tea-consumption-and-the-risk-of-atherosclerotic-cardiovascular-disease-and-all-cause-mortality-The-China-PAR-project.pdf)\n  * [Nghiên cứu tiến cứu về tiêu thụ trà và nguy cơ tử vong ở người trưởng thành Trung Quốc](http://rs.yiigle.com/CN112338202202/1351516.htm)\n  * Trong 438,443 người tham gia được phân tích, có 34,661 ca tử vong trong 11.1 năm. So với người chưa từng uống trà, người hiện uống trà không hằng ngày và hằng ngày có HR tử vong do mọi nguyên nhân (95% CI) lần lượt là 0.89 (0.86–0.91) và 0.92 (0.88–0.95). Phân tích phân tầng theo giới cho thấy mối liên quan mang tính bảo vệ chủ yếu ở nam giới (P tương tác<0.05).\nPhần hành động trong bản gốc: uống trà (−15% đến −8% ACM)",
+      "finding": "Uống trà thường xuyên có liên quan đến ACM thấp hơn; định nghĩa ≥3 lần/tuần lấy từ phần nội dung chính. Tuổi thọ kỳ vọng dài hơn 1.26 năm ở tuổi 50 là ước tính từ mô hình, không phải một can thiệp cho thấy mọi người đều sống lâu hơn 1.26 năm nhờ uống trà.",
+      "effect": "HR 0.85",
+      "ci": "95% CI 0.79–0.90",
+      "comparison": "≥3 lần/tuần so với không bao giờ hoặc <3 lần/tuần",
+      "population": "Trung Quốc: 100,902 người trưởng thành; trung vị 7.3 năm; 5,479 ca tử vong",
+      "design": "Gộp ba đoàn hệ tiến cứu China-PAR",
+      "gradeReason": "Nhiều đoàn hệ và cỡ mẫu lớn với ACM trực tiếp; chiều hướng tương tự CKB, nhưng là nghiên cứu quan sát",
+      "limitations": "Lượng trà tiêu thụ do người tham gia tự báo cáo; nhiễu còn sót lại do hút thuốc, rượu bia, tình trạng kinh tế xã hội và hành vi sức khỏe; kích thước cốc, độ đậm và loại trà không tương đương; chênh lệch tuổi thọ kỳ vọng được ước tính từ mô hình.",
+      "action": "Nếu thích và dung nạp được, hãy chọn trà không đường, không nóng bỏng. Giảm lượng uống nếu bị mất ngủ, hồi hộp hoặc cần hạn chế caffeine; trà không thay thế việc cai thuốc lá hay điều trị.",
+      "sources": [
+        {
+          "evidence": "Tóm tắt, Kết quả: ACM 0.85 (0.79–0.90), chênh lệch tuổi thọ kỳ vọng ở tuổi 50 là 1.26 năm; phần Phương pháp trong nội dung chính định nghĩa uống trà là ≥3 lần/tuần (web-jama-tea-extract.json)."
+        }
+      ]
+    },
+    "tea-ckb": {
+      "factor": "Trà (CKB)",
+      "originalClaim": "* Trà\n  * [Theo dõi 100,000 người Trung Quốc trong 7 năm cho thấy uống trà ba lần/tuần có liên quan đến nguy cơ tử vong do mọi nguyên nhân thấp hơn 15% và tuổi thọ kỳ vọng dài hơn 1.26 năm ](https://www.jianshu.com/p/5461a205cf95?utm_campaign=hugo)\n  * Nguồn: [Tea consumption and the risk of atherosclerotic cardiovascular disease and all-cause mortality: The China-PAR project](https://www.researchgate.net/profile/Fangchao-Liu-4/publication/338483323_Tea_consumption_and_the_risk_of_atherosclerotic_cardiovascular_disease_and_all-cause_mortality_The_China-PAR_project/links/5e55e5e94585152ce8efe511/Tea-consumption-and-the-risk-of-atherosclerotic-cardiovascular-disease-and-all-cause-mortality-The-China-PAR-project.pdf)\n  * [Nghiên cứu tiến cứu về tiêu thụ trà và nguy cơ tử vong ở người trưởng thành Trung Quốc](http://rs.yiigle.com/CN112338202202/1351516.htm)\n  * Trong 438,443 người tham gia được phân tích, có 34,661 ca tử vong trong 11.1 năm. So với người chưa từng uống trà, người hiện uống trà không hằng ngày và hằng ngày có HR tử vong do mọi nguyên nhân (95% CI) lần lượt là 0.89 (0.86–0.91) và 0.92 (0.88–0.95). Phân tích phân tầng theo giới cho thấy mối liên quan mang tính bảo vệ chủ yếu ở nam giới (P tương tác<0.05).\nPhần hành động trong bản gốc: uống trà (−15% đến −8% ACM)",
+      "finding": "Cỡ mẫu, số ca tử vong và hai HR trong bản gốc là chính xác; mối liên quan mang tính bảo vệ chủ yếu ở nam giới. Uống hằng ngày không cho thấy ưu thế so với uống không hằng ngày; không thể trực tiếp coi uống trà thường xuyên hơn đồng nghĩa với sống lâu hơn.",
+      "effect": "HR 0.89 (không hằng ngày); 0.92 (hằng ngày)",
+      "ci": "95% CI tương ứng 0.86–0.91; 0.88–0.95",
+      "comparison": "Hiện uống trà không hằng ngày/hằng ngày so với chưa từng uống",
+      "population": "CKB Trung Quốc: 438,443 người; trung vị 11.1 năm; 34,661 ca tử vong",
+      "design": "Nghiên cứu đoàn hệ tiến cứu",
+      "gradeReason": "Đoàn hệ Trung Quốc lớn, chất lượng cao, được một đoàn hệ lớn khác ủng hộ về chiều hướng; không ngẫu nhiên hóa",
+      "limitations": "Tương tác theo giới P<0.05; hút thuốc và rượu bia có thể gây nhiễu các kết cục ung thư; lượng trà tiêu thụ ban đầu do người tham gia tự báo cáo; không chứng minh lợi ích nhân quả cho từng cá nhân.",
+      "action": "Chọn trà không đường ở nhiệt độ phù hợp; trà không thể bù trừ nguy cơ do hút thuốc hoặc uống quá nhiều rượu bia.",
+      "sources": [
+        {
+          "evidence": "Tóm tắt, Kết quả và phần tóm tắt trên trang toàn văn của tạp chí: không hằng ngày 0.89 (0.86–0.91), hằng ngày 0.92 (0.88–0.95); mối liên quan mang tính bảo vệ chủ yếu ở nam giới."
+        }
+      ]
+    },
+    "artificially-sweetened-drinks": {
+      "factor": "Nước giải khát dùng chất tạo ngọt nhân tạo",
+      "originalClaim": "* Đồ uống không đường (có chất tạo ngọt)\n  * [“Đồ uống không đường làm tăng 26% nguy cơ tử vong”: có đúng không?](https://www.zhihu.com/question/418598272/answer/1450648364)\n    * So với người uống nước giải khát <1 cốc/tháng, người uống tổng các loại nước giải khát ≥1 cốc/ngày có nguy cơ tử vong cao hơn 18%; **nước giải khát có đường và không đường làm tăng nguy cơ tử vong lần lượt 11% và 27%.**\n    * ![Đồ uống](https://user-images.githubusercontent.com/2707039/163704346-e7d92e7f-eba5-4673-8f15-3a96782c2e32.png)\n  * [Association Between Soft Drink Consumption and Mortality in 10 European Countries](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2749350)",
+      "finding": "Các con số 18%, 11% và 27% trong bản gốc có xuất hiện trong nội dung chính, nhưng liên quan đến phân nhóm BMI<25 và ≥1 cốc/ngày so với <1 cốc/tháng; bản gốc bỏ qua giới hạn quần thể này. Trong toàn bộ đoàn hệ, HR của ACM ở mức ≥2 cốc/ngày là 1.17, 1.08 và 1.26 lần lượt cho tổng nước giải khát, nước giải khát có đường và nước giải khát dùng chất tạo ngọt nhân tạo. Nghiên cứu quan sát này không thể xác lập rằng chất tạo ngọt gây tử vong, cũng không thể áp dụng cho nước lọc hoặc trà/cà phê không đường.",
+      "effect": "HR 1.26 (toàn bộ đoàn hệ, dùng chất tạo ngọt nhân tạo); 1.27 (phân nhóm BMI<25)",
+      "ci": "95% CI 1.16–1.35; 1.12–1.43",
+      "comparison": "Toàn bộ đoàn hệ: ≥2 cốc/ngày so với <1 cốc/tháng; phân nhóm BMI<25: ≥1 cốc/ngày so với <1 cốc/tháng; một cốc ≈250 mL",
+      "population": "EPIC: 451,743 người tại 10 quốc gia châu Âu; trung bình 16.4 năm; 41,693 ca tử vong",
+      "design": "Nghiên cứu đoàn hệ tiến cứu đa quốc gia",
+      "gradeReason": "Đoàn hệ đa quốc gia lớn với ACM trực tiếp, nhưng có khả năng nhân quả ngược và sai lệch chọn mẫu liên quan đến tình trạng sức khỏe đáng kể",
+      "limitations": "Người béo phì hoặc có nguy cơ chuyển hóa có thể chuyển sang đồ uống dùng chất tạo ngọt nhân tạo; chỉ đo bằng FFQ một lần lúc ban đầu; không thể quy tác động riêng cho từng chất tạo ngọt; không phải thử nghiệm ngẫu nhiên về việc thay thế đồ uống có đường.",
+      "action": "Ưu tiên nước lọc hoặc trà/cà phê không đường để bổ sung nước thường ngày. Người đang chuyển từ đồ uống có đường sang đồ uống dùng chất tạo ngọt nhân tạo không nên quay lại đồ uống có đường chỉ dựa vào đoàn hệ này.",
+      "sources": [
+        {
+          "evidence": "Tóm tắt, Kết quả: dùng chất tạo ngọt nhân tạo ≥2 cốc/ngày HR 1.26 (1.16–1.35); phần Kết quả trong nội dung chính, Tử vong do mọi nguyên nhân, đoạn 3: phân nhóm BMI<25, ≥1 cốc/ngày, ba nhóm đồ uống HR 1.18/1.11/1.27 (web-jama-tea-extract.json)."
+        }
+      ]
+    },
+    "sugar-sweetened-drinks": {
+      "factor": "Đồ uống có đường",
+      "originalClaim": "* Đồ uống có đường\n  * [Cola và trà sữa làm tăng tử vong do mọi nguyên nhân tới 62%! Nước ép làm giảm miễn dịch và ảnh hưởng chuyển hóa ở gan! Về đồ uống có đường](https://zhuanlan.zhihu.com/p/400746073)\n    * Một cốc đồ uống có đường mỗi ngày làm tăng 7% tử vong do mọi nguyên nhân; hai cốc làm tăng 21%\n    * Qua 34 năm theo dõi, các nhà nghiên cứu nhận thấy so với người uống một cốc hoặc ít hơn mỗi tháng, người uống hai cốc mỗi ngày có nguy cơ tử vong chung cao hơn 21%, nguy cơ tử vong do tim mạch cao hơn 31% và nguy cơ tử vong do ung thư cao hơn 16%.\n    * Mỗi cốc đồ uống có đường uống thêm hằng ngày làm tăng 7% nguy cơ tử vong chung, 10% nguy cơ bệnh tim mạch và 16% nguy cơ tử vong liên quan đến ung thư.\n    * Một bài báo đăng trên BMJ đã chứng minh đồ uống có đường làm tăng nguy cơ ung thư; nghiên cứu không chỉ bao gồm nước ép mà cả trà sữa: nguy cơ ung thư chung liên quan đến đồ uống có đường cao hơn bình thường 18%, và nước ép tươi nguyên chất 100% cũng làm tăng 12% nguy cơ ung thư chung.\nPhần hành động trong bản gốc: hạn chế hoặc tránh đồ uống có chất tạo ngọt (nếu không, một cốc mỗi ngày +7% ACM, +dopamine)",
+      "finding": "Hai đoàn hệ Hoa Kỳ ủng hộ mối liên quan giữa ≥2 khẩu phần/ngày so với <1 khẩu phần/tháng và ACM cao hơn 21%, tử vong do CVD cao hơn 31%, tử vong do ung thư cao hơn 16%. Đã đọc PDF bài báo gốc: mô hình liên tục cho HR của ACM là 1.07 với mỗi 1 khẩu phần/ngày tăng thêm; HR phân loại cho 1 đến <2 khẩu phần/ngày là 1.14, và hai giá trị này không thể dùng thay nhau. Tử vong do ung thư cao hơn 5% với mỗi 1 khẩu phần/ngày tăng thêm; bản gốc ghi sai thành 16%, vốn thuộc phép so sánh nhóm có lượng tiêu thụ cao nhất. Các con số 18% và 12% của BMJ liên quan đến mắc mới ung thư, không phải ACM. Không tìm thấy ước tính đã điều chỉnh đầy đủ tương ứng với tiêu đề “tới 62%”.",
+      "effect": "HR 1.21 (≥2 khẩu phần/ngày); 1.14 (1 đến <2 khẩu phần/ngày); 1.07 (mỗi 1 khẩu phần/ngày tăng thêm)",
+      "ci": "95% CI tương ứng 1.13–1.28; 1.09–1.19; 1.05–1.09",
+      "comparison": "Đồ uống có đường ≥2 khẩu phần/ngày so với <1 khẩu phần/tháng; riêng biệt, mô hình liên tục cho mỗi 1 khẩu phần/ngày tăng thêm",
+      "population": "NHS Hoa Kỳ: 80,647 phụ nữ; HPFS: 37,716 nam giới; tối đa 34 năm; 36,436 ca tử vong",
+      "design": "Hai đoàn hệ tiến cứu",
+      "gradeReason": "Hai đoàn hệ lớn với đo lường chế độ ăn lặp lại và ACM trực tiếp; vẫn không phải thử nghiệm xác lập nhân quả",
+      "limitations": "Chủ yếu là nhân viên y tế; lượng tiêu thụ tự báo cáo; nhiễu còn sót lại; cốc/khẩu phần không thể dùng thay nhau giữa các nghiên cứu; mô hình liên tục theo mỗi cốc và mô hình phân loại khác nhau. Bài báo ung thư trên BMJ liên quan đến mắc mới với mỗi 100 mL/ngày, không phải tử vong.",
+      "action": "Giảm nước giải khát có đường thông thường, trà sữa có đường và đồ uống tương tự, thay bằng nước lọc; các ngưỡng liều trong nghiên cứu không phải ranh giới an toàn.",
+      "sources": [
+        {
+          "evidence": "Tóm tắt và phần Kết quả/Bảng 2, 3 của bài báo gốc (bản sao PDF sugar-drinks-mirror.pdf và văn bản): ≥2 khẩu phần/ngày ACM 1.21 (1.13–1.28); với mỗi 1 khẩu phần/ngày tăng thêm, ACM 1.07 (1.05–1.09), tử vong do CVD 1.10 (1.06–1.14), tử vong do ung thư 1.05 (1.02–1.08). Bản sao lưu giữ bài báo gốc; nội dung đưa tin của trang web lưu bản sao không phải cơ sở bằng chứng."
+        },
+        {
+          "evidence": "Tóm tắt, Kết quả: mắc mới ung thư với mỗi 100 mL/ngày đồ uống có đường, sHR 1.18 (1.10–1.27); nước ép nguyên chất 1.12 (1.03–1.23); không phải ACM."
+        }
+      ]
+    },
+    "fruit-juice": {
+      "factor": "Nước ép trái cây 100%",
+      "originalClaim": "* Nước ép trái cây\n  * [Tạp chí JAMA: nước ép nguyên chất 100% có thể nguy hiểm hơn đồ uống có đường](https://zhuanlan.zhihu.com/p/66513350)\n    * Mỗi khẩu phần đồ uống có đường 12 ounce/ngày tăng thêm làm tăng 11% nguy cơ tử vong do mọi nguyên nhân;\n    * Mỗi khẩu phần nước ép 12 ounce/ngày tăng thêm làm tăng 24% nguy cơ tử vong do mọi nguyên nhân.",
+      "finding": "REGARDS ủng hộ HR của ACM là 1.24 với mỗi 12 ounce/ngày nước ép nguyên chất tăng thêm. Con số “11% đối với đồ uống có đường” trong bản gốc thực ra liên quan đến nhóm đồ uống chứa đường (gộp đồ uống thêm đường và nước ép 100%), không phải riêng SSB. Ước tính điểm từ các mô hình khác nhau không thể xác lập rằng nước ép nguy hiểm hơn nước giải khát có đường.",
+      "effect": "HR 1.24 (nước ép nguyên chất); 1.11 (nhóm gộp đồ uống chứa đường)",
+      "ci": "95% CI tương ứng 1.09–1.42; 1.03–1.19",
+      "comparison": "Mỗi 12 ounce chất lỏng Mỹ/ngày tăng thêm ≈355 mL; mô hình liên tục",
+      "population": "REGARDS Hoa Kỳ: 13,440 người tuổi ≥45, tuổi trung bình 63.6; trung bình 6 năm; 1,000 ca tử vong",
+      "design": "Phân tích thứ cấp một đoàn hệ tiến cứu hiện có",
+      "gradeReason": "Một đoàn hệ, tương đối ít biến cố, chế độ ăn ban đầu do người tham gia tự báo cáo; ACM trực tiếp nhưng cần được tái lập",
+      "limitations": "Phơi nhiễm ứng với 1.11 trong tóm tắt là nhóm gộp; không thể trực tiếp xếp hạng nước ép so với SSB giữa các mô hình; HR 1.14 (0.97–1.33) khi so sánh lượng tiêu thụ cao với thấp không có ý nghĩa thống kê; không áp dụng cho trái cây nguyên quả.",
+      "action": "Ưu tiên trái cây nguyên quả; chỉ uống nước ép lượng nhỏ thay vì dùng làm nguồn bổ sung nước chính. Tuân theo chế độ ăn y khoa nếu bị đái tháo đường hoặc cần hạn chế đường.",
+      "sources": [
+        {
+          "evidence": "Tóm tắt, Phơi nhiễm/Kết quả: đồ uống chứa đường được định nghĩa là SSB + nước ép nguyên chất; với mỗi 12 oz, ACM của nhóm đồ uống chứa đường 1.11 (1.03–1.19), nước ép nguyên chất 1.24 (1.09–1.42)."
+        }
+      ]
+    },
+    "coffee": {
+      "factor": "Cà phê",
+      "originalClaim": "* Cà phê\n  * [Tin lớn! Nhiều nghiên cứu xác nhận uống cà phê liên quan trực tiếp đến tử vong do mọi nguyên nhân thấp hơn](https://news.bioon.com/article/6725420.html)\n  * [Giải thích khoa học | Thêm một lý do uống cà phê: tử vong thấp hơn! ](https://www.sohu.com/a/439412995_100003595)\n  * [Coffee consumption and all-cause, cardiovascular and cancer mortality in Mediterranean adults](https://fanyi.pdf365.cn/help/249)\n    * Một phân tích gộp gần đây bao gồm 40 nghiên cứu từ các quốc gia khác nhau và 3,852,651 người tham gia. Lượng cà phê tiêu thụ có quan hệ phi tuyến với tử vong do mọi nguyên nhân, CVD và ung thư: tử vong do ung thư thấp nhất ở mức hai cốc/ngày (RR=0.96), tử vong do CVD ở mức 2.5 cốc/ngày (RR=0.83), và tử vong do mọi nguyên nhân ở mức 3.5 cốc/ngày (RR=0.85), không giảm hay tăng thêm khi lượng tiêu thụ tiếp tục tăng.\nPhần hành động trong bản gốc: uống cà phê (−22% đến −12% ACM)",
+      "finding": "Các con số 40 nghiên cứu, 3,852,651 người tham gia và các ước tính ACM RR 0.85 ở mức 3.5 cốc/ngày, CVD RR 0.83 ở mức 2.5 cốc và tử vong do ung thư RR 0.96 ở mức 2 cốc trong bản gốc khớp với phân tích gộp. Tất cả đều là mối liên quan quan sát được; 3.5 cốc là điểm thấp nhất của đường cong được khớp với dữ liệu, không phải chỉ định chính xác để kéo dài tuổi thọ cá nhân. Mức −22% đến −12% trong phần hành động không phải một tác động đồng nhất từ phân tích gộp này.",
+      "effect": "RR 0.85",
+      "ci": "95% CI 0.82–0.89",
+      "comparison": "Mức 3.5 cốc/ngày trên đường cong được khớp so với không uống; kích thước cốc khác nhau giữa các đoàn hệ",
+      "population": "40 nghiên cứu, 3,852,651 người tham gia, 450,256 ca tử vong do mọi nguyên nhân và do nguyên nhân cụ thể",
+      "design": "Phân tích gộp mối quan hệ liều–đáp ứng từ các đoàn hệ quan sát",
+      "gradeReason": "Mối liên quan nhất quán với ACM ở nhiều đoàn hệ; không phải bằng chứng nhân quả từ ngẫu nhiên hóa",
+      "limitations": "Bệnh tật có thể khiến người tham gia ngừng uống cà phê; nhiễu do hút thuốc, rượu bia và chế độ ăn; cách pha chế, kích thước cốc, đường thêm vào và caffeine khác nhau; không có cơ sở chuyển trực tiếp tỷ số nguy cơ thành tuổi thọ kỳ vọng.",
+      "action": "Nếu đã quen uống cà phê và dung nạp được, hãy uống vừa phải, thêm ít đường. Điều chỉnh theo từng người khi cần hạn chế caffeine, bao gồm mất ngủ, hồi hộp hoặc mang thai; không ép bản thân bắt đầu uống để kéo dài tuổi thọ.",
+      "sources": [
+        {
+          "evidence": "Tóm tắt, Kết quả: 40 nghiên cứu; ACM thấp nhất ở mức 3.5 cốc/ngày RR 0.85 (0.82–0.89), CVD ở mức 2.5 cốc 0.83 (0.80–0.87), tử vong do ung thư ở mức 2 cốc 0.96 (0.94–0.99)."
+        }
+      ]
+    },
+    "spermidine-diet": {
+      "factor": "Spermidine trong chế độ ăn (gộp các mục chất lỏng và thuốc)",
+      "originalClaim": "* Spermidine\n  * [Science: cơ sở khoa học! Spermidine, được phát hiện trong tinh dịch, có lợi ích đặc biệt về chống lão hóa, chống ung thư, bảo vệ tim mạch và thần kinh, béo phì và đái tháo đường type 2](https://www.medsci.cn/article/show_article.do?id=420d12904103)\n  * [Lượng spermidine cao trong chế độ ăn làm giảm tử vong](https://zhuanlan.zhihu.com/p/388942219)\n\n* Spermidine\n  * [Science: cơ sở khoa học! Spermidine, được phát hiện trong tinh dịch, có lợi ích đặc biệt về chống lão hóa, chống ung thư, bảo vệ tim mạch và thần kinh, béo phì và đái tháo đường type 2](https://www.medsci.cn/article/show_article.do?id=420d12904103)\n  * Spermidine là polyamine được hấp thu dễ dàng nhất qua ruột người. Nhiều thực phẩm chứa lượng đáng kể, bao gồm ớt chuông xanh tươi, mầm lúa mì, súp lơ trắng, bông cải xanh, nấm và nhiều loại phô mai; hàm lượng đặc biệt cao trong các sản phẩm đậu nành như natto, nấm hương và sầu riêng. Các nhà nghiên cứu theo dõi 829 người tham gia tuổi 45–84 trong 20 năm để phân tích mối liên quan tiềm năng giữa lượng spermidine trong chế độ ăn và tử vong ở người.\n  * Phụ nữ có lượng spermidine ăn vào cao hơn nam giới, và lượng ăn vào giảm theo tuổi. Nguồn chính là ngũ cốc nguyên hạt (13.4%), táo và lê (13.3%), salad (9.8%), rau mầm (7.3%) và khoai tây (6.4%). Các nhóm lượng ăn vào là thấp (<62.2 µmol/ngày), trung bình (62.2–79.8 µmol/ngày) và cao (>79.8 µmol/ngày). Trong thời gian theo dõi có 341 ca tử vong: 137 do bệnh mạch máu, 94 do ung thư và 110 do nguyên nhân khác. Tỷ lệ tử vong thô tính được ở nhóm thấp, trung bình và cao lần lượt là 40.5%, 23.7% và 15.1%, cho thấy mối liên quan nghịch có ý nghĩa thống kê với tử vong do mọi nguyên nhân, vẫn có ý nghĩa thống kê sau khi lần lượt điều chỉnh tuổi, giới và năng lượng ăn vào.\nPhần hành động trong bản gốc: spermidine (−60% đến −30% ACM)",
+      "finding": "Hai mục trùng lặp trong bản gốc được gộp lại. Phơi nhiễm là lượng ăn vào qua chế độ ăn, không phải thuốc hay chất lỏng; 40.5, 23.7 và 15.1 là số ca tử vong trên 1,000 người-năm, không phải phần trăm. HR của ACM sau điều chỉnh đầy đủ là 0.76 với mỗi 1 SD tăng thêm của lượng ăn vào; không thể diễn đạt thành thực phẩm bổ sung làm giảm tử vong 30%–60%. Đoàn hệ SAPHIR độc lập ủng hộ chiều hướng này, nhưng không thể tách chất lượng thực phẩm tổng thể khỏi bản thân spermidine.",
+      "effect": "HR 0.76 với mỗi 1 SD tăng thêm của lượng ăn vào qua chế độ ăn",
+      "ci": "95% CI 0.67–0.86",
+      "comparison": "Mỗi 1 SD tăng thêm của lượng ăn vào qua chế độ ăn dưới dạng biến liên tục; không phải RCT về thực phẩm bổ sung",
+      "population": "Bruneck: 829 người tuổi 45–84; 341 ca tử vong trong 1995–2015; kiểm chứng độc lập bằng SAPHIR",
+      "design": "Đoàn hệ dinh dưỡng tiến cứu có kiểm chứng bên ngoài; RCT về thực phẩm bổ sung và nhận thức không khảo sát ACM",
+      "gradeReason": "Bằng chứng quan sát về ACM liên quan đến chế độ ăn, với đoàn hệ chính nhỏ và nhiễu do chế độ ăn; không có thử nghiệm trực tiếp về thực phẩm bổ sung và tuổi thọ",
+      "limitations": "Mẫu số của tỷ lệ tử vong thô trong bản gốc bị ghi sai; tuổi giải thích phần lớn mối liên quan thô; tử vong tích lũy trong 20 năm sau điều chỉnh là 0.48/0.41/0.38. Việc đăng ký thử nghiệm không thay đổi thiết kế đoàn hệ; không ngoại suy sang thực phẩm bổ sung.",
+      "action": "Bổ sung qua thực phẩm cân bằng thông thường như ngũ cốc nguyên hạt và các loại đậu; không mua hoặc dùng spermidine dựa trên tuyên bố “tử vong thấp hơn 60%”. Người có bệnh lý nên trao đổi với bác sĩ về thực phẩm bổ sung.",
+      "sources": [
+        {
+          "evidence": "Tóm tắt bài báo gốc và Bảng 2: HR đã điều chỉnh đầy đủ cho mỗi 1 SD là 0.76 (0.67–0.86); tử vong thô 40.5/23.7/15.1 trên 1,000 người-năm; SAPHIR sau điều chỉnh tuổi, giới và năng lượng, 0.71 (0.53–0.95); đã lưu PDF đầy đủ và văn bản."
+        },
+        {
+          "evidence": "Tóm tắt: 100 người có suy giảm nhận thức chủ quan, 12 tháng, 0.9 mg/ngày; kết cục nhận thức chính không cải thiện; không đánh giá hiệu quả đối với ACM."
+        }
+      ]
+    },
+    "smoking": {
+      "factor": "Hút thuốc và cai thuốc lá",
+      "originalClaim": "* Hút thuốc\n  * [Ngay cả hút thuốc với cường độ thấp cũng làm tăng nguy cơ tử vong!](https://www.medsci.cn/article/show_article.do?id=02ca2083319b)\n    * Trong 42,416 nam giới và 86,735 phụ nữ tuổi 35–89 không có bệnh trước đó, 18,985 nam giới (45%) và 18,072 phụ nữ (21%) hiện hút thuốc; 33% nam giới hút thuốc và 39% phụ nữ hút thuốc không hút hằng ngày. Người chưa từng hút thuốc gồm 8,866 nam giới (21%) và 53,912 phụ nữ (62%). Trong thời gian theo dõi, tỷ số nguy hại tử vong do mọi nguyên nhân so với chưa từng hút thuốc là 1.17 (95% CI 1.10–1.25) với <10 điếu/ngày và 1.54 (1.42–1.67) với ≥10/ngày, tương tự giữa các độ tuổi và giới. Hút thuốc hằng ngày liên quan mạnh nhất với ung thư đường hô hấp, bệnh phổi tắc nghẽn mạn tính, cùng các bệnh tiêu hóa và mạch máu. Người đã cai thuốc tại thời điểm tuyển vào có tử vong thấp hơn người hiện hút thuốc hằng ngày.\n    * Người hút thuốc mất trung bình 11–12 năm sống\n  * [Vì sao hút thuốc gây nghiện? Hút thuốc có chừng mực vẫn có hại không?](https://www.zhihu.com/question/24846224/answer/1719798177)\nPhần hành động trong bản gốc: không hút thuốc (nếu không, khoảng +50% ACM, −12 đến −11 năm sống)",
+      "finding": "Mẫu nghiên cứu hút thuốc cường độ thấp ở Mexico và các con số nguy cơ 1.17/1.54 khớp; bài báo gọi chúng là RR, không phải mức +50% đồng nhất cho tất cả người hút thuốc. Một đoàn hệ lớn tại Hoa Kỳ ghi nhận ACM xấp xỉ gấp ba ở người hiện hút thuốc và tuổi thọ ngắn hơn >10 năm. Con số 11–12 năm trong bản gốc chưa được xác minh từ bài báo Mexico; không thể gộp các quần thể có cường độ hút thuốc khác nhau thành một ước tính đồng nhất.",
+      "effect": "RR 1.17 (<10 điếu/ngày); 1.54 (≥10/ngày)",
+      "ci": "95% CI tương ứng 1.10–1.25; 1.42–1.67",
+      "comparison": "Hút thuốc hằng ngày lúc ban đầu <10/≥10 điếu so với chưa từng hút thuốc",
+      "population": "Mexico: 129,151 người trưởng thành không có bệnh mạn tính trước đó, tuổi 35–89; tuyển vào 1998–2004, theo dõi đến hết 2018",
+      "design": "Nghiên cứu đoàn hệ tiến cứu, có thêm bằng chứng củng cố từ đoàn hệ quốc gia Hoa Kỳ",
+      "gradeReason": "Kết quả trực tiếp về ACM nhất quán trong nhiều đoàn hệ lớn; mức B ở đây phản ánh việc không ngẫu nhiên hóa và không phủ nhận tác hại nhân quả đã được xác lập của thuốc lá",
+      "limitations": "Cường độ hút thuốc thay đổi theo thời gian; kết quả không có ý nghĩa thống kê của hút thuốc không hằng ngày trong đoàn hệ này không chứng minh tính an toàn; CI của nghiên cứu Hoa Kỳ là 99%, không phải 95%.",
+      "action": "Không bắt đầu hút thuốc; cai càng sớm càng tốt. Tìm dịch vụ cai thuốc và hỗ trợ bằng thuốc dựa trên bằng chứng nếu cần; giảm số điếu không loại bỏ nguy cơ.",
+      "sources": [
+        {
+          "evidence": "Tóm tắt, Phương pháp/Kết quả: RR 1.17 (1.10–1.25), 1.54 (1.42–1.67); người đã cai có nguy cơ thấp hơn người hiện hút thuốc hằng ngày."
+        },
+        {
+          "evidence": "Tóm tắt, Kết quả: phụ nữ HR 3.0 (99% CI 2.7–3.3), nam giới 2.8 (99% CI 2.4–3.1); người hiện hút thuốc có tuổi thọ ngắn hơn >10 năm; cai thuốc ở tuổi 25–34 giúp có thêm khoảng 10 năm so với tiếp tục hút."
+        }
+      ]
+    },
+    "sun-exposure": {
+      "factor": "Tiếp xúc ánh nắng / bức xạ tử ngoại",
+      "originalClaim": "* Tiếp xúc ánh nắng\n  * [Tiếp xúc ánh nắng và tử vong: làm sao nhận ánh nắng an toàn và khoa học?\n](https://zhuanlan.zhihu.com/p/76301306)\n    * Một nghiên cứu 26 năm của Đan Mạch cho thấy tiếp xúc ánh nắng nhiều hơn kéo dài đáng kể tuổi thọ; ngay cả người bị ung thư da do tiếp xúc quá mức cũng sống lâu hơn trung bình 6 năm so với dân số chung.\nPhần hành động trong bản gốc: tiếp xúc ánh nắng (khoảng −40% ACM)",
+      "finding": "Nghiên cứu Đan Mạch dùng chẩn đoán ung thư da làm chỉ dấu thay thế cho tiếp xúc ánh nắng; nghiên cứu không phân ngẫu nhiên việc tăng tiếp xúc ánh nắng. Ung thư da không phải u hắc tố có liên quan đến HR của ACM là 0.52 và u hắc tố là HR 0.89; các tác giả nêu rõ không thể kết luận nhân quả. Không thể từ đó suy ra “thêm 6 năm nhờ tiếp xúc ánh nắng nhiều hơn” hay “ACM thấp hơn khoảng 40%”. Một đoàn hệ Thụy Điển về thói quen tiếp xúc ánh nắng ước tính bằng mô hình chênh lệch tuổi thọ kỳ vọng 0.6–2.1 năm, cũng không phải 6 năm.",
+      "effect": "HR 0.52 (ung thư da không phải u hắc tố); 0.89 (u hắc tố)",
+      "ci": "95% CI 0.52–0.53; 0.87–0.91",
+      "comparison": "Có chẩn đoán ung thư da so với không có chẩn đoán; không phải can thiệp về liều ánh nắng",
+      "population": "Đan Mạch: 4.4 triệu người tuổi >40, 1980–2006; Thụy Điển: 29,518 phụ nữ được theo dõi trong 20 năm",
+      "design": "Nghiên cứu quan sát từ hệ thống đăng ký quốc gia; đoàn hệ tiến cứu về thói quen tiếp xúc ánh nắng",
+      "gradeReason": "Kết cục ACM trực tiếp, nhưng suy luận từ ung thư da làm chỉ dấu thay thế cho ánh nắng rất gián tiếp; không thể chỉ định tiếp xúc ánh nắng",
+      "limitations": "Nhiễu do chẩn đoán ung thư da, chọn lọc theo sống còn, tình trạng kinh tế xã hội, hoạt động ngoài trời và hành vi tìm kiếm chăm sóc y tế; chỉ dấu phơi nhiễm thay thế không đáng tin cậy; cháy nắng làm tăng nguy cơ ung thư da; các nghiên cứu này không xác lập thời lượng/liều tối ưu.",
+      "action": "Hoạt động ngoài trời thường xuyên và tiếp xúc ánh sáng tự nhiên là hợp lý, đồng thời tránh cháy nắng và giường nhuộm da. Tuân theo tư vấn y tế về chống nắng nếu có bệnh nhạy cảm ánh sáng, dùng thuốc liên quan hoặc có nguy cơ ung thư da cao.",
+      "sources": [
+        {
+          "evidence": "Tóm tắt, Kết quả: ung thư da không phải u hắc tố, ACM HR 0.52 (0.52–0.53), u hắc tố 0.89 (0.87–0.91); phần Kết luận nêu rõ không thể đưa ra kết luận nhân quả."
+        },
+        {
+          "evidence": "Tóm tắt, Kết quả: người tránh ánh nắng có tuổi thọ kỳ vọng theo mô hình ngắn hơn 0.6–2.1 năm so với nhóm tiếp xúc nhiều nhất; 29,518 phụ nữ, không ngẫu nhiên hóa."
+        }
+      ]
+    },
+    "nmn": {
+      "factor": "NMN",
+      "originalClaim": "* NMN",
+      "finding": "Bản gốc chỉ liệt kê NMN, không có trích dẫn hay số liệu. RCT ở người đã đọc khảo sát độ nhạy insulin của cơ. Một tổng quan gồm 8 RCT với tổng cộng 342 người, kéo dài 14 ngày đến 12 tuần, không tìm thấy lợi ích có ý nghĩa thống kê đối với các chỉ số chuyển hóa chính. Cả hai đều không xác lập việc giảm ACM hoặc kéo dài tuổi thọ ở người.",
+      "effect": "Tác động lên ACM không được báo cáo",
+      "ci": "Không được báo cáo",
+      "comparison": "NMN so với giả dược; các kết cục thay thế về chuyển hóa",
+      "population": "RCT gốc: phụ nữ sau mãn kinh thừa cân/béo phì có tiền đái tháo đường, 10 tuần; tổng quan: 8 thử nghiệm, 342 người",
+      "design": "RCT ngắn hạn, quy mô nhỏ ở người và tổng quan về các chỉ số chuyển hóa",
+      "gradeReason": "Thiết kế ngẫu nhiên nhưng không có kết cục trực tiếp đánh giá hiệu quả đối với ACM; bằng chứng gián tiếp theo hệ thống phân mức ACM thực hành",
+      "limitations": "Thời gian theo dõi rất ngắn; thiếu bằng chứng về hiệu quả và an toàn dài hạn; chênh lệch lượng mỡ gan ban đầu trong RCT gốc còn được tranh luận; thay đổi NAD hoặc truyền tín hiệu insulin không xác lập việc kéo dài tuổi thọ.",
+      "action": "Không coi NMN là thuốc kéo dài tuổi thọ đã được chứng minh; việc tham gia nghiên cứu cần tuân theo quy trình thử nghiệm chính thức và không thay thế điều trị bệnh mạn tính.",
+      "sources": [
+        {
+          "evidence": "Tóm tắt: thử nghiệm có đối chứng giả dược trong 10 tuần; đo độ nhạy insulin/truyền tín hiệu insulin ở cơ; không báo cáo hiệu quả đối với ACM."
+        },
+        {
+          "evidence": "Tóm tắt, Phát hiện gần đây: 8 RCT, 342 người, 250–2,000 mg/ngày, 14 ngày–12 tuần; không có lợi ích chuyển hóa tổng thể có ý nghĩa thống kê, không phải ACM."
+        }
+      ]
+    },
+    "metformin-diabetes": {
+      "factor": "Metformin (người thừa cân mới được chẩn đoán đái tháo đường type 2)",
+      "originalClaim": "* Metformin\n  * [Dành cho người hâm mộ metformin | Tôi là thần dược: metformin](https://zhuanlan.zhihu.com/p/419202902)\n    * Metformin có tác dụng bảo vệ trong nhiều loại khối u, bệnh tim mạch và đái tháo đường, đồng thời cũng nổi bật trong béo phì, bệnh gan, bệnh thận và lão hóa.\n  * [Tin lớn về metformin năm 2020: bảo vệ dạ dày, sức khỏe não bộ, chống lão hóa, phòng ung thư hay gây ung thư?](https://zhuanlan.zhihu.com/p/357807109)\n  * [Metformin thực sự thần kỳ như vậy sao? Nghiên cứu Hoa Kỳ: người cha dùng metformin có thể gây dị tật bẩm sinh ở con](https://baijiahao.baidu.com/s?id=1729999374705305768)\n  * ![Metformin](https://user-images.githubusercontent.com/2707039/163702325-5d427542-9ae5-4311-8979-d0d326a9832f.jpg)\n  * Phản ứng có hại\n    * Là thuốc đã được dùng gần một thế kỷ, metformin có các phản ứng có hại đã được xác định rõ: thường gặp gồm thiếu vitamin B12 (7%–17.4%), phản ứng đường tiêu hóa (tới 53%), mệt mỏi (9%) và đau đầu (6%); phản ứng nghiêm trọng nhưng không thường gặp gồm nhiễm toan lactic và tổn thương gan; một số nghiên cứu cũng gợi ý khả năng dị tật thai nhi\nPhần hành động trong bản gốc: metformin (người mắc đái tháo đường có thể có thêm +3 năm so với người không mắc đái tháo đường)",
+      "finding": "UKPDS 34 ghi nhận mức giảm nguy cơ tương đối của ACM là 36% khi kiểm soát đường huyết tích cực bằng metformin so với quản lý bằng chế độ ăn thông thường ở người thừa cân mới được chẩn đoán đái tháo đường, không phải người khỏe mạnh. Một tổng hợp sau đó gồm 13 RCT cho RR của ACM là 0.99 với CI rộng, nên một thử nghiệm không xác lập metformin là thuốc kéo dài tuổi thọ cho mọi người.",
+      "effect": "Giảm nguy cơ tương đối của ACM 36% (báo cáo gốc); RR gộp từ 13 RCT 0.99",
+      "ci": "Thử nghiệm gốc: 95% CI của mức giảm 9%–55%; RR gộp 95% CI 0.75–1.31",
+      "comparison": "Kiểm soát đường huyết tích cực bằng metformin so với chiến lược thông thường chủ yếu dựa vào chế độ ăn; không phải so sánh người khỏe mạnh với người mắc đái tháo đường",
+      "population": "So sánh ngẫu nhiên chính của UKPDS: 753 người thừa cân mới được chẩn đoán đái tháo đường type 2, tuổi trung bình 53; trung vị 10.7 năm",
+      "design": "Thử nghiệm ngẫu nhiên, nhãn mở về chiến lược điều trị; thêm tổng hợp 13 RCT",
+      "gradeReason": "Bằng chứng ngẫu nhiên trực tiếp về ACM; hạ xuống B vì là thử nghiệm nhãn mở từ lâu, chỉ một phân nhóm, và kết quả gộp RCT sau đó không nhất quán/thiếu chính xác. Một kết quả không thể hứa hẹn kéo dài tuổi thọ cho mọi người.",
+      "limitations": "Điều trị đối chứng trong thử nghiệm cũ khác với chăm sóc tiêu chuẩn hiện nay; không ngoại suy sang người không mắc đái tháo đường. Về tính áp dụng của các số liệu phản ứng có hại trong bản gốc, xem bản ghi riêng về biến cố bất lợi của metformin.",
+      "action": "Khi có chỉ định điều trị đái tháo đường, bác sĩ nên lựa chọn điều trị có cân nhắc chức năng thận, khả năng dung nạp và B12. Không tự ý ngừng thuốc đã kê hoặc bắt đầu dùng metformin để chống lão hóa ở người khỏe mạnh.",
+      "sources": [
+        {
+          "evidence": "Tóm tắt, Phương pháp/Phát hiện: 753 người trong so sánh ngẫu nhiên, mức giảm tương đối của ACM 36% (95% CI 9%–55%); một thử nghiệm ngẫu nhiên bổ sung riêng, thêm metformin vào điều trị sulfonylurea đang dùng, cho kết quả khác."
+        },
+        {
+          "evidence": "Tóm tắt: 13 RCT, 13,110 người, ACM RR 0.99 (0.75–1.31), có tính không đồng nhất."
+        }
+      ]
+    },
+    "metformin-longevity": {
+      "factor": "Metformin (kéo dài tuổi thọ ở người khỏe mạnh và các tuyên bố an toàn trong bản gốc)",
+      "originalClaim": "* Metformin\n  * [Dành cho người hâm mộ metformin | Tôi là thần dược: metformin](https://zhuanlan.zhihu.com/p/419202902)\n    * Metformin có tác dụng bảo vệ trong nhiều loại khối u, bệnh tim mạch và đái tháo đường, đồng thời cũng nổi bật trong béo phì, bệnh gan, bệnh thận và lão hóa.\n  * [Tin lớn về metformin năm 2020: bảo vệ dạ dày, sức khỏe não bộ, chống lão hóa, phòng ung thư hay gây ung thư?](https://zhuanlan.zhihu.com/p/357807109)\n  * [Metformin thực sự thần kỳ như vậy sao? Nghiên cứu Hoa Kỳ: người cha dùng metformin có thể gây dị tật bẩm sinh ở con](https://baijiahao.baidu.com/s?id=1729999374705305768)\n  * ![Metformin](https://user-images.githubusercontent.com/2707039/163702325-5d427542-9ae5-4311-8979-d0d326a9832f.jpg)\n  * Phản ứng có hại\n    * Là thuốc đã được dùng gần một thế kỷ, metformin có các phản ứng có hại đã được xác định rõ: thường gặp gồm thiếu vitamin B12 (7%–17.4%), phản ứng đường tiêu hóa (tới 53%), mệt mỏi (9%) và đau đầu (6%); phản ứng nghiêm trọng nhưng không thường gặp gồm nhiễm toan lactic và tổn thương gan; một số nghiên cứu cũng gợi ý khả năng dị tật thai nhi\nPhần hành động trong bản gốc: metformin (người mắc đái tháo đường có thể có thêm +3 năm so với người không mắc đái tháo đường)",
+      "finding": "Một đoàn hệ hồi cứu tại Anh năm 2014 báo cáo tỷ số trung vị thời gian sống đã điều chỉnh là 0.85 cho nhóm chứng không mắc đái tháo đường so với người mắc đái tháo đường dùng metformin. Đây không phải thử nghiệm ngẫu nhiên dùng thuốc ở người khỏe mạnh và không xác lập mức kéo dài cố định 3 năm. Sau phân nhóm ngẫu nhiên ở người tham gia DPP/DPPOS có nguy cơ đái tháo đường cao và trung vị theo dõi 21 năm, HR của ACM với metformin là 0.99, không ghi nhận lợi ích. Một nghiên cứu năm 2024 tại Na Uy/Đài Loan không tìm thấy mối liên quan có ý nghĩa thống kê giữa việc người cha dùng thuốc và dị tật bẩm sinh sau khi kiểm soát đầy đủ tình trạng đái tháo đường của người cha cùng các yếu tố gây nhiễu khác; tiêu đề từ nguồn thứ cấp trong bản gốc không phải kết luận đã được xác lập về khả năng gây dị tật thai.",
+      "effect": "Nhóm chứng không mắc đái tháo đường/bệnh nhân điều trị bằng metformin STR 0.85; DPP/DPPOS metformin ACM HR 0.99",
+      "ci": "STR 95% CI 0.81–0.90 (không phải HR); DPP/DPPOS HR 95% CI 0.79–1.25",
+      "comparison": "Đoàn hệ quan sát: nhóm chứng không mắc đái tháo đường so với người mắc đái tháo đường dùng metformin; DPP: phân nhóm ngẫu nhiên ban đầu dùng metformin so với giả dược",
+      "population": "CPRD Anh: 78,241 người dùng metformin, 12,222 người dùng sulfonylurea, 90,463 người không mắc đái tháo đường được ghép cặp; DPP/DPPOS: 3,234 người tham gia có nguy cơ đái tháo đường cao, trung vị 21 năm, 453 ca tử vong",
+      "design": "Đoàn hệ hồi cứu ghép cặp; theo dõi dài hạn nhãn mở của một thử nghiệm ngẫu nhiên; thêm đoàn hệ an toàn tại hai quốc gia",
+      "gradeReason": "Cơ sở của mức +3 năm trong bản gốc là một so sánh sống còn quan sát có sai lệch đáng kể. Phân nhóm ngẫu nhiên DPP dài hạn không cho thấy lợi ích đối với ACM, có sự chuyển đổi can thiệp giữa các nhóm; chưa xác lập việc kéo dài tuổi thọ ở người khỏe mạnh nói chung",
+      "limitations": "Không thể chuyển tỷ số thời gian sống thành số năm sống thêm cố định; nhiều tuyên bố chống lão hóa thiếu xác nhận bằng RCT về ACM ở người khỏe mạnh; tần suất biến cố an toàn được trình bày trong bản ghi riêng về biến cố bất lợi của metformin; dị tật bẩm sinh không phải ACM.",
+      "action": "Người khỏe mạnh không nên tự dùng metformin để kéo dài tuổi thọ. Nam giới mắc đái tháo đường đang dự định có con nên trao đổi với bác sĩ về nguy cơ cá nhân thay vì ngừng thuốc vì thông tin từ nguồn thứ cấp.",
+      "sources": [
+        {
+          "evidence": "Tóm tắt, Kết quả: bệnh nhân điều trị bằng metformin là nhóm tham chiếu STR 1; nhóm chứng không mắc đái tháo đường STR 0.85 (0.81–0.90), phân tích quan sát hồi cứu; không có mức +3 năm cố định."
+        },
+        {
+          "evidence": "Tóm tắt, Phương pháp/Kết quả: 3,234 người trưởng thành có nguy cơ đái tháo đường cao được phân ngẫu nhiên; trung vị 21 năm, 453 ca tử vong; metformin ACM HR 0.99 (0.79–1.25), không giảm có ý nghĩa thống kê; các can thiệp chuyển thành nhãn mở với sự chuyển đổi can thiệp giữa các nhóm sau 2001."
+        },
+        {
+          "evidence": "Tóm tắt, Kết quả: sau khi giới hạn ở người cha mắc đái tháo đường và áp dụng trọng số theo điểm xu hướng, RR gộp của dị tật bẩm sinh tại Na Uy/Đài Loan là 0.89 (0.77–1.03); không phải ACM."
+        }
+      ]
+    },
+    "multivitamins": {
+      "factor": "Vitamin tổng hợp",
+      "originalClaim": "* Vitamin tổng hợp\n  * [Uống vitamin tổng hợp có thể giảm nguy cơ ung thư 8%; các tác dụng khác không có ý nghĩa thống kê](https://health.qq.com/a/20121023/000026.htm)\nPhần hành động ban đầu: vitamin tổng hợp (−8% nguy cơ ung thư)",
+      "finding": "Thử nghiệm PHS II ở các bác sĩ nam ghi nhận HR mắc ung thư là 0.92, thấp hơn khoảng 8%; đây là tỷ lệ mắc bệnh, không phải ACM, và tử vong do ung thư cũng không giảm có ý nghĩa thống kê. HR của ACM trong thử nghiệm ngẫu nhiên COSMOS là 0.93 với CI bao gồm 1; ba đoàn hệ ở Mỹ năm 2024 cũng không ghi nhận lợi ích đối với ACM. Chưa chứng minh được vitamin tổng hợp kéo dài tuổi thọ ở những người nhìn chung khỏe mạnh.",
+      "effect": "ACM HR 0.93 (COSMOS); HR mắc ung thư 0.92 (PHS II, không phải ACM)",
+      "ci": "ACM 95% CI 0.81–1.08; tỷ lệ mắc ung thư 0.86–0.998",
+      "comparison": "Vitamin tổng hợp hằng ngày so với giả dược; các đoàn hệ bổ sung so sánh dùng hằng ngày với không dùng",
+      "population": "PHS II: 14,641 bác sĩ nam, 11.2 năm; COSMOS: 21,442 người cao tuổi, 3.6 năm; các đoàn hệ năm 2024: 390,124 người",
+      "design": "Các thử nghiệm ngẫu nhiên mù đôi đối chứng giả dược; nhiều đoàn hệ lớn",
+      "gradeReason": "Bằng chứng ngẫu nhiên quy mô lớn, trực tiếp về ACM; mức A phản ánh chất lượng thiết kế, không phải lợi ích đã được xác lập; không thể loại trừ các tác động nhỏ hơn",
+      "limitations": "COSMOS có thời gian theo dõi ngắn hơn, ACM là tiêu chí phụ; PHS II không áp dụng cho mọi giới/độ tuổi; công thức chế phẩm khác nhau; HR tăng nhẹ trong các đoàn hệ không chứng minh tác hại của thuốc; điều trị thiếu hụt là vấn đề riêng.",
+      "action": "Không thường quy uống vitamin tổng hợp để kéo dài tuổi thọ; bổ sung có mục tiêu sau khi đánh giá tình trạng thiếu hụt, các giai đoạn sống đặc thù hoặc kém hấp thu.",
+      "sources": [
+        {
+          "evidence": "Tóm tắt: HR mắc mọi loại ung thư 0.92 (0.86–0.998), tử vong do ung thư 0.88 (0.77–1.01), 14,641 bác sĩ nam."
+        },
+        {
+          "evidence": "Tóm tắt, Kết quả: ACM HR 0.93 (0.81–1.08), tỷ lệ mắc ung thư 0.97 (0.86–1.09), 21,442 người, 3.6 năm."
+        },
+        {
+          "evidence": "Tóm tắt, Kết quả: 390,124 người, 164,762 ca tử vong; dùng hằng ngày có ACM HR 1.04 (1.02–1.07) trong giai đoạn theo dõi đầu và 1.04 (0.99–1.08) trong giai đoạn thứ hai; không có lợi ích."
+        }
+      ]
+    },
+    "glucosamine-chondroitin": {
+      "factor": "Glucosamine / chondroitin",
+      "originalClaim": "* Glucosamine\n  * [Thật kinh ngạc! Glucosamine giảm tử vong do tim mạch 65%, tương đương tập thể dục thường xuyên](https://www.sohu.com/a/436372221_120873241)\n  * Một nghiên cứu mới của Đại học West Virginia cho thấy glucosamine (chondroitin) có thể giảm tử vong do tim mạch 65% và tử vong chung 39%, tương đương tập thể dục thường xuyên\n  * Nghiên cứu sử dụng dữ liệu NHANES 1999–2010 của 16,686 người trưởng thành, với thời gian theo dõi trung vị 107 tháng; 648 người tham gia thường xuyên dùng 500–1,000 mg/ngày glucosamine/chondroitin trong hơn một năm.\nPhần hành động ban đầu: glucosamine (−39% ACM)",
+      "finding": "Các mức giảm ACM 39% và tử vong do CVD 65% trong nhận định ban đầu chỉ được hiệu chỉnh theo tuổi. HR sau hiệu chỉnh đầy đủ là 0.73 đối với ACM (thấp hơn 27%) và 0.42 đối với CVD (thấp hơn 58%). Số người dùng kéo dài là 658, không phải 648. Đây là các mối liên quan quan sát, không phải bằng chứng trực tiếp về hiệu quả “tương đương tập thể dục” hay liều kéo dài tuổi thọ có hiệu quả 500–1,000 mg.",
+      "effect": "HR 0.73 (ACM đã hiệu chỉnh đa biến)",
+      "ci": "95% CI 0.57–0.93",
+      "comparison": "Khai báo tại thời điểm ban đầu dùng glucosamine/chondroitin trong ≥365 ngày so với không dùng hoặc dùng <365 ngày",
+      "population": "NHANES 1999–2010: 16,686 người trưởng thành ≥40 tuổi, loại trừ người có CVD lúc ban đầu và người thiếu thông tin sống còn; 658 người dùng trong ≥1 năm; trung vị 107 tháng; 3,366 ca tử vong",
+      "design": "Phân tích theo dõi tử vong của một đoàn hệ quốc gia",
+      "gradeReason": "Nhóm phơi nhiễm nhỏ với sai lệch người dùng khỏe mạnh và nhiễu đáng kể; không có RCT về kéo dài tuổi thọ",
+      "limitations": "Không thể dùng thay thế nhau các ước lượng hiệu chỉnh theo tuổi và hiệu chỉnh đa biến; chế phẩm phối hợp không thể xác lập tác dụng riêng của glucosamine; việc dùng được tự báo cáo lúc ban đầu, không theo dõi liều hoặc mức tuân thủ sau đó. Người dùng tập thể dục nhiều hơn, hút thuốc ít hơn và có trình độ học vấn cao hơn; hiệu chỉnh không thể loại bỏ nhiễu do người dùng khỏe mạnh hoặc do các thực phẩm bổ sung khác.",
+      "action": "Không bắt đầu dùng glucosamine/chondroitin để kéo dài tuổi thọ. Nếu có triệu chứng ở khớp hoặc đang điều trị chống đông, hãy trao đổi với bác sĩ về tính phù hợp và tương tác; tiếp tục tập thể dục thường xuyên.",
+      "sources": [
+        {
+          "evidence": "Đợt này đã đọc các phần Phương pháp (Người tham gia nghiên cứu / Sử dụng glucosamine/chondroitin), Kết quả và Bàn luận của bài báo gốc: tuổi ≥40; dùng ≥365 ngày so với không dùng hoặc dùng <365 ngày; 658 người dùng; sau hiệu chỉnh theo tuổi, ACM 0.61 (0.49–0.77), CVD 0.35 (0.20–0.61); sau hiệu chỉnh đa biến, ACM 0.73 (0.57–0.93), CVD 0.42 (0.23–0.75); không theo dõi liều và mức tuân thủ trong thời gian theo dõi."
+        }
+      ]
+    },
+    "anti-aging-drugs-review": {
+      "factor": "Các thuốc ứng viên chống lão hóa (bài tổng quan)",
+      "originalClaim": "* Tổng quan\n  * [Bài tổng quan chuyên sâu thuộc hệ thống Nature: phát triển thuốc chống lão hóa](https://zhuanlan.zhihu.com/p/145495570)\n  * ![Developing anti-aging drugs](https://user-images.githubusercontent.com/2707039/163702474-205baeec-f0ce-4e8d-96a4-36efe47534de.jpg)",
+      "finding": "Bài tổng quan tương ứng năm 2020 trên Nature Reviews Drug Discovery bàn về rapamycin, thuốc senolytic, metformin, acarbose, spermidine, các chất tăng NAD, lithium và những thuốc khác. Các nhóm phân tầng chủ yếu phản ánh kết quả tiền lâm sàng và một số kết quả lâm sàng; đây không phải phân tích gộp chứng minh giảm ACM ở người khỏe mạnh.",
+      "effect": "Không báo cáo tác động gộp đối với ACM có thể áp dụng cho người khỏe mạnh",
+      "ci": "Không được báo cáo",
+      "comparison": "Các nghiên cứu cơ chế, trên động vật và lâm sàng giai đoạn sớm của những thuốc ứng viên khác nhau; không có nhóm so sánh ngẫu nhiên chung về ACM",
+      "population": "Chủ yếu là mô hình động vật và các nghiên cứu hạn chế trên người; không phải quần thể người khỏe mạnh tham gia can thiệp về tử vong",
+      "design": "Tổng quan tường thuật về phát triển thuốc",
+      "gradeReason": "Chỉ có bằng chứng gián tiếp về ACM ở người khỏe mạnh; uy tín tạp chí không làm tăng mức xếp hạng",
+      "limitations": "Không thể gộp các phân tử, liều và chỉ định khác nhau thành một “phác đồ thuốc chống lão hóa”; lợi ích theo chỉ định điều trị bệnh không có nghĩa là kéo dài tuổi thọ ở người khỏe mạnh. Bài tổng quan có từ năm 2020, không phải tìm kiếm toàn diện mọi thuốc mới đến năm 2026.",
+      "action": "Không tự phối hợp thuốc chống lão hóa. Điều trị theo chỉ định bệnh rõ ràng dưới sự chăm sóc của bác sĩ chuyên khoa; các can thiệp chống lão hóa thử nghiệm chỉ nên thực hiện trong nghiên cứu được tiến hành đúng chuẩn.",
+      "sources": [
+        {
+          "evidence": "Tóm tắt: các thuốc ứng viên được chia thành hai nhóm dựa trên bằng chứng tiền lâm sàng và một số bằng chứng lâm sàng, nhằm kéo dài thời gian sống khỏe; không báo cáo hiệu quả đối với ACM ở người khỏe mạnh."
+        }
+      ]
+    },
+    "alcohol": {
+      "factor": "Rượu bia / uống đồ uống có cồn",
+      "originalClaim": "Phần hành động ban đầu: bỏ rượu bia (nếu không, ACM tăng khoảng +50%, không có giới hạn trên); mục 6 không có mục bằng chứng tương ứng.",
+      "finding": "Đã bổ sung một tổng quan hệ thống gốc để bù trích dẫn còn thiếu trong phần hành động. Sau hiệu chỉnh sai lệch do người từng uống rượu bia và các yếu tố khác, uống lượng thấp không có mối liên quan bảo vệ có ý nghĩa thống kê đối với ACM. Ở mức 45 đến <65 g ethanol/ngày, RR là 1.19, và ở mức ≥65 g/ngày là 1.35. Không thể mô tả đồng loạt mọi mức uống rượu bia là “khoảng +50% và không có giới hạn trên”; việc không có lợi ích có ý nghĩa thống kê đối với ACM ở mức uống thấp cũng không xác lập bất kỳ liều nào là an toàn tuyệt đối.",
+      "effect": "RR 0.93 (1.3 đến <25 g/ngày); 1.19 (45 đến <65 g/ngày); 1.35 (≥65 g/ngày)",
+      "ci": "95% CI tương ứng 0.85–1.01; 1.07–1.32; 1.23–1.47",
+      "comparison": "Các nhóm lượng ethanol trung bình hằng ngày tính bằng gam so với người cả đời không uống rượu bia",
+      "population": "107 đoàn hệ, 4,838,825 người, 425,564 ca tử vong",
+      "design": "Tổng quan hệ thống và hồi quy gộp về ACM",
+      "gradeReason": "Nhiều đoàn hệ với dữ liệu ACM trực tiếp; xử lý một số sai lệch quan trọng nhưng không thể loại bỏ nhiễu",
+      "limitations": "Khai báo lượng uống thấp hơn thực tế, bệnh ở người đã bỏ uống, kiểu uống dồn nhiều, khác biệt giới và giới hạn của hồi quy gộp ở cấp nghiên cứu; nguy cơ xuất hiện ở lượng uống thấp hơn ở phụ nữ. Không phải thử nghiệm can thiệp cai rượu bia nên không thể trực tiếp định lượng lợi ích của việc cai.",
+      "action": "Người không uống không nên bắt đầu uống vì sức khỏe. Người đang uống nên giảm tổng lượng và tránh uống dồn nhiều. Nếu lệ thuộc rượu hoặc có tiền sử hội chứng cai, hãy tìm hỗ trợ y tế và tránh ngừng đột ngột khi không có hỗ trợ.",
+      "sources": [
+        {
+          "evidence": "Toàn văn, Kết quả và Bảng 2, hiệu chỉnh đầy đủ: lượng uống thấp 0.93 (0.85–1.01), 45–<65 g/ngày 1.19 (1.07–1.32), ≥65 g/ngày 1.35 (1.23–1.47); đã lưu XML và văn bản."
+        }
+      ]
+    },
+    "ambient-air-pollution": {
+      "factor": "Ô nhiễm PM2.5 trong không khí xung quanh dài hạn",
+      "originalClaim": "Không có trong kho ban đầu; được bổ sung trong đợt này.",
+      "finding": "Trong một đoàn hệ Medicare lớn, mỗi mức tăng 10 μg/m³ PM2.5 dài hạn có liên quan với ACM cao hơn 7.3%; mỗi mức tăng 10 ppb ozone có liên quan với ACM cao hơn 1.1%. Đây là các mối liên quan với phơi nhiễm môi trường, không tương đương mức giảm tử vong nhờ dùng một máy lọc không khí cụ thể.",
+      "effect": "Nguy cơ ACM tăng 7.3% cho mỗi 10 μg/m³ PM2.5",
+      "ci": "95% CI của mức tăng 7.1%–7.5%",
+      "comparison": "Mỗi mức tăng 10 μg/m³ PM2.5 trung bình năm được ước tính tại nơi cư trú; mô hình hai chất ô nhiễm",
+      "population": "Mỹ: 60,925,443 người thụ hưởng Medicare; 2000–2012; 460,310,521 người-năm",
+      "design": "Đoàn hệ mở toàn quốc",
+      "gradeReason": "Đoàn hệ chất lượng cao, quy mô đặc biệt lớn với dữ liệu ACM trực tiếp; không ngẫu nhiên, có giới hạn về ước tính phơi nhiễm và nhiễu ở cấp cá nhân",
+      "limitations": "Quần thể người cao tuổi ở Mỹ; phơi nhiễm theo mã ZIP không phải lượng hít vào của từng người; thiếu dữ liệu chi tiết về hút thuốc ở cấp cá nhân và các dữ liệu tương tự; mối liên quan không trực tiếp định lượng tác động của can thiệp làm sạch không khí cá nhân.",
+      "action": "Theo dõi chất lượng không khí địa phương; khi ô nhiễm cao, giảm hoạt động gắng sức ngoài trời vào các thời điểm phơi nhiễm cao và cải thiện không khí trong nhà khi khả thi. Cân bằng việc thông khí với tình hình ô nhiễm và nguy cơ lây nhiễm.",
+      "sources": [
+        {
+          "evidence": "Tóm tắt, Kết quả: mỗi 10 μg/m³ PM2.5, ACM tăng 7.3% (7.1%–7.5%); mỗi 10 ppb ozone, tăng 1.1% (1.0%–1.2%)."
+        }
+      ]
+    },
+    "statins-indicated-patients": {
+      "factor": "Statin (theo nguy cơ tim mạch và chỉ định)",
+      "originalClaim": "Không có trong kho ban đầu; được bổ sung trong đợt này.",
+      "finding": "Phân tích gộp dữ liệu từng người tham gia từ 27 thử nghiệm ngẫu nhiên ghi nhận ACM RR 0.91 cho mỗi mức giảm LDL-C 1 mmol/L ở người không có tiền sử bệnh mạch máu. Kết quả áp dụng cho người tham gia thử nghiệm phù hợp với điều trị hạ lipid, không phải dùng thuốc cho mọi người khỏe mạnh; lợi ích tuyệt đối phụ thuộc nguy cơ ban đầu.",
+      "effect": "RR 0.91 cho mỗi mức giảm LDL-C 1 mmol/L (không có tiền sử bệnh mạch máu)",
+      "ci": "95% CI 0.85–0.97",
+      "comparison": "Statin so với nhóm chứng hoặc điều trị cường độ cao hơn so với thấp hơn; chuẩn hóa theo chênh lệch LDL-C",
+      "population": "27 RCT, 174,149 người; con số ACM dành cho phân nhóm không có tiền sử bệnh mạch máu; trung vị 4.8–5.1 năm",
+      "design": "Phân tích gộp dữ liệu từng người tham gia từ các thử nghiệm ngẫu nhiên",
+      "gradeReason": "Bằng chứng ngẫu nhiên gộp trực tiếp về ACM; phân nhóm được nêu rõ, phơi nhiễm được chuẩn hóa và quần thể đủ điều kiện lâm sàng",
+      "limitations": "Bao gồm dự phòng tiên phát và thứ phát; 0.91 thuộc phân nhóm không có tiền sử bệnh. Lợi ích tuyệt đối khác nhau theo nguy cơ. Chưa kiểm tra riêng các ngưỡng kê đơn địa phương năm 2026; mục này không phải cơ sở để tự kê đơn.",
+      "action": "Trao đổi với bác sĩ về statin nếu bạn có ASCVD hoặc đáp ứng chỉ định hạ lipid sau đánh giá. Người khỏe mạnh nguy cơ thấp không nên bắt đầu dùng chỉ để “kéo dài tuổi thọ”; triệu chứng cơ, tương tác và thai kỳ cần được đánh giá riêng.",
+      "sources": [
+        {
+          "evidence": "Tóm tắt, Kết quả: ở người không có tiền sử bệnh mạch máu, mỗi mức giảm LDL-C 1 mmol/L có ACM RR 0.91 (0.85–0.97); RR biến cố mạch máu lớn 0.79 (0.77–0.81), là một tiêu chí khác."
+        }
+      ]
+    },
+    "vitamin-d-general-population": {
+      "factor": "Bổ sung vitamin D (người cao tuổi không qua tuyển chọn đặc biệt)",
+      "originalClaim": "Không có trong kho ban đầu; được bổ sung trong đợt này.",
+      "finding": "VITAL không ghi nhận giảm ACM với vitamin D3 liều 2,000 IU/ngày: HR 0.99, CI bao gồm 1. Điều này không phủ nhận việc điều trị thiếu hụt, bệnh xương hoặc các chỉ định rõ ràng khác, cũng không chứng minh mọi liều đều hoàn toàn an toàn về lâu dài.",
+      "effect": "HR 0.99",
+      "ci": "95% CI 0.87–1.12",
+      "comparison": "Vitamin D3 2,000 IU/ngày so với giả dược",
+      "population": "Mỹ: 25,871 người, nam ≥50 và nữ ≥55 tuổi; trung vị 5.3 năm; 978 ca tử vong",
+      "design": "Thử nghiệm ngẫu nhiên mù đôi đối chứng giả dược với thiết kế nhân tố 2×2",
+      "gradeReason": "Kết quả ACM trực tiếp từ thử nghiệm ngẫu nhiên lớn; ACM là tiêu chí phụ và không thể loại trừ các tác động nhỏ hơn; mức xếp hạng không có nghĩa là có hiệu quả kéo dài tuổi thọ",
+      "limitations": "Không tuyển chọn theo tình trạng thiếu hụt nặng; phần lớn không thiếu hụt, và kết quả không bao quát mọi liều/chỉ định. Các mối liên quan quan sát với vitamin D thấp không xác lập tác động nhân quả của việc bổ sung.",
+      "action": "Không dùng liều cao một cách mù quáng để kéo dài tuổi thọ; khi nghi ngờ thiếu hụt hoặc có chỉ định rõ ràng như sức khỏe xương, cần bổ sung dưới hướng dẫn của bác sĩ.",
+      "sources": [
+        {
+          "evidence": "Tóm tắt, Kết quả: 978 ca tử vong do mọi nguyên nhân; vitamin D so với giả dược HR 0.99 (0.87–1.12); 25,871 người được phân nhóm ngẫu nhiên, trung vị 5.3 năm."
+        }
+      ]
+    },
+    "racquet-sports": {
+      "factor": "Các môn thể thao dùng vợt",
+      "originalClaim": "Chơi các môn thể thao dùng vợt 3 lần/tuần, mỗi lần 45–60 phút làm giảm ACM khoảng 47%; tiêu đề được trích dẫn quy kết quả này cho The Lancet.",
+      "finding": "47% tương ứng với tỷ số nguy cơ tức thời ACM đã hiệu chỉnh ở người chơi các môn dùng vợt, không phải tác động của can thiệp ngẫu nhiên. Tóm tắt không hỗ trợ khuyến nghị chính xác ba buổi 45–60 phút/tuần hoặc xác lập đây là lựa chọn tốt nhất trong mọi môn thể thao. Bài báo đăng trên British Journal of Sports Medicine, không phải The Lancet.",
+      "effect": "HR 0.53",
+      "ci": "95% CI 0.40–0.69",
+      "comparison": "Tham gia môn thể thao dùng vợt so với không tham gia nhóm môn thể thao đó",
+      "population": "80,306 người trưởng thành ở Anh; tuổi trung bình 52±14",
+      "design": "Phân tích gộp các đoàn hệ dân số ở Anh/Scotland",
+      "gradeReason": "Đoàn hệ dân số lớn với dữ liệu ACM trực tiếp; vẫn là mối liên quan không xác lập nhân quả",
+      "limitations": "Hoạt động tự báo cáo, nhiễu do người tham gia khỏe mạnh và điều kiện kinh tế xã hội; không thể ngoại suy vô điều kiện sang bóng bàn hoặc mọi độ tuổi.",
+      "action": "Chọn môn dùng vợt yêu thích, phù hợp với thể trạng và tăng dần; đi khám đánh giá khi có chấn thương khớp hoặc triệu chứng tim mạch.",
+      "sources": [
+        {
+          "evidence": "Tóm tắt, Phương pháp/Kết quả: n=80,306; môn thể thao dùng vợt có ACM HR 0.53 (0.40–0.69), HR tử vong do CVD 0.44 (0.24–0.83)."
+        }
+      ]
+    },
+    "vigorous-activity": {
+      "factor": "Hoạt động thể lực cường độ mạnh",
+      "originalClaim": "15–20 phút/tuần hoạt động cường độ mạnh làm giảm ACM 16%–40%; đạt 50–57 phút có thể giảm thêm.",
+      "finding": "Bản gốc gán toàn bộ khoảng 16–40% của bài báo, vốn bao gồm nhiều tiêu chí tử vong, cho ACM. Khoảng 15 phút/tuần tương ứng ACM thấp hơn 18%, khoảng 19.2 phút tương ứng tử vong do tim mạch thấp hơn 40%, và khoảng 53.6 phút/tuần tương ứng ACM thấp hơn 36%. Đây là các mối liên quan từ mô hình so với 2.2 phút/tuần, không phải lợi ích được bảo đảm khi tập 8 phút mỗi ngày.",
+      "effect": "ACM HR 0.82 (khoảng 15 phút/tuần); 0.64 (53.6 phút/tuần)",
+      "ci": "95% CI tương ứng 0.75–0.89; 0.54–0.77",
+      "comparison": "VPA khoảng 15 hoặc 53.6 phút/tuần so với 2.2 phút/tuần",
+      "population": "71,893 người trưởng thành trong UK Biobank; tuổi trung vị 62.5, thời gian theo dõi trung bình 5.9 năm",
+      "design": "Đoàn hệ tiến cứu dùng gia tốc kế đeo cổ tay, với mô hình hóa liều–đáp ứng",
+      "gradeReason": "Đoàn hệ lớn với đo lường hoạt động khách quan và tiêu chí ACM trực tiếp",
+      "limitations": "Không ngẫu nhiên; sai lệch chọn mẫu và nhiễu tồn dư; điểm thấp nhất của đường cong không phải khuyến nghị tối ưu cho mọi người.",
+      "action": "Khi đã có nền tảng tập luyện và không có chống chỉ định, tăng dần các đợt hoạt động cường độ cao hơn trong thời gian ngắn. Cần đánh giá trước nếu có triệu chứng hoặc bệnh mạn tính không ổn định.",
+      "sources": [
+        {
+          "evidence": "Tóm tắt và Kết quả trong toàn văn, “Mối liên quan liều–đáp ứng của lượng VPA”/Hình 4: 1,927 ca tử vong do mọi nguyên nhân; khoảng 15 phút HR 0.82, 53.6 phút HR 0.64; 19.2 phút HR 0.60 (0.50–0.72) là về tử vong do CVD."
+        }
+      ]
+    },
+    "walking-steps": {
+      "factor": "Đi bộ / số bước hằng ngày",
+      "originalClaim": "Đi bộ giảm tử vong do mọi nguyên nhân hơn 50%; tuổi trung bình của người tham gia là 45.2, và bản gốc lưu ý rằng điều này chỉ cho thấy mối tương quan.",
+      "finding": "Cả 7,000–9,999 lẫn ≥10,000 bước/ngày đều có liên quan với ACM thấp hơn, lần lượt khoảng 72% và 55%. Điều này không xác lập rằng can thiệp đi bộ chắc chắn giảm tử vong hơn 50%, rằng càng nhiều bước luôn càng tốt, hoặc rằng nhịp bước có lợi ích độc lập.",
+      "effect": "HR 0.28; 0.45",
+      "ci": "95% CI tương ứng 0.15–0.54; 0.25–0.81",
+      "comparison": "7,000–9,999 và ≥10,000 bước/ngày so với <7,000 bước/ngày",
+      "population": "CARDIA: 2,110 người trưởng thành da đen/da trắng ở Mỹ, tuổi trung bình 45.2; theo dõi 10.8 năm, 72 ca tử vong",
+      "design": "Một đoàn hệ tiến cứu có đo lường bằng gia tốc kế",
+      "gradeReason": "ACM trực tiếp, nhưng ít ca tử vong và các ước lượng từ một đoàn hệ chưa ổn định",
+      "limitations": "Đo hoạt động trong thời gian ngắn; nhiễu tồn dư và quan hệ nhân quả ngược; 7,000 bước không phải ngưỡng chung cho tất cả mọi người.",
+      "action": "Tăng dần lượng đi bộ từ mức ban đầu của bản thân; cá thể hóa khi có hạn chế vận động, nguy cơ té ngã hoặc bệnh tim phổi.",
+      "sources": [
+        {
+          "evidence": "Toàn văn, Kết quả trong Tóm tắt: n=2,110, 72 ca tử vong; mức trung bình HR 0.28 (0.15–0.54), mức cao HR 0.45 (0.25–0.81); nhịp bước không có mối liên quan có ý nghĩa thống kê sau hiệu chỉnh."
+        }
+      ]
+    },
+    "toothbrushing": {
+      "factor": "Đánh răng",
+      "originalClaim": "Người hiếm khi đánh răng có nguy cơ ung thư, COPD và xơ gan cao hơn lần lượt 9%, 12% và 25%, và tử vong sớm cao hơn 25%; phần hành động nêu đánh răng mang lại −25% ACM.",
+      "finding": "Hiếm khi/không bao giờ đánh răng so với đánh răng đều đặn có ACM HR 1.25; các con số về ung thư, COPD và xơ gan chủ yếu liên quan đến tỷ lệ mắc bệnh. Quan sát này không có nghĩa là bắt đầu đánh răng sẽ giảm ACM 25%, cũng không xác lập tác động nhân quả của chính bàn chải đánh răng.",
+      "effect": "HR 1.25",
+      "ci": "95% CI 1.21–1.28",
+      "comparison": "Hiếm khi/không bao giờ đánh răng so với đánh răng đều đặn",
+      "population": "China Kadoorie Biobank: 512,715 người tuổi 30–79",
+      "design": "Đoàn hệ tiến cứu lớn",
+      "gradeReason": "Đoàn hệ lớn với dữ liệu ACM trực tiếp và hiệu chỉnh nhiều yếu tố gây nhiễu; không phải bằng chứng can thiệp",
+      "limitations": "Tự báo cáo việc đánh răng; có liên quan đến hút thuốc, nghèo đói, sức khỏe trước đó và khả năng tiếp cận chăm sóc y tế.",
+      "action": "Đánh răng đều đặn bằng kem đánh răng chứa fluoride và chăm sóc nha khoa; việc này không thay thế kiểm soát hút thuốc, quản lý huyết áp hoặc các biện pháp tương tự.",
+      "sources": [
+        {
+          "evidence": "Toàn văn, Kết quả trong Tóm tắt: 9.3% hiếm khi/không bao giờ đánh răng; ACM 1.25 (1.21–1.28), ung thư 1.09 (1.04–1.14), COPD 1.12 (1.05–1.20), xơ gan 1.25 (1.09–1.44)."
+        }
+      ]
+    },
+    "tub-bathing": {
+      "factor": "Tắm bồn",
+      "originalClaim": "Tắm bồn hằng ngày so với 1–2 lần/tuần hoặc không tắm bồn: nguy cơ CVD thấp hơn 28%, nguy cơ đột quỵ thấp hơn 26%, nguy cơ xuất huyết trong não thấp hơn 46%; không có mối liên quan với tăng đột tử.",
+      "finding": "Các mức 28%, 26% và 46% trong bản gốc tương ứng với CVD mới mắc, đột quỵ mới mắc và xuất huyết trong não mới mắc; có thể xác minh các con số nhưng chúng không liên quan đến ACM. Không có mối liên quan có ý nghĩa thống kê với đột tử không xác lập rằng tắm bồn hoàn toàn an toàn.",
+      "effect": "Không báo cáo ACM; HR CVD mới mắc 0.72",
+      "ci": "Không báo cáo ACM; 95% CI của CVD mới mắc 0.62–0.84",
+      "comparison": "Tắm bồn gần như hằng ngày/hằng ngày so với 0–2 lần/tuần",
+      "population": "30,076 người Nhật tuổi 40–59, không có CVD hoặc ung thư lúc ban đầu; theo dõi 1990–2009",
+      "design": "Đoàn hệ tiến cứu ở Nhật; các tiêu chí biến cố tim mạch/mạch máu não",
+      "gradeReason": "Bằng chứng gián tiếp với các tiêu chí không phải ACM cho mục này",
+      "limitations": "Không ngẫu nhiên; không thể trực tiếp khái quát thói quen tắm bồn của người Nhật sang tắm vòi sen; kết quả không có ý nghĩa thống kê về đột tử không loại trừ đuối nước, stress nhiệt hoặc các nguy cơ khác.",
+      "action": "Tắm bằng nước ấm dễ chịu với thói quen an toàn. Tránh tắm nước nóng kéo dài hoặc tắm một mình khi dễ ngất, mắc bệnh cấp tính, đã uống rượu bia hoặc có bệnh tim mạch không ổn định.",
+      "sources": [
+        {
+          "evidence": "Tóm tắt, Kết quả: 2,097 biến cố CVD; CVD HR 0.72 (0.62–0.84), đột quỵ 0.74 (0.62–0.87), xuất huyết trong não 0.54 (0.40–0.73); không tìm thấy mối liên quan với đột tử."
+        }
+      ]
+    },
+    "heavy-housework": {
+      "factor": "Việc nhà nặng (nam giới cao tuổi)",
+      "originalClaim": "Nam giới làm việc nhà nặng hằng tuần sau tuổi 72 có thể giảm tử vong trung bình 29%.",
+      "finding": "Tham gia làm việc nhà nặng ở nam giới có liên quan với ACM thấp hơn 29%, nhưng 72 là tuổi trung bình của mẫu; điều kiện tham gia là tuổi ≥65. Điều này không có nghĩa lợi ích chỉ bắt đầu sau tuổi 72 hoặc là kết quả của một thử nghiệm giảm “tử vong trung bình”. Kết quả ở phụ nữ không có ý nghĩa thống kê.",
+      "effect": "HR 0.71",
+      "ci": "95% CI 0.56–0.91",
+      "comparison": "Tham gia làm việc nhà nặng so với không tham gia",
+      "population": "Người trưởng thành sống tại cộng đồng ở Hồng Kông tuổi ≥65; 2,867 người sau khi loại trừ các bệnh mạn tính được chỉ định, tuổi trung bình 72; 452 ca tử vong",
+      "design": "Một đoàn hệ tiến cứu, theo dõi khoảng 9 năm",
+      "gradeReason": "ACM trực tiếp nhưng chỉ từ một đoàn hệ và có phân tầng theo giới; nhiễu đáng kể do khả năng thể chất",
+      "limitations": "Người có thể làm việc nhà có thể vốn đã khỏe hơn; di chuyển đồ nội thất/bình gas không phải khuyến nghị kéo dài tuổi thọ. Đính chính năm 2013 chỉ sửa tỷ lệ nam/nữ tham gia làm việc nhà.",
+      "action": "Làm việc nhà phù hợp trong khả năng; tránh nâng vật nặng khi có tình trạng suy yếu, loãng xương, vấn đề ở lưng hoặc nguy cơ té ngã.",
+      "sources": [
+        {
+          "evidence": "Toàn văn, Tóm tắt/Kết quả: sau hiệu chỉnh thêm BMI, tình trạng suy yếu, cách sắp xếp sống chung và hoạt động giải trí, ACM HR ở nam là 0.71 (0.56–0.91); không có mối liên quan có ý nghĩa thống kê ở nữ. Đính chính PMC3825706 sửa tỷ lệ tham gia làm việc nhà thành 52–81% ở nam và 64–93% ở nữ."
+        }
+      ]
+    },
+    "sleep-duration": {
+      "factor": "Thời lượng ngủ",
+      "originalClaim": "Tử vong thấp nhất khi ngủ 7 giờ; so với 7 giờ, ngủ ≥10 giờ có ACM cao hơn 34% ở nam và 48% ở nữ.",
+      "finding": "Các con số khớp: so với tự báo cáo ngủ 7 giờ, ngủ ≥10 giờ có liên quan với ACM cao hơn 34% ở nam và 48% ở nữ. Ngủ dài có thể phản ánh bệnh tiềm ẩn; điều này không biện minh cho việc buộc người ngủ dài giảm xuống 7 giờ hoặc khẳng định thay đổi thời lượng chắc chắn thay đổi tử vong.",
+      "effect": "Nam HR 1.34; nữ HR 1.48",
+      "ci": "95% CI tương ứng 1.26–1.44; 1.36–1.61",
+      "comparison": "Tự báo cáo ngủ ≥10 giờ so với 7 giờ; các đoàn hệ đo giấc ngủ ban đêm hoặc tổng thời gian ngủ hằng ngày bao gồm ngủ trưa",
+      "population": "9 đoàn hệ ở Nhật, Trung Quốc, Singapore và Hàn Quốc: 322,721 người, tuổi trung bình 54.5; loại trừ CVD/ung thư tự báo cáo lúc ban đầu và tử vong trong 5 năm đầu; 19,419 ca tử vong ở nam và 13,768 ở nữ",
+      "design": "Gộp dữ liệu từng người tham gia từ nhiều đoàn hệ; theo dõi tiến cứu khoảng 13–14 năm",
+      "gradeReason": "ACM trực tiếp từ nhiều đoàn hệ với mối liên quan hình chữ J nhất quán; không xác lập nhân quả",
+      "limitations": "Thời lượng ngủ được tự báo cáo một lần: lúc ban đầu trong phần lớn đoàn hệ và tại lần theo dõi thứ ba trong Shanghai Women’s Health Study; bảng hỏi không được chuẩn hóa giữa các đoàn hệ (giấc ngủ ban đêm hoặc tổng giấc ngủ hằng ngày bao gồm ngủ trưa); nhiễu tồn dư và không có thông tin về chất lượng giấc ngủ, trầm cảm, tình trạng kinh tế xã hội và các yếu tố tương tự. Loại trừ CVD/ung thư lúc ban đầu và tử vong sớm trong 5 năm không thể loại bỏ hoàn toàn quan hệ nhân quả ngược.",
+      "action": "Duy trì giấc ngủ đủ, đều đặn và giúp phục hồi. Ngủ dài kéo dài kèm mệt mỏi, ngáy hoặc buồn ngủ cần được thăm khám tìm nguyên nhân.",
+      "sources": [
+        {
+          "evidence": "Toàn văn, Tóm tắt/Tử vong do mọi nguyên nhân: ≥10 giờ, sau hiệu chỉnh đa biến, nam 1.34 (1.26–1.44), nữ 1.48 (1.36–1.61); tham chiếu 7 giờ; phần Phương pháp loại trừ tử vong trong 5 năm đầu."
+        }
+      ]
+    },
+    "bedtime": {
+      "factor": "Giờ đi ngủ",
+      "originalClaim": "22:00–24:00 là tốt nhất; đi ngủ sớm làm tăng ACM 43%, đi ngủ muộn làm tăng 15%; bản gốc lưu ý còn tranh luận.",
+      "finding": "Nghiên cứu gốc xác minh các mối liên quan của giờ đi ngủ sớm/muộn với kết cục bất lợi, nhưng tóm tắt bài báo gốc đã đọc không cung cấp tác động riêng và CI cho “ACM cao hơn 43%/15%”. Không thể sao chép các con số từ nguồn thứ cấp thành ACM đã hiệu chỉnh đầy đủ. Kết quả hiệu chỉnh đầy đủ trong tóm tắt là HR 1.09 và 1.10 cho tiêu chí gộp tử vong + biến cố tim mạch không tử vong, không phải ACM đơn thuần.",
+      "effect": "Chưa xác minh các con số ACM riêng; HR tiêu chí gộp 1.09/1.10",
+      "ci": "Chưa xác minh ACM; 95% CI của tiêu chí gộp 1.03–1.16/1.02–1.20",
+      "comparison": "Trước khoảng 22:00 hoặc sau nửa đêm so với từ 22:00 đến nửa đêm",
+      "population": "PURE: 112,198 người ở 21 quốc gia; 9.2 năm; 5,633 ca tử vong, 5,346 biến cố tim mạch lớn",
+      "design": "Đoàn hệ tiến cứu đa quốc gia; giờ đi ngủ tự báo cáo",
+      "gradeReason": "Bài báo gốc có theo dõi tử vong, nhưng đợt này chỉ đọc tóm tắt và chưa kiểm tra lại các ước lượng ACM riêng; không thể nâng tiêu chí gộp thành bằng chứng ACM",
+      "limitations": "Nhiễu do lịch sinh hoạt xã hội và bệnh tật; hiệu chỉnh đầy đủ làm giảm rõ rệt mức độ liên quan. Ranh giới chính xác hơi khác nhau giữa phần Phương pháp và Kết luận và không nên coi là ngưỡng cứng.",
+      "action": "Duy trì giấc ngủ đều đặn, đầy đủ theo nhịp sinh học của bản thân; mối liên quan này không biện minh cho việc cố tình trì hoãn một giờ đi ngủ sớm vốn phù hợp.",
+      "sources": [
+        {
+          "evidence": "Tóm tắt, Kết quả: tiêu chí gộp sau hiệu chỉnh tuổi/giới 1.29 (1.22–1.35), 1.11 (1.03–1.20); sau hiệu chỉnh đầy đủ 1.09 (1.03–1.16), 1.10 (1.02–1.20). Các mức 43%/15% từ nguồn thứ cấp ban đầu được giữ lại với trạng thái ACM chưa xác minh."
+        }
+      ]
+    },
+    "sedentary-time": {
+      "factor": "Thời gian ít vận động và xem tivi",
+      "originalClaim": "Mỗi giờ ít vận động tăng thêm làm tăng nguy cơ mắc CVD 4%, ung thư 1% và ACM 3%; các ngưỡng là 6–8 giờ/ngày đối với tổng thời gian ngồi và 3–4 giờ/ngày đối với xem tivi.",
+      "finding": "Thời gian ít vận động cao hơn có liên quan với ACM cao hơn, nhưng mức tăng cố định 3% cho mỗi giờ thêm không áp dụng ở mọi mức. Tổng quan hệ thống tương ứng ghi nhận quan hệ phi tuyến: khoảng 1% mỗi giờ khi tổng thời gian ít vận động ≤8 giờ và khoảng 4% khi trên 8 giờ; xem tivi cũng có các độ dốc khác nhau. Các điểm 6–8 giờ và 3–4 giờ là điểm chuyển của mô hình quan sát, không phải giới hạn an toàn.",
+      "effect": "RR cho mỗi 1 giờ tăng thêm của tổng thời gian ít vận động 1.01 (≤8 h/ngày); 1.04 (>8 h/ngày)",
+      "ci": "95% CI tương ứng 1.00–1.01; 1.03–1.05",
+      "comparison": "Tăng thêm 1 giờ/ngày của tổng thời gian ít vận động trong từng khoảng phơi nhiễm",
+      "population": "34 nghiên cứu tiến cứu; 1,331,468 người tham gia không trùng lặp trên các kết cục khác nhau",
+      "design": "Tổng quan hệ thống và phân tích gộp liều–đáp ứng, đã hiệu chỉnh hoạt động thể lực",
+      "gradeReason": "ACM trực tiếp được gộp từ nhiều đoàn hệ; không phải can thiệp ngẫu nhiên",
+      "limitations": "Phần lớn là thời gian ngồi tự báo cáo, có tính không đồng nhất và nhiễu tồn dư. Tử vong do ung thư không có mối liên quan có ý nghĩa thống kê trong tổng quan này và không được nhầm với tỷ lệ mắc ung thư. Không truy cập được PDF báo cáo gốc tiếng Trung và PDF cũ của WHO.",
+      "action": "Thay một phần thời gian ngồi bằng vận động hoặc hoạt động trong khả năng và tập thể dục đều đặn. Nếu không thể đứng, hãy làm theo hướng dẫn phục hồi chức năng; không ấn định tần suất nghỉ ngắt quãng chung chưa được chứng minh.",
+      "sources": [
+        {
+          "evidence": "Toàn văn, Tóm tắt: RR ACM/giờ của tổng thời gian ít vận động đã hiệu chỉnh PA là 1.01 (1.00–1.01) khi ≤8 h và 1.04 (1.03–1.05) khi >8 h; xem tivi 1.03 (1.01–1.04) khi ≤3.5 h và 1.06 (1.05–1.08) khi >3.5 h."
+        }
+      ]
+    },
+    "pessimism": {
+      "factor": "Bi quan / lạc quan",
+      "originalClaim": "Mỗi 1 SD về mức độ bi quan có liên quan với ACM HR 1.134 và HR tử vong do tim mạch 1.196; lạc quan không có mối liên quan có ý nghĩa thống kê. Bản gốc gọi quan hệ nhân quả ngược là ‘không thể xảy ra’.",
+      "finding": "HR 1.134 và các số liệu liên quan trong bản gốc khớp với bài báo và tương ứng với mỗi mức tăng 1 SD của điểm bi quan. Kết quả không có ý nghĩa thống kê về lạc quan không chứng minh rằng lạc quan là vô ích; việc bài báo mô tả quan hệ nhân quả ngược là ‘ít khả năng xảy ra’ không loại trừ khả năng này.",
+      "effect": "ACM HR 1.134 cho mỗi 1 SD về mức độ bi quan; HR sau khi điều chỉnh thêm là 1.160",
+      "ci": "Các khoảng tin cậy 95% tương ứng: 1.065–1.207; 1.083–1.242",
+      "comparison": "Mỗi mức tăng 1 SD của điểm bi quan",
+      "population": "Mẫu nghiên cứu liên quan đến sinh đôi tại Úc, tuổi ≥50: 2,978 người, 1,068 ca tử vong sau khoảng 20 năm; cỡ mẫu trong các mô hình nhỏ hơn do thiếu dữ liệu",
+      "design": "Một đoàn hệ tiến cứu; các mô hình sống còn có tính đến sự phân cụm theo gia đình",
+      "gradeReason": "Đo trực tiếp ACM nhưng chỉ có một đoàn hệ, với nhiễu đáng kể do tính cách/sức khỏe",
+      "limitations": "Đặc điểm tâm lý không được phân bổ ngẫu nhiên; chưa loại trừ quan hệ nhân quả ngược; chưa có bằng chứng thử nghiệm trực tiếp cho thấy điều trị vấn đề cảm xúc làm giảm ACM.",
+      "action": "Tìm sự hỗ trợ hoặc trợ giúp chuyên môn khi tình trạng bi quan hoặc tâm trạng sa sút kéo dài ảnh hưởng đến cuộc sống; ép bản thân lạc quan không thay thế được điều trị.",
+      "sources": [
+        {
+          "evidence": "Toàn văn, Tóm tắt và Bảng 1: điểm số đã điều chỉnh theo tuổi, với giới tính được đưa vào mô hình, ACM HR 1.134 (1.065–1.207); khi thêm BMI, rượu và hút thuốc, HR 1.160 (1.083–1.242); lạc quan không có mối liên quan có ý nghĩa thống kê."
+        }
+      ]
+    },
+    "wealth": {
+      "factor": "Tài sản ròng / nguồn lực tài chính",
+      "originalClaim": "5,414 người trưởng thành trung niên (trung bình 46.7 tuổi): tài sản ròng cao hơn có liên quan với tuổi thọ cao hơn, với chiều hướng tương tự ở 2,490 anh chị em ruột và người sinh đôi.",
+      "finding": "Cỡ mẫu và chiều hướng trong bản gốc khớp với nghiên cứu. Với mỗi US$50,000 tài sản ròng tăng thêm, ACM HR là 0.95 và HR trong so sánh nội gia đình là 0.94, nhưng khoảng tin cậy của phân nhóm chỉ gồm người sinh đôi bao trùm 1. Điều này không cho thấy một khoản đầu tư cụ thể kéo dài tuổi thọ theo tỷ lệ tương ứng với phần tài sản tăng thêm, cũng không mô tả tác động ở cấp độ quần thể của bất bình đẳng tài sản.",
+      "effect": "HR 0.95 cho mỗi US$50,000 tài sản ròng tăng thêm; HR trong so sánh nội gia đình 0.94",
+      "ci": "Các khoảng tin cậy 95% tương ứng: 0.94–0.97; 0.91–0.97",
+      "comparison": "Mỗi US$50,000 tăng thêm trong tài sản ròng tự báo cáo giai đoạn 1994–1996 (đơn vị phân tích của nghiên cứu)",
+      "population": "MIDUS tại Hoa Kỳ: 5,414 người, tuổi trung bình 46.7, theo dõi gần 24 năm; 1,010 ca tử vong; 2,490 anh chị em ruột/người sinh đôi",
+      "design": "Một đoàn hệ và các so sánh nội gia đình",
+      "gradeReason": "Đo trực tiếp ACM và có so sánh trong gia đình, nhưng chỉ có một đoàn hệ với nhiễu do kinh tế/sức khỏe chưa được kiểm soát đầy đủ",
+      "limitations": "Tài sản ròng tự báo cáo; tính đại diện về nhân khẩu học hạn chế; nhiễu do những yếu tố riêng của từng cá nhân và sự hao hụt tài sản liên quan đến sức khỏe; không thử nghiệm can thiệp cải thiện thu nhập.",
+      "action": "Ưu tiên chỗ ở ổn định, khả năng tiếp cận chăm sóc y tế và an toàn tài chính cơ bản; đầu tư rủi ro cao không phải là can thiệp sức khỏe.",
+      "sources": [
+        {
+          "evidence": "Toàn văn được lưu trữ trong dự án nghiên cứu của tác giả, Kết quả/Bảng 2: HR của toàn bộ mẫu là 0.95 (0.94–0.97) cho mỗi $50,000; so sánh nội gia đình 0.94 (0.91–0.97); chỉ riêng người sinh đôi cùng trứng 0.95 (0.87–1.04)."
+        }
+      ]
+    },
+    "weight-change": {
+      "factor": "Thay đổi cân nặng từ đầu tuổi trưởng thành đến trung niên",
+      "originalClaim": "Từ béo phì xuống thừa cân so với duy trì béo phì có ACM thấp hơn 54% (HR 0.46); từ thừa cân xuống cân nặng bình thường không cho thấy mức giảm (HR 1.12). Phần hành động viết tắt thành giảm cân −54%.",
+      "finding": "HR 0.46 khi từ béo phì xuống thừa cân so với duy trì béo phì là đúng. HR 1.12 khi từ thừa cân xuống cân nặng bình thường so với duy trì thừa cân có khoảng tin cậy bao trùm 1: không có khác biệt có ý nghĩa thống kê, chứ không chứng minh rằng đạt cân nặng bình thường là vô ích hoặc có hại. Việc giảm cân diễn ra từ tuổi 25 đến trung niên, không phải giảm cân ngoài ý muốn ở tuổi già.",
+      "effect": "Béo phì→thừa cân HR 0.46; thừa cân→bình thường HR 1.12",
+      "ci": "Các khoảng tin cậy 95% tương ứng: 0.27–0.77; 0.86–1.45",
+      "comparison": "Lần lượt so với duy trì béo phì và duy trì thừa cân",
+      "population": "NHANES: 24,205 người trưởng thành Hoa Kỳ, tuổi 40–74; hồi tưởng cân nặng ở tuổi 25 và 10 năm trước thời điểm ban đầu; theo dõi 10.7 năm, 5,846 ca tử vong",
+      "design": "Nghiên cứu quan sát về tiền sử cân nặng được hồi tưởng, liên kết với dữ liệu tử vong theo dõi tiến cứu",
+      "gradeReason": "Đo trực tiếp ACM nhưng có sai lệch hồi tưởng, mẫu người giảm cân nhỏ và không phân biệt được chủ đích hay nguyên nhân giảm cân",
+      "limitations": "Chỉ 214 người chuyển từ béo phì sang thừa cân; không phân bổ ngẫu nhiên; không chứng minh lợi ích nhân quả 54% của giảm cân có chủ đích.",
+      "action": "Người béo phì nên lập kế hoạch quản lý cân nặng và sức mạnh cơ bắp lâu dài với nhân viên y tế. Không áp dụng những kết luận này cho tuổi cao, thai kỳ hoặc giảm cân ngoài ý muốn.",
+      "sources": [
+        {
+          "evidence": "Toàn văn, Tóm tắt và Bảng 3: béo phì-thừa cân so với béo phì-béo phì 0.46 (0.27–0.77); thừa cân-bình thường so với thừa cân-thừa cân 1.12 (0.86–1.45); Bảng 1: 214 người tham gia chuyển từ béo phì→thừa cân."
+        }
+      ]
+    },
+    "covid-pandemic": {
+      "factor": "Đại dịch COVID-19 và số ca tử vong vượt mức do mọi nguyên nhân",
+      "originalClaim": "Tỷ lệ tử vong do COVID tại Hoa Kỳ khoảng 1.5%, với tuổi thọ kỳ vọng giảm 2 năm; tiêu đề bài báo được trích dẫn đề cập đến ACM trong làn sóng đầu tiên tại 21 nước công nghiệp hóa.",
+      "finding": "Bài báo gốc cung cấp bằng chứng về tử vong vượt mức do mọi nguyên nhân trong làn sóng đầu tiên, nhưng 21 nước gồm 19 nước châu Âu cộng với Úc và New Zealand, không có Hoa Kỳ. Bài báo không thể làm căn cứ cho ‘tỷ lệ tử vong do COVID tại Hoa Kỳ 1.5%’ hoặc ‘tuổi thọ kỳ vọng giảm 2 năm’ trong bản gốc; con số thứ nhất cũng thiếu thời điểm, mẫu số và định nghĩa tỷ lệ tử vong trên ca bệnh/trên người nhiễm. Tử vong vượt mức trong đại dịch bao gồm các tác động gián tiếp như gián đoạn chăm sóc y tế.",
+      "effect": "206,000 ca tử vong vượt mức tại 21 nước từ giữa tháng 2 đến cuối tháng 5 năm 2020; không phải HR ở cấp cá nhân",
+      "ci": "Khoảng khả tín Bayes 95% 178,100–231,000; không phải khoảng tin cậy 95%",
+      "comparison": "Số ca tử vong do mọi nguyên nhân quan sát được so với kịch bản phản thực không có đại dịch được mô hình hóa",
+      "population": "Hệ thống đăng ký tử vong quốc gia tại 21 nước công nghiệp hóa, làn sóng đầu tiên năm 2020; không bao gồm Hoa Kỳ",
+      "design": "Nghiên cứu chuỗi thời gian quần thể/nghiên cứu sinh thái sử dụng tổ hợp 16 mô hình Bayes",
+      "gradeReason": "Đo trực tiếp tổng số ca ACM, nhưng dữ liệu sinh thái không thể ước tính ảnh hưởng của một lần nhiễm bệnh lên ACM của cá nhân",
+      "limitations": "Mô hình phản thực và chậm trễ đăng ký tử vong; không thể ngoại suy bối cảnh năm 2020 sang các biến thể, tình trạng miễn dịch và chăm sóc hiện nay. Liên kết CDC gốc là cổng dữ liệu tử vong chung, không trực tiếp hỗ trợ các số liệu ban đầu.",
+      "action": "Giảm phơi nhiễm với tác nhân gây nhiễm và duy trì chăm sóc bệnh mạn tính cùng khả năng tiếp cận y tế kịp thời. Tuân theo hướng dẫn phòng ngừa/điều trị hiện đang áp dụng thay vì ước tính nguy cơ cá nhân từ các tỷ lệ phần trăm cố định của năm 2020.",
+      "sources": [
+        {
+          "evidence": "Toàn văn PDF gốc, Tóm tắt, Kết quả và Bảng 1: 206,000 ca tử vong vượt mức tại 21 nước (khoảng khả tín 95% 178,100–231,000); phần Giới thiệu nêu rõ 19 nước châu Âu + Úc/New Zealand; không phải ước tính tỷ lệ tử vong trên người nhiễm tại Hoa Kỳ hay tuổi thọ kỳ vọng."
+        }
+      ]
+    },
+    "resistance-training": {
+      "factor": "Tập kháng lực / tăng cường sức mạnh cơ bắp",
+      "originalClaim": "Yếu tố mới; kho dữ liệu gốc không có số liệu tương ứng.",
+      "finding": "Một phân tích gộp các đoàn hệ tiến cứu ghi nhận mối liên quan giữa có hoạt động tăng cường sức mạnh cơ bắp, so với không có, với ACM thấp hơn khoảng 15%. Đường cong gợi ý lợi ích lớn hơn ở khoảng 30–60 phút/tuần, nhưng tác động ở mức tập cao còn chưa chắc chắn; đây không phải liều tối ưu đã được xác nhận bằng thử nghiệm ngẫu nhiên.",
+      "effect": "RR 0.85",
+      "ci": "Khoảng tin cậy 95% 0.79–0.93",
+      "comparison": "Có bất kỳ hoạt động tăng cường sức mạnh cơ bắp nào so với không có, điều chỉnh theo hoạt động aerobic khi có thể",
+      "population": "Tổng hợp ACM theo có/không hoạt động: 7 nghiên cứu, 263,058 người, 42,133 ca tử vong; toàn bộ tổng quan gồm 16 nghiên cứu",
+      "design": "Tổng quan hệ thống/phân tích gộp các đoàn hệ tiến cứu",
+      "gradeReason": "Tổng hợp bằng chứng trực tiếp về ACM với chiều hướng nhất quán giữa các đoàn hệ; mức B của dự án không phải mức GRADE của bài báo, vốn đánh giá độ chắc chắn của bằng chứng về ACM là rất thấp",
+      "limitations": "I²=83%; tự báo cáo, sai lệch do người tham gia khỏe mạnh và nhiễu; đường cong hình chữ J không xác lập rằng tập nhiều hơn là có hại.",
+      "action": "Nếu thể trạng cho phép, tăng dần mức tập các nhóm cơ chính song song với hoạt động aerobic. Đau, phẫu thuật gần đây hoặc bệnh mạn tính không ổn định đòi hỏi được đánh giá trước và điều chỉnh.",
+      "sources": [
+        {
+          "evidence": "Toàn văn, Bảng 1 và mục Tử vong do mọi nguyên nhân: 7 nghiên cứu, 42,133/263,058 ca tử vong/người tham gia, RR 0.85 (0.79–0.93), I² 83%; RR của từng nghiên cứu đều <1; GRADE gốc: rất thấp."
+        }
+      ]
+    },
+    "social-isolation": {
+      "factor": "Cô lập xã hội, cô đơn và sống một mình",
+      "originalClaim": "Yếu tố mới; kho dữ liệu gốc không có số liệu tương ứng.",
+      "finding": "Kết quả phân tích gộp đã điều chỉnh ghi nhận cô lập xã hội, cô đơn và sống một mình có liên quan với OR tử vong lần lượt là 1.29, 1.26 và 1.32. Đây là những phơi nhiễm khác nhau; không thể viết lại OR thành HR hay mức tăng nguy cơ tử vong tuyệt đối của cá nhân. Chưa chứng minh rằng tăng tiếp xúc xã hội nhất thiết đảo ngược nguy cơ với cùng mức độ.",
+      "effect": "Cô lập xã hội OR 1.29; cô đơn OR 1.26; sống một mình OR 1.32",
+      "ci": "Không báo cáo (bản tóm tắt gốc đã đọc không nêu khoảng tin cậy 95%; không bổ sung từ nguồn thứ cấp)",
+      "comparison": "Cô lập xã hội/cô đơn/sống một mình so với nhóm có mức phơi nhiễm tương ứng thấp hơn trong từng nghiên cứu",
+      "population": "Các nghiên cứu theo dõi tử vong tính đến tháng Hai 2014; quần thể và các yếu tố điều chỉnh khác nhau giữa các nghiên cứu",
+      "design": "Tổng quan hệ thống và phân tích gộp các nghiên cứu gốc",
+      "gradeReason": "Tổng hợp nhiều nghiên cứu có kết cục tử vong trực tiếp; không phải nghiên cứu can thiệp và không xác lập quan hệ nhân quả",
+      "limitations": "Sức khỏe ban đầu ảnh hưởng đến kết quả; định nghĩa phơi nhiễm không đồng nhất; sống một mình không đồng nghĩa với cô đơn; vòng rà soát này chỉ đọc bản tóm tắt.",
+      "action": "Duy trì các mối liên hệ đáng tin cậy và cách tìm kiếm trợ giúp theo mong muốn cá nhân; giải quyết rào cản về thính lực, khả năng đi lại, trầm cảm và các vấn đề tương tự. Không phải ai sống một mình cũng cần sống chung với người khác.",
+      "sources": [
+        {
+          "evidence": "Tóm tắt báo cáo OR đã điều chỉnh: cô lập xã hội 1.29, cô đơn 1.26 và sống một mình 1.32; sức khỏe ban đầu ảnh hưởng đến kết quả; không liệt kê khoảng tin cậy."
+        }
+      ]
+    },
+    "intensive-bp-control": {
+      "factor": "Kiểm soát huyết áp tích cực ở người phù hợp",
+      "originalClaim": "Yếu tố mới; kho dữ liệu gốc không có số liệu tương ứng.",
+      "finding": "Ở người tham gia SPRINT không mắc đái tháo đường và có nguy cơ tim mạch cao, mục tiêu huyết áp tâm thu <120 so với <140 mmHg làm giảm ACM khoảng 27%. Đây là thử nghiệm chiến lược điều trị, không phải bằng chứng cho thấy thuốc hạ huyết áp kéo dài tuổi thọ ở mọi người khỏe mạnh; HR 0.75 cho kết cục gộp CVD và HR 0.73 cho ACM được báo cáo riêng.",
+      "effect": "ACM HR 0.73",
+      "ci": "Khoảng tin cậy 95% 0.60–0.90",
+      "comparison": "Mục tiêu huyết áp tâm thu tích cực <120 so với mục tiêu tiêu chuẩn <140 mmHg",
+      "population": "9,361 người trưởng thành có SBP ≥130 mmHg, nguy cơ tim mạch cao và không mắc đái tháo đường",
+      "design": "Thử nghiệm ngẫu nhiên có đối chứng SPRINT; thời gian theo dõi trung vị 3.26 năm, dừng sớm",
+      "gradeReason": "So sánh ngẫu nhiên trực tiếp về ACM; phạm vi áp dụng được xác định rõ, vẫn lưu ý hạn chế do dừng sớm và biến cố bất lợi",
+      "limitations": "Dừng sớm có thể làm ước tính lợi ích cao hơn thực tế; hạ huyết áp, ngất, bất thường điện giải và tổn thương thận cấp thường gặp hơn; không thể khái quát cho người mắc đái tháo đường hoặc người huyết áp bình thường có nguy cơ thấp.",
+      "action": "Nếu đã được chẩn đoán tăng huyết áp và có nguy cơ cao hơn, hãy thảo luận mục tiêu với bác sĩ và theo dõi chức năng thận, điện giải cùng triệu chứng khi thay đổi tư thế. Không tự thêm thuốc hoặc cố đạt mục tiêu của thử nghiệm.",
+      "sources": [
+        {
+          "evidence": "Tóm tắt, Phương pháp/Kết quả: n=9,361; ACM HR 0.73 (0.60–0.90), P=.003; kết cục gộp CVD chính 0.75 (0.64–0.89); nhóm điều trị tích cực có nhiều biến cố nghiêm trọng hơn về hạ huyết áp, ngất, điện giải và thận."
+        }
+      ]
+    },
+    "cardiorespiratory-fitness": {
+      "factor": "Thể lực tim phổi (CRF)",
+      "originalClaim": "Mục mới; kho dữ liệu gốc không liệt kê riêng thể lực tim phổi.",
+      "finding": "Mỗi mức tăng 1 MET của thể lực tim phổi đo bằng nghiệm pháp gắng sức có liên quan với ACM thấp hơn. Đây là mối liên quan quan sát về năng lực thể chất, không phải lợi ích được bảo đảm của việc ‘tập thể dục thêm 1 MET’.",
+      "effect": "RR 0.88 cho mỗi mức tăng 1 MET của CRF",
+      "ci": "0.83–0.93",
+      "comparison": "Mỗi mức tăng 1 MET của CRF; không phải so sánh số phút tập thể dục",
+      "population": "34 đoàn hệ người trưởng thành trong tổng quan; phân tích ACM theo mức phơi nhiễm liên tục sử dụng một tập con",
+      "design": "Phân tích gộp liều–đáp ứng các nghiên cứu đoàn hệ",
+      "gradeReason": "Tổng hợp các đoàn hệ với phép đo tương đối khách quan, nhưng chỉ riêng mối liên quan không thể xác lập tác động nhân quả của việc thay đổi thể lực.",
+      "limitations": "Tính không đồng nhất rất cao; bệnh có sẵn, di truyền và quy trình nghiệm pháp ảnh hưởng đến CRF; tìm kiếm tài liệu đến 2019-12-26.",
+      "action": "Dùng thể lực như một thông tin gợi ý khi đánh giá năng lực thể chất và tăng dần mức tập tùy theo sức khỏe ban đầu; không trực tiếp dùng RR để ước tính số năm sống thêm của cá nhân.",
+      "sources": [
+        {
+          "evidence": "Tóm tắt trên Europe PMC, Kết quả: ACM RR 0.88 (0.83–0.93) cho mỗi 1 MET; đoạn trích tìm kiếm từ văn bản gốc cho biết I²=99.4% ở phân tích này."
+        }
+      ]
+    },
+    "dapagliflozin-ckd": {
+      "factor": "Dapagliflozin (một số trường hợp bệnh thận mạn cụ thể)",
+      "originalClaim": "Mục mới; kho dữ liệu gốc không liệt kê thuốc ức chế SGLT2.",
+      "finding": "Ở người mắc CKD đáp ứng tiêu chuẩn tham gia DAPA-CKD, nhóm được phân ngẫu nhiên dùng thuốc có ACM thấp hơn. Đây không phải bằng chứng cho việc dùng thuốc chống lão hóa ở người khỏe mạnh.",
+      "effect": "HR 0.69; tử vong 4.7% so với 6.8%",
+      "ci": "0.53–0.88",
+      "comparison": "Dapagliflozin 10 mg/ngày so với giả dược, cả hai đều trên nền chăm sóc tiêu chuẩn",
+      "population": "4,304 người trưởng thành mắc CKD; eGFR 25–75, UACR 200–5,000 mg/g; theo dõi trung vị 2.4 năm; có/không có đái tháo đường típ 2",
+      "design": "Thử nghiệm ngẫu nhiên, mù đôi, có đối chứng giả dược; ACM là kết cục phụ quan trọng được định trước",
+      "gradeReason": "Phân bổ ngẫu nhiên và ghi nhận trực tiếp ACM; hạn chế chính là phạm vi quần thể áp dụng và việc dừng sớm.",
+      "limitations": "Dừng sớm vì hiệu quả; không thể khái quát cho người khỏe mạnh không mắc CKD, người đái tháo đường típ 1 hoặc mắc các bệnh thận bị loại khỏi nghiên cứu. Các mức 4.7%/6.8% là tỷ lệ tử vong trong thời gian thử nghiệm, không phải nguy cơ suốt đời.",
+      "action": "Bác sĩ cần đánh giá CKD và các chỉ định khác, cân nhắc nguy cơ giảm thể tích tuần hoàn, nhiễm trùng, nhiễm toan ceton và các nguy cơ khác. Liều nêu ở đây chỉ mô tả phác đồ trong thử nghiệm.",
+      "sources": [
+        {
+          "evidence": "Tóm tắt/Phương pháp/Kết quả và Bảng 2: ACM là kết cục phụ được định trước, 101/2,152 so với 146/2,152; HR 0.69 (0.53–0.88); thời gian trung vị 2.4 năm."
+        }
+      ]
+    },
+    "semaglutide-select": {
+      "factor": "Semaglutide (quần thể đủ điều kiện tham gia SELECT)",
+      "originalClaim": "Mục mới; kho dữ liệu gốc không liệt kê thuốc chủ vận thụ thể GLP-1.",
+      "finding": "Ước tính ACM của SELECT nghiêng về giảm tử vong, nhưng phép kiểm định theo thứ bậc của thử nghiệm chính không vượt qua bước tử vong do tim mạch. Vì vậy, không thể xem ACM là bằng chứng khẳng định tính ưu việt trong quy trình kiểm soát sai số do kiểm định nhiều lần.",
+      "effect": "HR 0.81 (diễn giải mang tính thăm dò)",
+      "ci": "0.71–0.93",
+      "comparison": "Semaglutide tiêm dưới da 2.4 mg mỗi tuần so với giả dược, trên nền chăm sóc tiêu chuẩn",
+      "population": "17,604 người; tuổi ≥45, BMI ≥27, đã có bệnh tim mạch, không mắc đái tháo đường; theo dõi trung bình 39.8 tháng",
+      "design": "Thử nghiệm ngẫu nhiên, mù đôi và phân tích kết cục tử vong của thử nghiệm",
+      "gradeReason": "Bằng chứng ngẫu nhiên, bị hạ mức vì kiểm định theo thứ bậc đối với ACM không được hoàn tất; mức B ở đây không có nghĩa là nghiên cứu quan sát.",
+      "limitations": "Không thể khái quát cho người trẻ hơn, người không có bệnh tim mạch hoặc người có BMI bình thường; do nhà sản xuất tài trợ; ngừng thuốc do biến cố bất lợi trong thử nghiệm chính là 16.6% so với 8.2%.",
+      "action": "Chỉ cân nhắc trong các chỉ định lâm sàng phù hợp; kết quả ACM mang tính thăm dò không phải lời hứa kéo dài tuổi thọ cho người khỏe mạnh.",
+      "sources": [
+        {
+          "evidence": "Kết quả: ACM HR 0.81 (0.71–0.93); tử vong do tim mạch 0.85 (0.71–1.01)."
+        },
+        {
+          "evidence": "Các kết cục hiệu quả: tử vong do tim mạch không đạt ngưỡng kiểm định theo thứ bậc, nên không thực hiện bước kiểm định tính ưu việt tiếp theo đối với ACM; tóm tắt trên Europe PMC báo cáo tỷ lệ ngừng thuốc 16.6% so với 8.2%. Yêu cầu truy cập toàn văn trên trang gốc trả về 403; không khẳng định đã đọc toàn văn."
+        }
+      ]
+    },
+    "aspirin-primary-prevention": {
+      "factor": "Aspirin (dự phòng tiên phát ở người cao tuổi)",
+      "originalClaim": "Phản ví dụ mới; không thể mặc định rằng thuốc dự phòng kéo dài tuổi thọ.",
+      "finding": "ASPREE không ủng hộ việc bắt đầu dùng aspirin hằng ngày để kéo dài tuổi thọ ở người cao tuổi chưa có bệnh tim mạch trước đó. Kết cục phụ ACM phát tín hiệu tử vong cao hơn, nhưng chưa điều chỉnh cho nhiều phép so sánh và cần diễn giải thận trọng.",
+      "effect": "HR 1.14; 12.7 so với 11.1 trên 1,000 người-năm",
+      "ci": "1.01–1.29 (chưa điều chỉnh cho nhiều phép so sánh)",
+      "comparison": "Aspirin 100 mg/ngày so với giả dược",
+      "population": "19,114 người cao tuổi sống trong cộng đồng, nhìn chung ≥70 tuổi (người tham gia Hoa Kỳ da đen/gốc Tây Ban Nha ≥65 tuổi), không có bệnh tim mạch, sa sút trí tuệ hoặc khuyết tật; thời gian trung vị 4.7 năm",
+      "design": "Thử nghiệm ngẫu nhiên, mù đôi; ACM là kết cục phụ",
+      "gradeReason": "Bằng chứng ngẫu nhiên trực tiếp về ACM, nhưng nhiều phép kiểm định kết cục phụ và tín hiệu tử vong do ung thư ngoài dự kiến làm hạn chế độ chắc chắn.",
+      "limitations": "Không hoàn toàn nhất quán với các nghiên cứu trước; không áp dụng cho dự phòng thứ phát sau nhồi máu cơ tim/đột quỵ; không có nghĩa là aspirin làm tăng ACM ở mọi lứa tuổi.",
+      "action": "Không tự bắt đầu dùng aspirin chỉ để kéo dài tuổi thọ. Nếu đang dùng vì chỉ định rõ ràng, hãy trao đổi với bác sĩ thay vì ngừng thuốc dựa trên thử nghiệm này.",
+      "sources": [
+        {
+          "evidence": "Kết quả: 1,052 ca tử vong; ACM 12.7 so với 11.1 trên 1,000 người-năm, HR 1.14 (1.01–1.29)."
+        },
+        {
+          "evidence": "Phần Thảo luận nêu rõ các khoảng tin cậy chưa được điều chỉnh cho nhiều kết cục phụ; tác giả nhấn mạnh cần diễn giải thận trọng kết quả ACM cao hơn."
+        }
+      ]
+    },
+    "walking-steps-2025": {
+      "factor": "Số bước hằng ngày (cập nhật tổng quan năm 2025)",
+      "originalClaim": "Bổ sung bằng chứng gộp từ nhiều đoàn hệ ngoài mục số bước của một đoàn hệ trong bản gốc.",
+      "finding": "Tóm tắt tổng quan năm 2025 ghi nhận 7,000 so với 2,000 bước/ngày có liên quan với ACM thấp hơn. Không thể trực tiếp coi mối liên quan giữa các nhóm là lợi ích can thiệp cá nhân khi tăng từ 2,000 lên 7,000 bước.",
+      "effect": "HR 0.53 (báo cáo trong tóm tắt)",
+      "ci": "0.46–0.60",
+      "comparison": "7,000 so với 2,000 bước/ngày được đo bằng thiết bị, theo mô hình liều–đáp ứng",
+      "population": "Các đoàn hệ tiến cứu ở người trưởng thành; 14 nghiên cứu trong so sánh ACM này; tổng quan tìm kiếm tài liệu đến 2025-02-14",
+      "design": "Tổng quan hệ thống và phân tích gộp liều–đáp ứng",
+      "gradeReason": "Tổng hợp bằng chứng trực tiếp về ACM từ nhiều đoàn hệ, với số bước đo bằng thiết bị; độ chắc chắn trung bình theo GRADE của tác giả không phải độ chắc chắn về quan hệ nhân quả theo cách đánh giá của dự án.",
+      "limitations": "Nhiễu còn sót lại; không có kết luận phân tầng theo tuổi; khác biệt về thiết bị, thời gian đo và bệnh có sẵn. Vòng này dựa trên số liệu trong tóm tắt, chưa rà soát toàn văn theo từng bảng.",
+      "action": "Tăng số bước trong khả năng của bạn; 7,000 có thể là mục tiêu đạt dần cho một số người, không phải ngưỡng bắt buộc cho tất cả.",
+      "sources": [
+        {
+          "evidence": "Kết quả: 14 nghiên cứu ACM; 7,000 so với 2,000 bước HR 0.53 (0.46–0.60), I²=36.3%; GRADE về ACM của tác giả: trung bình."
+        }
+      ]
+    },
+    "metformin-adverse-events": {
+      "factor": "Phản ứng bất lợi của metformin (kiểm tra mẫu số và định nghĩa)",
+      "originalClaim": "Thiếu vitamin B12 7%–17.4%; phản ứng bất lợi đường tiêu hóa lên đến 53%; mệt mỏi 9%, đau đầu 6%; nhiễm toan lactic nghiêm trọng và tổn thương gan hiếm gặp.",
+      "finding": "Con số 53% trên nhãn thuốc Hoa Kỳ nói về tiêu chảy trong một thử nghiệm cụ thể; suy nhược 9% và đau đầu 6% cũng từ thử nghiệm đó, không phải tỷ lệ chung ở tất cả người dùng metformin. Khoảng 7% trong một thử nghiệm 29 tuần có B12 huyết thanh giảm xuống dưới mức bình thường, không nhất thiết là thiếu hụt có triệu chứng; giá trị cao nhất 17.4% chưa được xác minh từ nhãn này. Nhiễm toan lactic có cảnh báo đóng khung; tổn thương gan là báo cáo sau lưu hành, và báo cáo tự nguyện không cho phép ước tính tần suất.",
+      "effect": "Không đánh giá tác động lên ACM; tiêu chảy 53% so với 12%",
+      "ci": "Không báo cáo ACM; không liệt kê khoảng ước tính cho phản ứng bất lợi",
+      "comparison": "Viên metformin giải phóng tức thì so với giả dược; lên đến 2,550 mg/ngày",
+      "population": "Thử nghiệm đái tháo đường típ 2 tại Hoa Kỳ được nêu trong nhãn: 141 người dùng thuốc, 145 người dùng giả dược; dữ liệu B12 từ một thử nghiệm 29 tuần",
+      "design": "Dữ liệu thử nghiệm về phản ứng bất lợi và báo cáo sau lưu hành trên nhãn thuốc chính thức; không phải nghiên cứu can thiệp về ACM",
+      "gradeReason": "Nguồn thông tin an toàn rõ ràng, nhưng chỉ gián tiếp đối với tuổi thọ/ACM; mức D không phủ nhận độ tin cậy của nhãn thuốc.",
+      "limitations": "Không thể trực tiếp so sánh tỷ lệ phản ứng giữa các dạng bào chế, cách tăng liều, liều dùng, thời gian theo dõi và quần thể; không có định nghĩa thống nhất cho mức 17.4%; tần suất phản ứng bất lợi không phải nguy cơ tử vong.",
+      "action": "Sử dụng theo chỉ định lâm sàng và theo dõi chức năng thận cùng B12; mục này hiệu chỉnh định nghĩa tần suất và mẫu số, không phải cơ sở để tự bắt đầu hoặc ngừng điều trị.",
+      "sources": [
+        {
+          "evidence": "Nhãn cập nhật 2026-06: Bảng 1, tiêu chảy 53%/12%, suy nhược 9%/6%, đau đầu 6%/5%; mục 5.2, khoảng 7% có B12 huyết thanh thấp. Tổn thương gan ở mục 6.2 xuất phát từ báo cáo tự nguyện."
+        }
+      ]
+    },
+    "waist-circumference": {
+      "factor": "Vòng eo và mỡ bụng",
+      "originalClaim": "Bổ sung: xem xét sự phân bố mỡ bụng bên cạnh cân nặng.",
+      "finding": "Tổng hợp các đoàn hệ tiến cứu ở người trưởng thành ghi nhận mỗi 10 cm vòng eo lớn hơn có liên quan với nguy cơ tử vong do mọi nguyên nhân cao hơn khoảng 11%. Các chỉ số mỡ trung tâm cung cấp thêm thông tin nguy cơ sau khi đã tính đến BMI.",
+      "effect": "HR 1.11 cho mỗi 10 cm vòng eo lớn hơn",
+      "ci": "Khoảng tin cậy 95% 1.08–1.13",
+      "comparison": "Mỗi 10 cm vòng eo lớn hơn; so sánh giữa người trưởng thành có vòng eo khác nhau",
+      "population": "Tổng quan: 72 đoàn hệ tiến cứu, 2,528,297 người tham gia; phân tích vòng eo: 50 nghiên cứu",
+      "design": "Tổng quan hệ thống và phân tích gộp liều–đáp ứng các đoàn hệ tiến cứu",
+      "gradeReason": "Bằng chứng trực tiếp về ACM từ nhiều đoàn hệ; nghiên cứu quan sát không định lượng được lợi ích điều trị cá nhân từ việc giảm vòng eo.",
+      "limitations": "Tính không đồng nhất đáng kể giữa các nghiên cứu; khác biệt trong cách đo vòng eo, bệnh có sẵn và lối sống. Vòng eo là dấu ấn nguy cơ, không phải phép đo trực tiếp mỡ nội tạng; phát hiện này không xác định mục tiêu giảm cân chung cho mọi người.",
+      "action": "Theo dõi thay đổi vòng eo cùng với cân nặng; nếu mỡ bụng tăng, hãy cải thiện ăn uống, hoạt động thể chất và đi đánh giá sức khỏe.",
+      "sources": [
+        {
+          "evidence": "Tóm tắt, Kết quả: tổng cộng 72 đoàn hệ; phân tích vòng eo gồm 50 nghiên cứu, với HR 1.11 (khoảng tin cậy 95% 1.08–1.13) cho mỗi 10 cm vòng eo lớn hơn; các mối liên quan vẫn tồn tại sau khi tính đến BMI."
+        }
+      ]
+    },
+    "obstructive-sleep-apnoea": {
+      "factor": "Ngưng thở tắc nghẽn khi ngủ",
+      "originalClaim": "Bổ sung: xem xét những lần ngưng thở lặp lại trong khi ngủ và tác động của chúng lên sức khỏe.",
+      "finding": "Tổng hợp các nghiên cứu quan sát tiến cứu cho thấy ngưng thở tắc nghẽn khi ngủ mức độ nặng có liên quan với tử vong do mọi nguyên nhân cao hơn. Trong một tổng quan điều trị năm 2025, kết quả gộp các thử nghiệm ngẫu nhiên không cho thấy mức giảm ACM rõ ràng với liệu pháp áp lực đường thở dương, trong khi các nghiên cứu không ngẫu nhiên ghi nhận nguy cơ thấp hơn.",
+      "effect": "Ngưng thở khi ngủ nặng so với không mắc bệnh: HR 1.90",
+      "ci": "Khoảng tin cậy 95% 1.29–2.81",
+      "comparison": "Ngưng thở tắc nghẽn khi ngủ nặng so với không mắc bệnh; không phải điều trị so với không điều trị",
+      "population": "Tổng quan về nguy cơ: 6 nghiên cứu quan sát tiến cứu, 11,932 người, phân nhóm theo mức độ nặng của ngưng thở",
+      "design": "Phân tích gộp các nghiên cứu quan sát tiến cứu; tổng hợp bổ sung các nghiên cứu điều trị bằng áp lực đường thở dương",
+      "gradeReason": "Mối liên quan trực tiếp với ACM từ nhiều đoàn hệ; mức đánh giá này nói về nguy cơ liên quan đến bệnh, không phải mức giảm tử vong đã được chứng minh do điều trị.",
+      "limitations": "Bệnh có sẵn và việc lựa chọn điều trị có thể ảnh hưởng đến kết quả. Tổng quan điều trị kết hợp nghiên cứu ngẫu nhiên và không ngẫu nhiên, nên kết quả gộp không hoàn toàn là bằng chứng ngẫu nhiên. Chỉ ngáy thôi không đủ để chẩn đoán.",
+      "action": "Đi đánh giá giấc ngủ nếu ngáy to kéo dài, ngưng thở khi ngủ hoặc buồn ngủ ban ngày dai dẳng; thảo luận về điều trị nếu được chẩn đoán.",
+      "sources": [
+        {
+          "evidence": "Tóm tắt, Kết quả: 6 nghiên cứu, 11,932 người tham gia; ngưng thở tắc nghẽn khi ngủ (OSA) nặng có HR tử vong do mọi nguyên nhân 1.90 (khoảng tin cậy 95% 1.29–2.81)."
+        },
+        {
+          "evidence": "Toàn văn, Kết quả: 30 nghiên cứu, gồm 10 nghiên cứu ngẫu nhiên và 20 nghiên cứu không ngẫu nhiên; chỉ các RCT: ACM HR 0.87 (khoảng tin cậy 95% 0.65–1.16), chỉ các nghiên cứu không ngẫu nhiên: HR 0.60 (0.52–0.70)."
+        },
+        {
+          "evidence": "Trang triệu chứng: thở ngắt quãng, thường xuyên ngáy to và buồn ngủ ban ngày; những triệu chứng này cần được trao đổi với nhân viên y tế."
+        }
+      ]
+    },
+    "hepatitis-c-treatment": {
+      "factor": "Phát hiện và điều trị viêm gan C mạn tính",
+      "originalClaim": "Bổ sung: xem xét xét nghiệm và điều trị kháng virus cho người nhiễm viêm gan C mạn tính.",
+      "finding": "Trong một đoàn hệ tiến cứu tại Pháp gồm người mắc viêm gan C mạn tính, điều trị bằng thuốc kháng virus tác động trực tiếp có liên quan với nguy cơ tử vong do mọi nguyên nhân đã điều chỉnh thấp hơn khoảng 52%. Người tham gia đã được xác định nhiễm bệnh, và điều trị không được phân bổ ngẫu nhiên.",
+      "effect": "HR đã điều chỉnh 0.48",
+      "ci": "Khoảng tin cậy 95% 0.33–0.70",
+      "comparison": "Điều trị kháng virus tác động trực tiếp so với không điều trị ở người viêm gan C mạn tính; phơi nhiễm điều trị thay đổi theo thời gian",
+      "population": "9,895 người trưởng thành mắc viêm gan C mạn tính tại 32 trung tâm gan mật ở Pháp; theo dõi trung vị 33.4 tháng",
+      "design": "Đoàn hệ quan sát tiến cứu đa trung tâm với mô hình phụ thuộc thời gian và điều chỉnh các yếu tố gây nhiễu",
+      "gradeReason": "Kết cục ACM trực tiếp từ một đoàn hệ quan sát; nhiễu do lựa chọn điều trị và các yếu tố khác có thể còn tồn tại sau điều chỉnh.",
+      "limitations": "Nghiên cứu loại trừ, trong số các trường hợp khác, người từng bị xơ gan mất bù, ung thư gan hoặc ghép gan. Kết quả không áp dụng cho người không nhiễm bệnh và không phải so sánh ngẫu nhiên các phác đồ. Chỉ riêng xét nghiệm kháng thể dương tính không xác nhận tình trạng đang nhiễm virus.",
+      "action": "Sau xét nghiệm kháng thể viêm gan C dương tính, kiểm tra xem virus có còn hiện diện hay không. Nếu xác nhận đang nhiễm virus, hãy được đánh giá gan và thảo luận điều trị kháng virus.",
+      "sources": [
+        {
+          "evidence": "Tóm tắt: 9,895 người tham gia; theo dõi trung vị 33.4 tháng; HR tử vong do mọi nguyên nhân đã điều chỉnh 0.48 (khoảng tin cậy 95% 0.33–0.70) khi phơi nhiễm với điều trị kháng virus."
+        },
+        {
+          "evidence": "Hướng dẫn xét nghiệm: xét nghiệm kháng thể có phản ứng cần được tiếp nối bằng xét nghiệm HCV RNA để xác định tình trạng đang nhiễm virus; kết quả RNA dương tính cần dẫn đến chăm sóc và điều trị."
+        }
+      ]
+    }
+  }
+}

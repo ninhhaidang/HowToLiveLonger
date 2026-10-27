@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Build a self-contained, eight-language evidence atlas with the Python standard library."""
+"""Build a self-contained, nine-language evidence atlas with the Python standard library."""
 import argparse
 import base64
 import hashlib
@@ -13,7 +13,8 @@ TRANSLATED_FIELDS = ('factor', 'originalClaim', 'finding', 'effect', 'ci', 'comp
 LANGUAGES = {'zh': ('简体中文', 'ltr'), 'en': ('English', 'ltr'),
              'es': ('Español', 'ltr'), 'fr': ('Français', 'ltr'),
              'de': ('Deutsch', 'ltr'), 'pt': ('Português', 'ltr'),
-             'ja': ('日本語', 'ltr'), 'ar': ('العربية', 'rtl')}
+             'ja': ('日本語', 'ltr'), 'ar': ('العربية', 'rtl'),
+             'vi': ('Tiếng Việt', 'ltr')}
 
 
 def encode(value):
@@ -79,13 +80,21 @@ def load_glossary():
     required = {'HR', 'RR', 'OR', 'CI', 'ACM', 'RCT', 'CVD', 'DOI', 'MET', 'SD',
                 'LDL-C', 'PM2.5', 'BMI', 'CKD'}
     if set(glossary.get('languages', {})) != set(LANGUAGES):
-        raise ValueError('Glossary needs all eight languages')
+        raise ValueError('Glossary needs all supported languages')
     for code, entries in glossary['languages'].items():
         if not required <= set(entries) or set(entries) != set(glossary['languages']['en']) or any(
                 not isinstance(entry.get(field), str) or not entry[field].strip()
                 for entry in entries.values() for field in ('name', 'description')):
             raise ValueError(f'{code}: incomplete glossary')
     return glossary
+
+
+def load_citation_notes(citations):
+    notes = json.loads((ROOT / 'locales/citations.vi.json').read_text(encoding='utf-8'))
+    if set(notes) != {citation['url'] for citation in citations} or any(
+            not isinstance(note, str) or not note.strip() for note in notes.values()):
+        raise ValueError('Incomplete Vietnamese citation notes')
+    return notes
 
 
 def build():
@@ -114,9 +123,10 @@ def build():
     logo_uri = 'data:image/svg+xml;base64,' + base64.b64encode((ROOT / 'assets/logo.svg').read_bytes()).decode('ascii')
     values = {'__DATA__': records, '__CITATIONS__': data['citations'], '__META__': data['metadata'],
               '__README__': readme.read_text(encoding='utf-8'), '__I18N__': english, '__LOCALES__': locales,
-              '__READERS__': load_readers(records), '__GLOSSARY__': load_glossary()}
+              '__READERS__': load_readers(records), '__GLOSSARY__': load_glossary(),
+              '__CITATION_NOTES__': load_citation_notes(data['citations'])}
     html = (ROOT / 'src/index.template.html').read_text(encoding='utf-8')
-    html = re.sub(r'__(?:DATA|CITATIONS|META|README|I18N|LOCALES|READERS|GLOSSARY|COVER_URI|LOGO_URI|ORIGIN_OPTIONS)__',
+    html = re.sub(r'__(?:DATA|CITATIONS|CITATION_NOTES|META|README|I18N|LOCALES|READERS|GLOSSARY|COVER_URI|LOGO_URI|ORIGIN_OPTIONS)__',
                   lambda m: '' if m[0] == '__ORIGIN_OPTIONS__' else cover_uri if m[0] == '__COVER_URI__'
                   else logo_uri if m[0] == '__LOGO_URI__' else encode(values[m[0]]), html)
     args.output.write_bytes(html.encode('utf-8'))

@@ -1,6 +1,6 @@
 # Contributing / 贡献指南
 
-[English](README.md) · [简体中文](docs/readme/zh-CN.md)
+[Tiếng Việt](README.md) · [English](docs/readme/en.md) · [简体中文](docs/readme/zh-CN.md)
 
 ## Evidence changes / 证据变更
 
@@ -16,26 +16,26 @@ Start with a stable record ID in `data/evidence.json`. Provide the original pape
 
 ## Translation / 翻译
 
-English records live in `locales/en.json`; Spanish, French, German, Portuguese, Japanese and Arabic live in `locales/{es,fr,de,pt,ja,ar}.json`. Every finished language covers the same stable record IDs, all 11 core fields and the source notes in their original order. UI and term keys must match `locales/interface.json`; missing languages or fields fail a strict build, and copying English text does not complete another translation.
+English records live in `locales/en.json`; Vietnamese, Spanish, French, German, Portuguese, Japanese and Arabic live in `locales/{vi,es,fr,de,pt,ja,ar}.json`. Every finished language covers the same stable record IDs, all 11 core fields and the source notes in their original order. UI and term keys must match `locales/interface.json`; missing languages or fields fail a strict build, and copying English text does not complete another translation.
 
-A medical change must update Chinese, English and all six additional locales together. Preserve effect type, estimates, confidence levels, comparison direction, population, negation and limitations. Keep the historical `originalClaim` separate from the current finding. Original paper titles and explicitly labeled Chinese archives may retain their original language.
+A medical change must update Chinese, English and all seven additional locales together. Preserve effect type, estimates, confidence levels, comparison direction, population, negation and limitations. Keep the historical `originalClaim` separate from the current finding. Original paper titles and explicitly labeled Chinese archives may retain their original language.
 
-医学修订同步八语言及生成HTML；译文必须补齐句子中的对象和比较关系，不用润色升级推荐强度。原始中文档案、出处备注与核验批次原文保留原语时，界面须明确标注。结构和数字校验不能替代语义审读，翻译也不等于独立重读论文；评审写明实际阅读范围，不称母语医学专家认证。
+医学修订同步九语言及生成HTML；译文必须补齐句子中的对象和比较关系，不用润色升级推荐强度。原始中文档案、出处备注与核验批次原文保留原语时，界面须明确标注。结构和数字校验不能替代语义审读，翻译也不等于独立重读论文；评审写明实际阅读范围，不称母语医学专家认证。
 
 Keep reviewed translations under version control. After validation, inspect every language on desktop and mobile, long details and exports; Arabic also needs RTL, numeric-range, DOI and PNG checks. Keep research qualifications visible and do not add unsupported data to diagrams.
 
 ## Reader copy and terminology
 
-The public cards use `locales/readers/{zh,en,es,fr,de,pt,ja,ar}.json`. Each study needs a concise `summary` and a practical `takeaway`; an optional `title` can replace an editorial or audit-style source title. Write for the reader, preserve the comparison, population and uncertainty, and keep the detailed source record intact. Update all eight languages together. Original claim archives are not shown in the reader interface.
+The public cards use `locales/readers/{zh,en,vi,es,fr,de,pt,ja,ar}.json`. Each study needs a concise `summary` and a practical `takeaway`; an optional `title` can replace an editorial or audit-style source title. Write for the reader, preserve the comparison, population and uncertainty, and keep the detailed source record intact. Update all nine languages together. Original claim archives are not shown in the reader interface.
 
-`data/glossary.json` explains technical abbreviations in all eight languages. Keep HR, RR, OR and survival-time ratios distinct. Verify desktop hover, keyboard focus and mobile touch, including Escape dismissal, modal layering and viewport fit. The original vector mark is `assets/logo.svg`.
+`data/glossary.json` explains technical abbreviations in all nine languages. Vietnamese citation notes live in `locales/citations.vi.json`, keyed by their source URL. Keep HR, RR, OR and survival-time ratios distinct. Verify desktop hover, keyboard focus and mobile touch, including Escape dismissal, modal layering and viewport fit. The original vector mark is `assets/logo.svg`.
 
 ## Build and check / 构建与检查
 
 Use Python 3.10+. Clone the repository, then build, validate and preview:
 
 ```sh
-git clone https://github.com/geekan/HowToLiveLonger.git
+git clone https://github.com/ninhhaidang/HowToLiveLonger.git
 cd HowToLiveLonger
 python3 scripts/build.py
 python3 scripts/validate.py --check-build
@@ -44,9 +44,9 @@ python3 -m http.server 8000
 
 Visit <http://localhost:8000>. After editing the template or data, rebuild and commit the generated `index.html`.
 
-The validator checks schema, IDs, source fields, all eight languages, effect/CI types and numeric tokens, archived provenance and reproducible output. It cannot establish clinical validity, translation nuance, URL availability or visual quality. Investigate every failure rather than weakening a check to make validation pass.
+The validator checks schema, IDs, source fields, all nine languages, effect/CI types and numeric tokens, archived provenance and reproducible output. It cannot establish clinical validity, translation nuance, URL availability or visual quality. Investigate every failure rather than weakening a check to make validation pass.
 
-Open the actual generated `index.html`, then check all eight languages at desktop and mobile widths: search, category and evidence-level filters, table/tree consistency, detail and keyboard close, state restoration, CSV/JSON downloads, summary copy and PNG card. A real download should parse or open; a dispatched click alone is not evidence of success. Keep research qualifications visible in shared summaries/cards.
+Open the actual generated `index.html`, then check all nine languages on desktop and mobile: search, category and evidence-level filters, table/tree consistency, detail and keyboard close, state restoration, CSV/JSON downloads, summary copy and PNG card. A real download should parse or open; a dispatched click alone is not evidence of success. Keep research qualifications visible in shared summaries/cards.
 
 ## Review and handoff / 评审与交接
 
@@ -58,9 +58,9 @@ The repository retains its existing [Unlicense](LICENSE). Preserve author and so
 
 ## Publish / 发布
 
-Build and validate locally before pushing. Commit both the source changes and the generated `index.html`. GitHub Pages serves `main` from the repository root; `.nojekyll` bypasses Jekyll processing. Keep workflow files out of this repository.
+Build and validate locally before pushing. Commit both the source changes and the generated `index.html`. GitHub Pages serves `main` from the repository root when enabled; `.nojekyll` bypasses Jekyll processing. Keep workflow files out of this repository.
 
-The public entry is <https://geekan.github.io/HowToLiveLonger/>. The page embeds its data, translations, logo and cover; the social preview image is served from `assets/cover-social-v3.png`.
+The upstream public entry is <https://geekan.github.io/HowToLiveLonger/>. This fork's Vietnamese page is available offline at `index.html#lang=vi&view=table`. The page embeds its data, translations, logo and cover; the social preview image is served from `assets/cover-social-v3.png`.
 
 ## Project map / 目录
 

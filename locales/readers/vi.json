@@ -1,0 +1,268 @@
+{
+  "language": "vi",
+  "records": {
+    "poultry-fish": {
+      "summary": "Các nghiên cứu dài hạn tại Mỹ ghi nhận mối liên hệ giữa việc ăn nhiều thịt đỏ và thịt chế biến sẵn hơn với nguy cơ tử vong cao hơn. Mối liên hệ yếu hơn đối với cá và thịt gia cầm; thực phẩm dùng để thay thế thịt và cách chế biến cũng có vai trò.",
+      "takeaway": "Ăn ít thịt chế biến sẵn hơn và thay một phần thịt đỏ bằng các loại đậu, hạt hoặc cá."
+    },
+    "fresh-fruit-diabetes": {
+      "summary": "Trong một nghiên cứu dài hạn tại Trung Quốc ở người mắc đái tháo đường, ăn nhiều trái cây tươi hơn có liên quan đến nguy cơ tử vong và biến chứng mạch máu thấp hơn. Nghiên cứu xem xét trái cây nguyên quả, không phải nước ép.",
+      "takeaway": "Ăn trái cây nguyên quả với khẩu phần vừa phải, điều chỉnh theo đường huyết và kế hoạch điều trị của bạn."
+    },
+    "flavonoid-foods": {
+      "summary": "Một nghiên cứu dài hạn tại Đan Mạch ghi nhận mối liên hệ giữa lượng flavonoid từ chế độ ăn cao hơn với nguy cơ tử vong thấp hơn. Flavonoid có trong nhiều thực phẩm thực vật, và nghiên cứu xem xét chế độ ăn hằng ngày.",
+      "takeaway": "Ăn đa dạng các loại rau, trái cây và đậu."
+    },
+    "chili-us": {
+      "summary": "Một nghiên cứu theo dõi tại Mỹ ghi nhận nguy cơ tử vong thấp hơn ở người trưởng thành ăn ớt đỏ. Tuổi tác, chế độ ăn và các thói quen khác cũng ảnh hưởng đến mối liên hệ này.",
+      "takeaway": "Nếu thích ăn ớt và dạ dày dung nạp tốt, bạn có thể dùng ớt để tăng hương vị."
+    },
+    "chili-italy": {
+      "summary": "Một nghiên cứu theo dõi tại Ý ghi nhận mối liên hệ giữa việc thường xuyên ăn ớt với tỷ lệ tử vong do mọi nguyên nhân và do tim mạch thấp hơn.",
+      "takeaway": "Nếu thích ăn ớt và dung nạp tốt, hãy thêm ớt vào bữa ăn theo khẩu vị."
+    },
+    "eggs": {
+      "summary": "Một nghiên cứu tại Mỹ ở người trung niên và cao tuổi ghi nhận mối liên hệ giữa việc ăn nhiều trứng nguyên quả hơn với nguy cơ tử vong cao hơn, dù kết quả khác nhau giữa các khu vực. Cần xem xét toàn bộ chế độ ăn thay vì chỉ riêng trứng.",
+      "takeaway": "Điều chỉnh lượng trứng phù hợp với mỡ máu và chế độ ăn của bạn, đồng thời vẫn dành chỗ cho các loại đậu và hạt."
+    },
+    "walnuts": {
+      "summary": "Các nghiên cứu dài hạn tại Mỹ ghi nhận mối liên hệ giữa việc thường xuyên ăn quả óc chó với nguy cơ tử vong thấp hơn. Chênh lệch tuổi thọ ước tính được rút ra từ các mô hình thống kê, và những thói quen lành mạnh khác có thể góp phần vào kết quả.",
+      "takeaway": "Nếu không bị dị ứng, hãy thay một phần đồ ăn vặt bằng khẩu phần vừa phải quả óc chó không thêm muối và tính cả phần này vào tổng năng lượng nạp vào."
+    },
+    "nuts-general": {
+      "summary": "Một số nghiên cứu theo dõi ghi nhận mối liên hệ giữa việc thường xuyên ăn các loại hạt với nguy cơ tử vong thấp hơn. Các nghiên cứu xem xét những chế độ ăn khác nhau và không trực tiếp so sánh hạt sống với hạt rang.",
+      "takeaway": "Chọn loại hạt bạn thích, không thêm muối và ít đường bổ sung; tránh ăn nếu bạn bị dị ứng với các loại hạt."
+    },
+    "sodium-ecological": {
+      "summary": "Một so sánh giữa các quốc gia ghi nhận tỷ lệ tử vong thấp hơn ở những nơi có lượng natri tiêu thụ cao hơn, dù khác biệt về thu nhập, chăm sóc sức khỏe và các yếu tố khác ở cấp quốc gia cũng ảnh hưởng đến mối liên hệ này. Việc lựa chọn lượng muối cho từng người nên dựa vào huyết áp và tình trạng sức khỏe.",
+      "takeaway": "Điều chỉnh lượng muối theo huyết áp và nhu cầu y tế của bạn."
+    },
+    "potassium-salt": {
+      "summary": "Một thử nghiệm ngẫu nhiên ở vùng nông thôn Trung Quốc ghi nhận ít ca tử vong và biến cố tim mạch hơn khi thay muối thông thường bằng muối ít natri hơn, có bổ sung kali. Người tham gia có tiền sử đột quỵ hoặc là người cao tuổi bị tăng huyết áp.",
+      "takeaway": "Kiểm tra xem loại muối thay thế có phù hợp không trước khi chuyển sang dùng, đặc biệt nếu bạn bị suy giảm chức năng thận, tăng kali máu hoặc đang dùng thuốc làm tăng kali máu."
+    },
+    "carbohydrate-share": {
+      "summary": "Các nghiên cứu dài hạn ghi nhận tỷ lệ tử vong cao hơn ở cả nhóm có tỷ lệ carbohydrate trong chế độ ăn thấp hơn lẫn nhóm có tỷ lệ cao hơn. Thực phẩm dùng để thay thế carbohydrate cũng ảnh hưởng đến kết quả.",
+      "takeaway": "Bắt đầu bằng việc chọn nguồn carbohydrate có chất lượng tốt hơn, gồm ngũ cốc nguyên hạt và các loại đậu; điều chỉnh chế độ ăn điều trị theo nhu cầu cá nhân."
+    },
+    "betel-quid": {
+      "summary": "Một phân tích gộp các nghiên cứu tại châu Á ghi nhận mối liên hệ giữa việc nhai trầu cau với nguy cơ tử vong cao hơn. Thành phần miếng trầu và việc hút thuốc hoặc uống rượu kèm theo ảnh hưởng đến mức độ của mối liên hệ này.",
+      "takeaway": "Tránh nhai trầu cau và tìm sự hỗ trợ để bỏ nếu bạn đã lệ thuộc."
+    },
+    "calorie-restriction": {
+      "summary": "Các nghiên cứu trên khỉ rhesus gợi ý rằng hạn chế năng lượng có thể cải thiện khả năng sống sót, dù kết quả khác nhau giữa các nghiên cứu. Lợi ích kéo dài tuổi thọ của việc hạn chế năng lượng chưa được xác lập ở người.",
+      "takeaway": "Ăn đủ để bảo đảm dinh dưỡng nhưng không dư thừa; tránh tự hạn chế năng lượng khi thiếu cân, mang thai, cho con bú, đang tuổi phát triển, suy yếu hoặc mắc rối loạn ăn uống."
+    },
+    "macronutrient-pattern": {
+      "summary": "Một nghiên cứu theo dõi quy mô lớn tại Vương quốc Anh ghi nhận các mối liên hệ phức tạp giữa chất béo, protein, carbohydrate, chất xơ và sức khỏe. Kết hợp thực phẩm cân đối thiết thực hơn việc cố đạt một tỷ lệ dưỡng chất chính xác.",
+      "takeaway": "Xây dựng bữa ăn với rau, trái cây, ngũ cốc nguyên hạt, các loại đậu và nguồn protein phù hợp; tuân theo kế hoạch dinh dưỡng riêng nếu mắc bệnh thận hoặc đái tháo đường."
+    },
+    "ultraprocessed-acm": {
+      "summary": "Trong một nghiên cứu theo dõi tại Tây Ban Nha, ăn nhiều thực phẩm siêu chế biến hơn có liên quan đến nguy cơ tử vong cao hơn. Người tham gia chủ yếu là người tốt nghiệp đại học, và chế độ ăn cùng hoàn cảnh xã hội cũng ảnh hưởng đến kết quả.",
+      "takeaway": "Dần thay một phần thực phẩm siêu chế biến dùng hằng ngày bằng các lựa chọn ít chế biến hơn, phù hợp với khả năng chi trả."
+    },
+    "ultraprocessed-cvd": {
+      "summary": "Một nghiên cứu theo dõi tại Pháp ghi nhận mối liên hệ giữa tỷ lệ thực phẩm siêu chế biến trong chế độ ăn cao hơn với nguy cơ mắc bệnh tim mạch cao hơn.",
+      "takeaway": "Giảm đồ ăn vặt siêu chế biến và thực phẩm chế biến sẵn, tăng các bữa ăn đơn giản phù hợp với sinh hoạt hằng ngày.",
+      "title": "Thực phẩm siêu chế biến và sức khỏe tim mạch"
+    },
+    "whole-grains": {
+      "summary": "Một phân tích gộp các nghiên cứu dài hạn ghi nhận mối liên hệ giữa việc ăn nhiều ngũ cốc nguyên hạt hơn với nguy cơ tử vong thấp hơn. Khẩu phần được tính theo khối lượng thực phẩm ngũ cốc nguyên hạt.",
+      "takeaway": "Dần thay một phần ngũ cốc tinh chế bằng ngũ cốc nguyên hạt; chọn loại không chứa gluten nếu mắc bệnh celiac."
+    },
+    "dietary-fiber": {
+      "summary": "Các nghiên cứu theo dõi ghi nhận mối liên hệ giữa lượng chất xơ ăn vào cao hơn với nguy cơ tử vong thấp hơn, còn các thử nghiệm lâm sàng ghi nhận sự cải thiện ở những chỉ số như huyết áp và cholesterol.",
+      "takeaway": "Tăng chất xơ từ từ qua ngũ cốc nguyên hạt, các loại đậu, rau và trái cây, đồng thời uống đủ nước; hỏi ý kiến chuyên môn nếu bị hẹp ruột hoặc bệnh tiêu hóa cấp tính."
+    },
+    "plant-protein": {
+      "summary": "Một số nghiên cứu thuần tập ghi nhận mối liên hệ giữa lượng protein thực vật ăn vào cao hơn với nguy cơ tử vong thấp hơn. Nguồn thực phẩm và thực phẩm được thay thế là yếu tố then chốt để hiểu kết quả này.",
+      "takeaway": "Thay một phần thịt đỏ và thịt chế biến sẵn bằng các loại đậu, thực phẩm từ đậu nành hoặc các loại hạt, có điều chỉnh nếu mắc bệnh thận hoặc dị ứng."
+    },
+    "dairy": {
+      "summary": "Một nghiên cứu theo dõi đa quốc gia ghi nhận mối liên hệ giữa việc dùng sữa và sản phẩm từ sữa với nguy cơ tử vong thấp hơn, nhưng các tổng quan cho kết quả không nhất quán. Sữa và sữa chua có thể cung cấp dưỡng chất; lựa chọn nên dựa vào nhu cầu cá nhân.",
+      "takeaway": "Nếu thích và dung nạp được sữa cùng các sản phẩm từ sữa, hãy chọn sữa hoặc sữa chua ít đường bổ sung; dùng thực phẩm thay thế phù hợp nếu không dung nạp lactose hoặc bị dị ứng."
+    },
+    "tea-china-par": {
+      "summary": "Một nghiên cứu dài hạn tại Trung Quốc ghi nhận mối liên hệ giữa thói quen uống trà với nguy cơ tử vong thấp hơn. Lối sống và hoàn cảnh kinh tế xã hội của người uống trà cũng có thể góp phần vào kết quả.",
+      "takeaway": "Uống trà không thêm đường ở nhiệt độ dễ chịu; giảm lượng trà nếu ảnh hưởng đến giấc ngủ, gây hồi hộp hoặc không phù hợp với giới hạn caffeine của bạn."
+    },
+    "tea-ckb": {
+      "summary": "Một nghiên cứu theo dõi quy mô lớn khác tại Trung Quốc ghi nhận mối liên hệ giữa uống trà và tỷ lệ tử vong thấp hơn chủ yếu ở nam giới. Uống hằng ngày không cho thấy kết quả tốt hơn uống ít thường xuyên hơn.",
+      "takeaway": "Uống trà không thêm đường với lượng bạn thích, ở nhiệt độ dễ chịu và không làm ảnh hưởng đến giấc ngủ."
+    },
+    "artificially-sweetened-drinks": {
+      "summary": "Một nghiên cứu lớn tại châu Âu ghi nhận mối liên hệ giữa việc uống nhiều đồ uống dùng chất tạo ngọt nhân tạo hơn với nguy cơ tử vong cao hơn. Người đã có vấn đề chuyển hóa có thể dễ chuyển sang các đồ uống này hơn, khiến việc diễn giải kết quả phức tạp hơn.",
+      "takeaway": "Chọn nước lọc để giải khát hằng ngày; nếu đang dùng đồ uống ăn kiêng để thay đồ uống có đường, kết quả này không phải lý do để quay lại uống đồ có đường."
+    },
+    "sugar-sweetened-drinks": {
+      "summary": "Các nghiên cứu dài hạn tại Mỹ ghi nhận mối liên hệ giữa việc uống nhiều đồ uống có đường hơn với nguy cơ tử vong do mọi nguyên nhân và do tim mạch cao hơn.",
+      "takeaway": "Dần thay các đồ uống có đường thường dùng bằng nước lọc hoặc đồ uống không thêm đường."
+    },
+    "fruit-juice": {
+      "summary": "Một nghiên cứu theo dõi tại Mỹ ở người trung niên và cao tuổi ghi nhận mối liên hệ giữa việc uống nhiều nước ép trái cây hơn với nguy cơ tử vong cao hơn.",
+      "takeaway": "Uống nước lọc để giải khát, chọn trái cây nguyên quả và chỉ uống lượng nhỏ nước ép."
+    },
+    "coffee": {
+      "summary": "Một tổng quan quy mô lớn ghi nhận mối liên hệ giữa việc uống cà phê ở mức vừa phải với nguy cơ tử vong thấp hơn. Kích cỡ cốc, cách pha, lượng đường bổ sung và khả năng dung nạp của từng người đều có vai trò.",
+      "takeaway": "Uống cà phê vừa phải nếu phù hợp với bạn, thêm ít đường; điều chỉnh lượng caffeine khi mang thai hoặc nếu bị mất ngủ hay hồi hộp."
+    },
+    "spermidine-diet": {
+      "summary": "Nghiên cứu theo dõi ghi nhận mối liên hệ giữa lượng spermidine từ thực phẩm cao hơn với nguy cơ tử vong thấp hơn. Dùng chế phẩm bổ sung spermidine là một vấn đề khác, và lợi ích kéo dài tuổi thọ của các chế phẩm này chưa được xác lập.",
+      "takeaway": "Ăn đa dạng hơn bằng các thực phẩm thông thường như ngũ cốc nguyên hạt và các loại đậu.",
+      "title": "Spermidine trong chế độ ăn"
+    },
+    "smoking": {
+      "summary": "Các nghiên cứu dài hạn nhất quán ghi nhận tỷ lệ tử vong cao hơn ở người hút thuốc, kể cả người hút tương đối ít mỗi ngày. Người bỏ thuốc có nguy cơ thấp hơn người tiếp tục hút.",
+      "takeaway": "Đừng bắt đầu hút thuốc; nếu đang hút, hãy bỏ càng sớm càng tốt, sử dụng dịch vụ cai thuốc và thuốc hỗ trợ khi cần."
+    },
+    "sun-exposure": {
+      "summary": "Các nghiên cứu tại Bắc Âu ghi nhận mối liên hệ giữa những chỉ dấu về tiếp xúc với ánh nắng và khả năng sống sót; hoạt động ngoài trời và thói quen chăm sóc sức khỏe cũng ảnh hưởng đến kết quả. Các nghiên cứu này không xác lập thời lượng tiếp xúc với ánh nắng giúp sống lâu hơn.",
+      "takeaway": "Tận hưởng hoạt động ngoài trời và ánh sáng ban ngày nhưng tránh cháy nắng; áp dụng biện pháp bảo vệ phù hợp nếu có nguy cơ ung thư da cao hoặc nhạy cảm với ánh sáng."
+    },
+    "nmn": {
+      "summary": "Các thử nghiệm trên người chủ yếu xem xét những chỉ số chuyển hóa, với quy mô nhỏ và thời gian ngắn. NMN chưa được chứng minh là kéo dài tuổi thọ ở người, và dữ liệu về độ an toàn lâu dài còn hạn chế.",
+      "takeaway": "Ưu tiên chế độ ăn, vận động và giấc ngủ thay vì coi NMN là thuốc kéo dài tuổi thọ đã được chứng minh."
+    },
+    "metformin-diabetes": {
+      "summary": "Một thử nghiệm ngẫu nhiên ở người thừa cân mới được chẩn đoán đái tháo đường ghi nhận ít ca tử vong hơn khi dùng metformin; kết quả gộp từ các thử nghiệm sau đó kém chắc chắn hơn. Các nghiên cứu này liên quan đến điều trị đái tháo đường.",
+      "takeaway": "Nếu mắc đái tháo đường, hãy tuân theo kế hoạch điều trị được kê, có cân nhắc chức năng thận và khả năng dung nạp. Nếu khỏe mạnh, đừng tự bắt đầu dùng metformin để kéo dài tuổi thọ."
+    },
+    "metformin-longevity": {
+      "summary": "Một nghiên cứu quan sát so sánh người mắc đái tháo đường dùng metformin với nhóm đối chứng không mắc đái tháo đường và ghi nhận khả năng sống sót tốt hơn ở nhóm dùng metformin. Tuy nhiên, kết quả theo dõi dài hạn của một thử nghiệm ngẫu nhiên không ghi nhận giảm tỷ lệ tử vong ở người có nguy cơ cao mắc đái tháo đường. Lợi ích kéo dài tuổi thọ của metformin ở người khỏe mạnh chưa được xác lập.",
+      "takeaway": "Không tự dùng thuốc để chống lão hóa; trao đổi các thắc mắc về điều trị với bác sĩ nếu bạn mắc đái tháo đường hoặc đang dự định có con.",
+      "title": "Metformin và tuổi thọ ở người khỏe mạnh"
+    },
+    "multivitamins": {
+      "summary": "Các thử nghiệm ngẫu nhiên và nghiên cứu theo dõi quy mô lớn chưa cho thấy vitamin tổng hợp làm giảm tỷ lệ tử vong ở những người nhìn chung khỏe mạnh. Một số nghiên cứu ghi nhận ít trường hợp được chẩn đoán ung thư hơn, nhưng đó là một kết cục khác.",
+      "takeaway": "Bổ sung có mục tiêu khi thiếu chất hoặc có nhu cầu dinh dưỡng cụ thể, và trước hết hãy duy trì chế độ ăn hằng ngày lành mạnh."
+    },
+    "glucosamine-chondroitin": {
+      "summary": "Một nghiên cứu theo dõi tại Mỹ ghi nhận việc dùng glucosamine và chondroitin lâu dài có liên quan đến tỷ lệ tử vong thấp hơn; những người dùng các chất này cũng thường tập thể dục và không hút thuốc hơn. Chưa có bằng chứng cho thấy các chất bổ sung này kéo dài tuổi thọ ở người khỏe mạnh.",
+      "takeaway": "Trước tiên, hãy tìm nguyên nhân gây triệu chứng ở khớp và kiểm tra tương tác của các chất bổ sung, nhất là nếu bạn đang dùng thuốc chống đông máu."
+    },
+    "anti-aging-drugs-review": {
+      "summary": "Một bài tổng quan về nghiên cứu thuốc chống lão hóa đã thảo luận một số phân tử tiềm năng, với bằng chứng chủ yếu từ động vật và một số ít nghiên cứu trên người. Lợi ích kéo dài tuổi thọ ở người khỏe mạnh vẫn chưa được chứng minh.",
+      "takeaway": "Tránh tự phối hợp các thuốc chống lão hóa; chỉ tiếp cận phương pháp điều trị thử nghiệm thông qua các nghiên cứu được tiến hành đúng quy chuẩn."
+    },
+    "alcohol": {
+      "summary": "Một tổng quan quy mô lớn đã tính đến các sai lệch, chẳng hạn việc từng uống rượu bia nhưng đã ngừng, và không ghi nhận lợi ích giảm tử vong từ việc uống ít rượu bia; trong khi đó, uống nhiều hơn có liên quan đến nguy cơ cao hơn.",
+      "takeaway": "Nếu không uống rượu bia, bạn không cần bắt đầu; nếu có uống, hãy giảm bớt và tìm hỗ trợ y tế nếu bị lệ thuộc hoặc có tiền sử hội chứng cai rượu."
+    },
+    "ambient-air-pollution": {
+      "summary": "Một nghiên cứu lớn tại Mỹ ở người cao tuổi ghi nhận việc tiếp xúc lâu dài với nồng độ bụi mịn và ozone cao hơn có liên quan đến nguy cơ tử vong cao hơn.",
+      "takeaway": "Theo dõi chất lượng không khí, giảm hoạt động gắng sức ngoài trời khi ô nhiễm nặng và cải thiện không khí trong nhà khi có thể."
+    },
+    "statins-indicated-patients": {
+      "summary": "Kết quả tổng hợp từ các thử nghiệm ngẫu nhiên cho thấy điều trị bằng statin làm giảm các biến cố tim mạch; số ca tử vong cũng ít hơn ở những người tham gia chưa từng mắc bệnh mạch máu. Lợi ích đối với từng người phụ thuộc vào mức nguy cơ ban đầu.",
+      "takeaway": "Trao đổi về statin nếu bạn đáp ứng tiêu chí điều trị, đồng thời báo cho bác sĩ về các triệu chứng ở cơ hoặc những thuốc khác có thể gây tương tác."
+    },
+    "vitamin-d-general-population": {
+      "summary": "Một thử nghiệm ngẫu nhiên lớn không ghi nhận giảm tỷ lệ tử vong khi bổ sung vitamin D thường quy ở người trung niên và người cao tuổi nhìn chung khỏe mạnh. Tình trạng thiếu vitamin D và bệnh về xương cần được đánh giá riêng.",
+      "takeaway": "Bổ sung khi đã xác định có nguy cơ thiếu chất hoặc có nhu cầu về sức khỏe xương, và tránh tự dùng liều cao khi không có giám sát y tế."
+    },
+    "racquet-sports": {
+      "summary": "Một nghiên cứu theo dõi người trưởng thành tại Anh ghi nhận việc tham gia các môn thể thao dùng vợt có liên quan đến nguy cơ tử vong thấp hơn. Sự hứng thú, thể lực và khả năng duy trì cũng quan trọng khi lựa chọn hoạt động.",
+      "takeaway": "Chọn một môn thể thao dùng vợt mà bạn yêu thích và có thể tập được, rồi tăng dần mức độ."
+    },
+    "vigorous-activity": {
+      "summary": "Một nghiên cứu theo dõi tại Anh ghi nhận ngay cả thời lượng ngắn của hoạt động thể lực cường độ mạnh cũng có liên quan đến tỷ lệ tử vong thấp hơn. Người tham gia chủ yếu là người trung niên và người cao tuổi, với hoạt động được đo bằng thiết bị đeo.",
+      "takeaway": "Thêm những đợt hoạt động cường độ mạnh ngắn nếu bạn có nền tảng thể lực và có thể thực hiện an toàn; hãy được đánh giá y tế nếu có triệu chứng hoặc bệnh mạn tính chưa ổn định."
+    },
+    "walking-steps": {
+      "summary": "Một nghiên cứu tại Mỹ ở người trung niên ghi nhận số bước đi hằng ngày nhiều hơn có liên quan đến tỷ lệ tử vong thấp hơn, nhưng không cho thấy cứ đi càng nhiều bước thì luôn càng tốt.",
+      "takeaway": "Đi bộ nhiều hơn một chút so với hiện tại, điều chỉnh theo bệnh tim hoặc phổi, nguy cơ té ngã hay hạn chế vận động."
+    },
+    "toothbrushing": {
+      "summary": "Một nghiên cứu theo dõi lớn tại Trung Quốc ghi nhận tỷ lệ tử vong cao hơn ở những người hiếm khi đánh răng. Việc chăm sóc răng miệng cũng liên quan đến hút thuốc, sức khỏe và khả năng tiếp cận dịch vụ chăm sóc y tế.",
+      "takeaway": "Đánh răng đều đặn bằng kem đánh răng có fluor và điều trị các vấn đề răng miệng."
+    },
+    "tub-bathing": {
+      "summary": "Một nghiên cứu tại Nhật Bản ở người trung niên ghi nhận việc thường xuyên tắm bồn có liên quan đến ít biến cố bệnh tim mạch và đột quỵ hơn.",
+      "takeaway": "Tắm ở nhiệt độ dễ chịu; tránh ngâm nước nóng lâu và tránh tắm một mình sau khi uống rượu bia, khi dễ bị ngất hoặc khi tình trạng tim mạch chưa ổn định."
+    },
+    "heavy-housework": {
+      "summary": "Một nghiên cứu tại Hồng Kông ở người cao tuổi ghi nhận việc làm việc nhà nặng có liên quan đến tỷ lệ tử vong thấp hơn ở nam giới, nhưng không thấy mối liên quan rõ ràng ở nữ giới. Thể lực vốn đã tốt hơn cũng có thể góp phần giải thích kết quả này.",
+      "takeaway": "Tận dụng những việc nhà phù hợp để vận động hằng ngày, tránh nâng vật nặng nếu thể trạng suy yếu, bị loãng xương hoặc có vấn đề về lưng."
+    },
+    "sleep-duration": {
+      "summary": "Các nghiên cứu tại nhiều nước châu Á ghi nhận thời gian ngủ rất dài có liên quan đến tỷ lệ tử vong cao hơn; ngủ lâu hơn cũng có thể phản ánh bệnh tiềm ẩn hoặc vấn đề về giấc ngủ.",
+      "takeaway": "Hướng đến ngủ đủ và ngủ có chất lượng để phục hồi sức khỏe; tìm nguyên nhân nếu buồn ngủ, mệt mỏi hoặc ngáy kéo dài."
+    },
+    "bedtime": {
+      "summary": "Một nghiên cứu theo dõi đa quốc gia ghi nhận cả giờ đi ngủ sớm hơn và muộn hơn đều có liên quan đến nguy cơ gộp của tử vong và biến cố tim mạch cao hơn. Mối liên quan yếu đi đáng kể sau khi tính đến các yếu tố khác.",
+      "takeaway": "Duy trì lịch sinh hoạt đều đặn, phù hợp với bạn và cho phép ngủ đủ, không ép bản thân thức khuya để đạt một giờ đi ngủ nhất định."
+    },
+    "sedentary-time": {
+      "summary": "Một tổng quan ghi nhận thời gian ít vận động kéo dài hơn có liên quan đến tỷ lệ tử vong cao hơn, đặc biệt ở những người ngồi trong phần lớn thời gian trong ngày. Mối liên quan cũng khác nhau giữa thời gian xem tivi và tổng thời gian ngồi.",
+      "takeaway": "Thay một phần thời gian ngồi bằng đi bộ hoặc hình thức vận động khác khi cơ thể cho phép."
+    },
+    "pessimism": {
+      "summary": "Một nghiên cứu theo dõi tại Úc ở người cao tuổi ghi nhận điểm số bi quan cao hơn có liên quan đến tỷ lệ tử vong cao hơn. Tâm trạng, sức khỏe thể chất và hoàn cảnh sống ảnh hưởng lẫn nhau.",
+      "takeaway": "Trò chuyện với người bạn tin tưởng khi gặp khó khăn và tìm hỗ trợ chuyên môn nếu tâm trạng tiếp tục ảnh hưởng đến cuộc sống hằng ngày."
+    },
+    "wealth": {
+      "summary": "Một nghiên cứu tại Mỹ ở người trung niên ghi nhận tài sản nhiều hơn có liên quan đến tỷ lệ tử vong thấp hơn. Nguồn lực, sức khỏe và sự ổn định trong cuộc sống thường ảnh hưởng lẫn nhau.",
+      "takeaway": "Ưu tiên chỗ ở, khả năng tiếp cận dịch vụ y tế và sự ổn định tài chính cơ bản để giảm những áp lực có thể tránh được."
+    },
+    "weight-change": {
+      "summary": "Một nghiên cứu theo dõi tại Mỹ ghi nhận tỷ lệ tử vong thấp hơn ở những người chuyển từ béo phì sang thừa cân trong giai đoạn từ đầu tuổi trưởng thành đến trung niên so với những người vẫn béo phì.",
+      "takeaway": "Nếu bị béo phì, hãy lập kế hoạch quản lý cân nặng và sức mạnh cơ bắp bền vững; tìm nguyên nhân khi sụt cân ngoài ý muốn, đặc biệt ở tuổi cao."
+    },
+    "covid-pandemic": {
+      "summary": "Dữ liệu đăng ký tử vong từ một số quốc gia cho thấy số ca tử vong vượt mức đáng kể trong làn sóng COVID-19 đầu tiên, bao gồm tác động của nhiễm bệnh và có thể cả tác động gián tiếp như gián đoạn chăm sóc y tế. Kết quả này phản ánh giai đoạn đó của đại dịch.",
+      "takeaway": "Giảm nguy cơ phơi nhiễm với nguồn lây, tiếp tục kiểm soát bệnh mạn tính và tiếp cận chăm sóc phù hợp kịp thời khi bị bệnh."
+    },
+    "resistance-training": {
+      "summary": "Một tổng quan các nghiên cứu đoàn hệ ghi nhận hoạt động tăng cường sức mạnh cơ bắp có liên quan đến tỷ lệ tử vong thấp hơn. Mối liên hệ với từng mức thời lượng tập cụ thể vẫn chưa chắc chắn.",
+      "takeaway": "Tăng dần sức mạnh các nhóm cơ lớn song song với hoạt động thể lực aerobic, có điều chỉnh khi bị đau, mới phẫu thuật hoặc có bệnh mạn tính chưa ổn định."
+    },
+    "social-isolation": {
+      "summary": "Một tổng quan ghi nhận sự cô lập xã hội, cảm giác cô đơn và việc sống một mình có liên quan đến tỷ lệ tử vong cao hơn, dù đây là những trải nghiệm khác nhau. Người sống một mình vẫn có thể có những mối quan hệ gắn kết, đáng tin cậy và mang lại sự hài lòng.",
+      "takeaway": "Duy trì các mối liên hệ và cách nhờ giúp đỡ phù hợp với bạn, đồng thời giải quyết những trở ngại như khó khăn về thính lực, vận động hoặc tâm trạng."
+    },
+    "intensive-bp-control": {
+      "summary": "Một thử nghiệm ngẫu nhiên ghi nhận ít ca tử vong hơn khi điều trị huyết áp tích cực ở người trưởng thành có nguy cơ cao hơn và không mắc đái tháo đường, nhưng cũng ghi nhận nhiều biến cố bất lợi hơn, như hạ huyết áp và các vấn đề về thận.",
+      "takeaway": "Cùng bác sĩ đặt mục tiêu huyết áp và theo dõi chóng mặt, chức năng thận cùng các chất điện giải."
+    },
+    "cardiorespiratory-fitness": {
+      "summary": "Một số nghiên cứu đoàn hệ ghi nhận thể lực tim phổi tốt hơn khi đo bằng nghiệm pháp gắng sức có liên quan đến tỷ lệ tử vong thấp hơn. Thể lực phản ánh năng lực thể chất và cũng chịu ảnh hưởng của bệnh tật và di truyền.",
+      "takeaway": "Bắt đầu từ mức thể lực hiện tại và tăng dần các hoạt động phù hợp."
+    },
+    "dapagliflozin-ckd": {
+      "summary": "Một thử nghiệm ngẫu nhiên ghi nhận ít ca tử vong hơn khi dùng dapagliflozin ở những người mắc bệnh thận mạn đáp ứng tiêu chí điều trị, có hoặc không có đái tháo đường. Lợi ích kéo dài tuổi thọ ở người khỏe mạnh chưa được xác lập.",
+      "takeaway": "Nếu mắc bệnh thận mạn, hãy để bác sĩ đánh giá mức độ phù hợp, có cân nhắc các nguy cơ gồm mất nước, nhiễm trùng và nhiễm toan ceton."
+    },
+    "semaglutide-select": {
+      "summary": "Trong SELECT, những người tham gia mắc bệnh tim mạch, thừa cân hoặc béo phì và không mắc đái tháo đường có ít ca tử vong hơn ở nhóm semaglutide; phát hiện về tử vong này mang tính thăm dò.",
+      "takeaway": "Đánh giá việc điều trị dựa trên nhu cầu y tế và quản lý cân nặng, bao gồm khả năng dung nạp; lợi ích kéo dài tuổi thọ ở người khỏe mạnh vẫn chưa được chứng minh."
+    },
+    "aspirin-primary-prevention": {
+      "summary": "Một thử nghiệm ngẫu nhiên ở người cao tuổi chưa từng mắc bệnh tim mạch không ghi nhận lợi ích kéo dài tuổi thọ từ việc dùng aspirin hằng ngày và ghi nhận tín hiệu về tỷ lệ tử vong cao hơn. Điều này khác với việc điều trị sau nhồi máu cơ tim hoặc đột quỵ.",
+      "takeaway": "Không bắt đầu dùng aspirin chỉ để sống lâu hơn; nếu đang dùng vì có chỉ định y tế, hãy trao đổi với bác sĩ trước khi thay đổi."
+    },
+    "walking-steps-2025": {
+      "summary": "Một tổng quan gần đây hơn tiếp tục ghi nhận số bước đi hằng ngày cao hơn có liên quan đến tỷ lệ tử vong thấp hơn. Sức khỏe của người tham gia, thiết bị và phương pháp đo lường cũng ảnh hưởng đến kết quả.",
+      "takeaway": "Chọn mục tiêu đi bộ trong khả năng; sự thoải mái và đều đặn là điều quan trọng."
+    },
+    "metformin-adverse-events": {
+      "summary": "Metformin có thể gây tiêu chảy và các triệu chứng tiêu hóa khác, đồng thời có thể làm giảm nồng độ vitamin B12; nhiễm toan lactic cũng là một nguy cơ quan trọng. Phản ứng khác nhau tùy dạng bào chế, liều dùng và tình trạng sức khỏe.",
+      "takeaway": "Dùng theo đơn, theo dõi khả năng dung nạp, chức năng thận và vitamin B12, đồng thời báo sớm các triệu chứng.",
+      "title": "Tác dụng phụ của metformin"
+    },
+    "waist-circumference": {
+      "title": "Vòng eo và mỡ bụng",
+      "summary": "Vòng eo cung cấp thêm thông tin hữu ích ngoài cân nặng. Các nghiên cứu dài hạn ghi nhận vòng eo lớn hơn có liên quan đến nguy cơ tử vong cao hơn, vì vậy chỉ nhìn cân nặng có thể bỏ sót một phần bức tranh sức khỏe.",
+      "takeaway": "Theo dõi cả vòng eo lẫn cân nặng, đồng thời duy trì vận động thường xuyên và các bữa ăn cân đối trong sinh hoạt hằng ngày."
+    },
+    "obstructive-sleep-apnoea": {
+      "title": "Ngáy và ngưng thở khi ngủ",
+      "summary": "Nằm trên giường cả đêm không phải lúc nào cũng đồng nghĩa với ngủ ngon. Ngưng thở khi ngủ mức độ nặng có liên quan đến nguy cơ tử vong cao hơn; ngáy kéo dài, những khoảng ngừng thở và buồn ngủ ban ngày là những dấu hiệu cần chú ý.",
+      "takeaway": "Đề nghị được đánh giá giấc ngủ nếu bạn thường ngáy to, ngừng thở khi ngủ hoặc buồn ngủ ban ngày; trao đổi về cách điều trị phù hợp nếu được chẩn đoán mắc bệnh."
+    },
+    "hepatitis-c-treatment": {
+      "title": "Viêm gan C: xét nghiệm và điều trị",
+      "summary": "Viêm gan C có thể không được phát hiện trong nhiều năm. Một nghiên cứu theo dõi người nhiễm mạn tính ghi nhận điều trị kháng virus có liên quan đến tỷ lệ tử vong thấp hơn, cho thấy giá trị của việc chẩn đoán và chăm sóc kịp thời.",
+      "takeaway": "Sau khi xét nghiệm kháng thể dương tính, hãy kiểm tra xem hiện có đang nhiễm virus hay không. Nếu được xác nhận, hãy đánh giá tình trạng gan và sớm trao đổi về điều trị kháng virus."
+    }
+  }
+}

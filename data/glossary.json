@@ -678,6 +678,88 @@
         "name": "مرض الانسداد الرئوي المزمن",
         "description": "مرض رئوي طويل الأمد يحد من تدفق الهواء ويجعل التنفس صعباً، وغالباً ما يصاحبه سعال مستمر أو بلغم."
       }
+    },
+    "vi": {
+      "HR": {
+        "name": "Tỷ số nguy hại",
+        "description": "So sánh tốc độ xảy ra một biến cố tại một thời điểm nhất định trong quá trình theo dõi. Với tử vong, HR dưới 1 nghĩa là nhóm nghiên cứu có tỷ suất tử vong tức thời thấp hơn nhóm tham chiếu; 1 nghĩa là hai nhóm có tỷ suất bằng nhau."
+      },
+      "RR": {
+        "name": "Tỷ số nguy cơ",
+        "description": "So sánh xác suất xảy ra một biến cố ở hai nhóm trong cùng một khoảng thời gian. RR bằng 0.8 nghĩa là nguy cơ ở nhóm nghiên cứu bằng 80% nguy cơ ở nhóm tham chiếu; cần xem những nhóm nào và kết cục nào đang được so sánh."
+      },
+      "OR": {
+        "name": "Tỷ số chênh",
+        "description": "So sánh số chênh của mỗi nhóm: tỷ số giữa số người có biến cố và số người không có biến cố. OR bằng 1 nghĩa là số chênh của hai nhóm bằng nhau; chỉ số này khác với RR, vốn so sánh các xác suất."
+      },
+      "CI": {
+        "name": "Khoảng tin cậy",
+        "description": "Khoảng giá trị bên cạnh một ước tính thể hiện mức độ không chắc chắn của ước tính đó; trong các điều kiện tương tự, khoảng hẹp hơn thường đồng nghĩa với độ chính xác cao hơn. Nếu khoảng của HR, RR hoặc OR bao gồm các giá trị ở cả hai phía của 1, dữ liệu vẫn phù hợp với khả năng không có khác biệt giữa các nhóm."
+      },
+      "ACM": {
+        "name": "Tử vong do mọi nguyên nhân",
+        "description": "Tính số ca tử vong do tất cả các nguyên nhân trong một khoảng thời gian nhất định. Khi đọc kết quả so sánh, cần xem cả quần thể nghiên cứu và thời gian theo dõi."
+      },
+      "RCT": {
+        "name": "Thử nghiệm ngẫu nhiên có đối chứng",
+        "description": "Nhà nghiên cứu phân ngẫu nhiên người tham gia vào các nhóm, chẳng hạn nhóm điều trị và nhóm so sánh, rồi so sánh kết cục. Phân nhóm ngẫu nhiên giúp tách biệt tác động của can thiệp."
+      },
+      "CVD": {
+        "name": "Bệnh tim mạch",
+        "description": "Các bệnh ảnh hưởng đến tim hoặc mạch máu, bao gồm bệnh mạch vành và đột quỵ. Một nghiên cứu có thể xem xét một bệnh hoặc gộp nhiều biến cố tim mạch."
+      },
+      "DOI": {
+        "name": "Mã định danh đối tượng số",
+        "description": "Mã định danh lâu dài cho một bài báo hoặc công trình khác, giống như một thẻ địa chỉ cố định. Liên kết DOI dẫn đến trang của ấn phẩm tương ứng."
+      },
+      "MET": {
+        "name": "Đương lượng chuyển hóa",
+        "description": "Biểu thị mức tiêu hao năng lượng của một hoạt động so với lúc nghỉ: hoạt động 3 MET tiêu hao năng lượng gấp khoảng ba lần lúc nghỉ. Trong các nghiên cứu về thể lực, mức cải thiện 1 MET thường nói đến khả năng gắng sức trong nghiệm pháp vận động; cần xem nghiên cứu đã đo lường như thế nào."
+      },
+      "SD": {
+        "name": "Độ lệch chuẩn",
+        "description": "Mô tả mức độ phân tán của một tập hợp giá trị. Kết quả được báo cáo theo “mỗi mức tăng 1 SD” sử dụng mức biến thiên đó làm đơn vị tăng, chứ không phải một điểm số hay một đơn vị đo ban đầu."
+      },
+      "LDL-C": {
+        "name": "Cholesterol lipoprotein tỷ trọng thấp",
+        "description": "Cholesterol được các lipoprotein tỷ trọng thấp vận chuyển trong máu, được đo trong xét nghiệm lipid máu. Nồng độ cao hơn làm tăng nguy cơ xơ vữa động mạch, bệnh tim và đột quỵ."
+      },
+      "PM2.5": {
+        "name": "Bụi mịn",
+        "description": "Các hạt nhỏ trong không khí có đường kính không quá 2.5 micromét, có thể đi sâu vào phổi. Các nghiên cứu thường báo cáo nồng độ của chúng bằng microgam trên mét khối."
+      },
+      "BMI": {
+        "name": "Chỉ số khối cơ thể",
+        "description": "Cân nặng tính bằng kilôgam chia cho bình phương chiều cao tính bằng mét, là thước đo sơ bộ về cân nặng so với chiều cao. Chỉ số này không phân biệt mỡ với cơ."
+      },
+      "CKD": {
+        "name": "Bệnh thận mạn",
+        "description": "Những bất thường kéo dài về cấu trúc hoặc chức năng thận, có thể ảnh hưởng đến khả năng lọc máu. Nhóm CKD trong một nghiên cứu thường gồm những người đáp ứng các tiêu chuẩn chẩn đoán của nghiên cứu đó."
+      },
+      "STR": {
+        "name": "Tỷ số thời gian sống còn",
+        "description": "So sánh thời gian sống còn được ước tính bằng một mô hình: nhóm tham chiếu được đặt bằng 1, và giá trị dưới 1 nghĩa là thời gian ước tính ở nhóm được so sánh ngắn hơn. Chỉ số này khác với HR; trước hết cần xem nhóm nào là nhóm tham chiếu."
+      },
+      "CRF": {
+        "name": "Thể lực tim phổi",
+        "description": "Khả năng của tim, phổi và hệ tuần hoàn cung cấp oxy cho cơ trong hoạt động kéo dài, thường được đo hoặc ước tính bằng nghiệm pháp vận động."
+      },
+      "UACR": {
+        "name": "Tỷ số albumin/creatinin niệu",
+        "description": "So sánh albumin với creatinin trong cùng một mẫu nước tiểu để đánh giá liệu có quá nhiều albumin rò rỉ vào nước tiểu hay không; đây là một chỉ số dùng để đánh giá sức khỏe thận."
+      },
+      "UPF": {
+        "name": "Thực phẩm siêu chế biến",
+        "description": "Trong phân loại NOVA, đây là các sản phẩm được phối chế công nghiệp, thường chứa phụ gia tạo hương vị hoặc kết cấu, chẳng hạn một số đồ ăn vặt đóng gói và món ăn chế biến sẵn. Thuật ngữ này không bao gồm mọi thực phẩm đã qua chế biến."
+      },
+      "SSB": {
+        "name": "Đồ uống có đường bổ sung",
+        "description": "Đồ uống có thêm đường hoặc siro, chẳng hạn nước ngọt có ga thông thường, trà có đường và một số đồ uống hương trái cây. Cần xem nghiên cứu cụ thể bao gồm những loại đồ uống nào."
+      },
+      "COPD": {
+        "name": "Bệnh phổi tắc nghẽn mạn tính",
+        "description": "Bệnh phổi kéo dài gây hạn chế luồng khí và khó thở, thường kèm ho dai dẳng hoặc có đờm."
+      }
     }
   }
 }

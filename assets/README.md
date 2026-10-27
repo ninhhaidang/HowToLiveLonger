@@ -1,5 +1,7 @@
 # Visual assets / 视觉资产
 
+[Tiếng Việt](README.vi.md) · [English / 中文](README.md)
+
 `life-evidence-cover-v3.png` is the original editorial artwork generated for this project with the built-in OpenAI image generation tool on 2026-10-21. No reference image, paper figure or third-party stock artwork was supplied. It depicts tree rings, botanical growth and a research-network metaphor; it is not a scientific study figure or measured result. The tool did not expose a selectable or verifiable backend model ID.
 
 `life-evidence-cover-v3.jpg` is the compressed web derivative. `cover-social-v3.svg` combines the same art with project typography; `cover-social-v3.png` is its 1200×630 rendered distribution cover. The SVG embeds its image, so the composition is portable. The original generated PNG remains available for quality-preserving reuse. `evidence-atlas-cover.svg` is the earlier hand-authored project cover, retained as an earlier asset.
