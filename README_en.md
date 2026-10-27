@@ -2,6 +2,7 @@
 
 [![CN doc](https://img.shields.io/badge/文档-中文版-blue.svg)](README.md)
 [![EN doc](https://img.shields.io/badge/document-English-blue.svg)](README_en.md)
+[![VI doc](https://img.shields.io/badge/document-Tiếng_Việt-blue.svg)](README_vi.md)
 [![MetaGPT](https://img.shields.io/badge/LessWorkTime-MetaGPT-blue)](https://github.com/geekan/MetaGPT)
 
 - [1. Glossary](#1-Glossary)
