@@ -1,307 +1,307 @@
-# 程序员延寿指南
+# Hướng dẫn kéo dài tuổi thọ dành cho lập trình viên
 
-[![CN doc](https://img.shields.io/badge/文档-中文版-blue.svg)](README.md)
-[![EN doc](https://img.shields.io/badge/document-English-blue.svg)](README_en.md)
-[![VI doc](https://img.shields.io/badge/tài_liệu-Tiếng_Việt-blue.svg)](README_vi.md)
-[![MetaGPT](https://img.shields.io/badge/减少工作时间-MetaGPT-blue)](https://github.com/geekan/MetaGPT)
+[![Tài liệu CN](https://img.shields.io/badge/文档-中文版-blue.svg)](README_zh.md)
+[![Tài liệu EN](https://img.shields.io/badge/document-English-blue.svg)](README_en.md)
+[![Tài liệu VI](https://img.shields.io/badge/document-Tiếng_Việt-blue.svg)](README.md)
+[![MetaGPT](https://img.shields.io/badge/ít_việc_hơn-MetaGPT-blue)](https://github.com/geekan/MetaGPT)
 
-
-- [1. 术语](#1-术语)
-- [2. 目标](#2-目标)
-- [3. 关键结果](#3-关键结果)
-- [4. 分析](#4-分析)
-- [5. 行动](#5-行动)
-- [6. 证据](#6-证据)
-  - [6.1. 输入](#61-输入)
-    - [6.1.1. 固体](#611-固体)
-    - [6.1.2. 液体](#612-液体)
-    - [6.1.3. 气体](#613-气体)
-    - [6.1.4. 光照](#614-光照)
-    - [6.1.5. 药物](#615-药物)
-  - [6.2. 输出](#62-输出)
-    - [6.2.1. 挥拍运动](#621-挥拍运动)
-    - [6.2.2. 剧烈运动](#622-剧烈运动)
-    - [6.2.3. 走路](#623-走路)
-    - [6.2.4. 刷牙](#624-刷牙)
-    - [6.2.5. 泡澡](#625-泡澡)
-    - [6.2.6. 做家务（老年男性）](#626-做家务老年男性)
-    - [6.2.7. 睡眠](#627-睡眠)
-    - [6.2.8. 久坐](#628-久坐)
-  - [6.3. 上下文](#63-上下文)
-    - [6.3.1. 情绪](#631-情绪)
-    - [6.3.2. 贫富](#632-贫富)
-    - [6.3.3. 体重](#633-体重)
-    - [6.3.4. 新冠](#634-新冠)
+- [1. Thuật ngữ](#1-thuật-ngữ)
+- [2. Mục tiêu](#2-mục-tiêu)
+- [3. Kết quả then chốt](#3-kết-quả-then-chốt)
+- [4. Phân tích](#4-phân-tích)
+- [5. Hành động](#5-hành-động)
+- [6. Bằng chứng](#6-bằng-chứng)
+  - [6.1. Đầu vào](#61-đầu-vào)
+    - [6.1.1. Thực phẩm rắn](#611-thực-phẩm-rắn)
+    - [6.1.2. Chất lỏng](#612-chất-lỏng)
+    - [6.1.3. Chất khí](#613-chất-khí)
+    - [6.1.4. Ánh sáng](#614-ánh-sáng)
+    - [6.1.5. Thuốc](#615-thuốc)
+  - [6.2. Đầu ra](#62-đầu-ra)
+    - [6.2.1. Các môn thể thao dùng vợt](#621-các-môn-thể-thao-dùng-vợt)
+    - [6.2.2. Vận động cường độ cao](#622-vận-động-cường-độ-cao)
+    - [6.2.3. Đi bộ](#623-đi-bộ)
+    - [6.2.4. Đánh răng](#624-đánh-răng)
+    - [6.2.5. Tắm ngâm](#625-tắm-ngâm)
+    - [6.2.6. Làm việc nhà (nam giới cao tuổi)](#626-làm-việc-nhà-nam-giới-cao-tuổi)
+    - [6.2.7. Giấc ngủ](#627-giấc-ngủ)
+    - [6.2.8. Ngồi lâu](#628-ngồi-lâu)
+  - [6.3. Bối cảnh](#63-bối-cảnh)
+    - [6.3.1. Cảm xúc](#631-cảm-xúc)
+    - [6.3.2. Giàu nghèo](#632-giàu-nghèo)
+    - [6.3.3. Cân nặng](#633-cân-nặng)
+    - [6.3.4. COVID-19](#634-covid-19)
 
 ---
 
-### 1. 术语
+### 1. Thuật ngữ
 
-* ACM: All-Cause Mortality / 全因死亡率
+* ACM: All-Cause Mortality / Tỷ lệ tử vong do mọi nguyên nhân
 
-### 2. 目标
+### 2. Mục tiêu
 
-* 稳健的活得更久
-* 花更少时间工作：见[MetaGPT](https://github.com/geekan/MetaGPT)
+* Sống lâu hơn một cách vững chắc
+* Dành ít thời gian hơn cho công việc: xem [MetaGPT](https://github.com/geekan/MetaGPT)
 
-### 3. 关键结果
+### 3. Kết quả then chốt
 
-* 降低66.67%全因死亡率
-* 增加\~20年预期寿命
-* ~~维持多巴胺于中轴~~
+* Giảm 66.67% tỷ lệ tử vong do mọi nguyên nhân
+* Tăng \~20 năm tuổi thọ kỳ vọng
+* ~~Duy trì dopamine ở mức trung tâm~~
 
-### 4. 分析
+### 4. Phân tích
 
-* 主要参考：对ACM的学术文献相对较多，可以作为主要参考
-* 增加寿命与ACM关系非线性：显然增加寿命与ACM关系是非线性函数，这里假设 `ΔLifeSpan=(1/(1+ΔACM)-1)*10`（ΔACM为ACM变化值；公式欢迎优化）
-* 变量无法简单叠加：显然各个变量之间并不符合独立同分布假设，变量之间的实际影响也并不明确
-* 存在矛盾观点：所有的证据都有文献/研究对应，但注意到：有些文献之间有显著矛盾的观点（如对于碳水摄入比例的矛盾）；有些文献存在较大争议（如认为22点前睡觉会提升43%全因死亡率）
-* 研究仅表达相关：所有文献表明的更多是相关而非因果，在阅读时要考虑文献是否充分证明了因果 —— 如某文献表明了日均>=7000步的人有显著低的全因死亡率。但步数少的人可能包含更多长期病患，如果没有合理的排除这块数据，那此文献调查失真
+* Tài liệu tham khảo chính: có tương đối nhiều tài liệu học thuật về ACM, có thể dùng làm nguồn tham khảo chính
+* Quan hệ giữa tăng tuổi thọ và ACM là phi tuyến: rõ ràng, quan hệ giữa tăng tuổi thọ và ACM là một hàm phi tuyến; ở đây giả định `ΔLifeSpan=(1/(1+ΔACM)-1)*10` (ΔACM là mức thay đổi của ACM; hoan nghênh đề xuất cải tiến công thức)
+* Không thể đơn giản cộng dồn các biến: rõ ràng, các biến không thỏa mãn giả định độc lập và cùng phân phối; ảnh hưởng thực tế giữa các biến cũng chưa rõ
+* Có những quan điểm mâu thuẫn: mọi bằng chứng đều có tài liệu/nghiên cứu tương ứng, nhưng cần lưu ý: một số tài liệu có quan điểm mâu thuẫn đáng kể (chẳng hạn mâu thuẫn về tỷ lệ carbohydrate nạp vào); một số tài liệu gây tranh cãi lớn (chẳng hạn cho rằng đi ngủ trước 22 giờ làm tăng 43% tỷ lệ tử vong do mọi nguyên nhân)
+* Nghiên cứu chỉ thể hiện mối tương quan: mọi tài liệu chủ yếu cho thấy tương quan chứ không phải quan hệ nhân quả; khi đọc, cần cân nhắc liệu tài liệu đã chứng minh đầy đủ quan hệ nhân quả hay chưa — chẳng hạn, một tài liệu cho thấy người đi trung bình >=7000 bước mỗi ngày có tỷ lệ tử vong do mọi nguyên nhân thấp hơn đáng kể. Nhưng nhóm đi ít bước có thể bao gồm nhiều người mắc bệnh lâu năm hơn; nếu không loại trừ hợp lý phần dữ liệu này thì kết quả khảo sát của tài liệu sẽ bị sai lệch
 
-### 5. 行动
+### 5. Hành động
 
-* 输入
-  * 固体：吃白肉（-11%\~-3% ACM）、蔬果为主（-26%\~-17% ACM），多吃辣（-23% ACM），多吃坚果（-27%\~-4% ACM），中量碳水、多吃植物蛋白（-10% ACM），少吃超加工食物（-62%\~-18%）
-  * 液体：喝咖啡（-22%\~-12% ACM），喝牛奶（-17%\~-10% ACM），喝茶（-15%\~-8% ACM），少喝或不喝甜味饮料（否则每天一杯+7% ACM，+多巴胺），戒酒（否则+\~50% ACM，无上限）
-  * 气体：不吸烟（否则+~50% ACM，-12\~-11年寿命）
-  * 光照：晒太阳（-~40% ACM）
-  * 药物：二甲双胍（糖尿病人相比正常人可以+3年）、复合维生素（-8%癌症风险）、亚精胺（-60%\~-30% ACM）、葡萄糖胺（-39% ACM）
-* 输出
-  * 运动：每周3次45分钟挥拍运动（-47% ACM）
-  * 日常：刷牙（-25% ACM）
-  * 睡眠：每天睡7小时全因死亡率最低；且22-24点间最好，*早睡+43% ACM，晚睡+15% ACM（存在争议）*
-* 上下文
-  * 体重：减肥（-54% ACM）
+* Đầu vào
+  * Thực phẩm rắn: ăn thịt trắng (-11%\~-3% ACM), chủ yếu ăn rau quả (-26%\~-17% ACM), ăn cay nhiều hơn (-23% ACM), ăn nhiều hạt hơn (-27%\~-4% ACM), ăn lượng carbohydrate vừa phải, ăn nhiều protein thực vật hơn (-10% ACM), ăn ít thực phẩm siêu chế biến (-62%\~-18%)
+  * Chất lỏng: uống cà phê (-22%\~-12% ACM), uống sữa (-17%\~-10% ACM), uống trà (-15%\~-8% ACM), hạn chế hoặc không uống đồ uống có vị ngọt (nếu không, mỗi ngày một cốc +7% ACM, +dopamine), bỏ rượu (nếu không +\~50% ACM, không có giới hạn trên)
+  * Chất khí: không hút thuốc (nếu không +~50% ACM, -12\~-11 năm tuổi thọ)
+  * Ánh sáng: phơi nắng (-~40% ACM)
+  * Thuốc: metformin (người mắc đái tháo đường có thể sống thêm +3 năm so với người bình thường), vitamin tổng hợp (-8% nguy cơ ung thư), spermidine (-60%\~-30% ACM), glucosamine (-39% ACM)
+* Đầu ra
+  * Vận động: chơi môn thể thao dùng vợt 3 lần mỗi tuần, mỗi lần 45 phút (-47% ACM)
+  * Hằng ngày: đánh răng (-25% ACM)
+  * Giấc ngủ: ngủ 7 giờ mỗi ngày có tỷ lệ tử vong do mọi nguyên nhân thấp nhất; và tốt nhất là đi ngủ trong khoảng 22-24 giờ, *ngủ sớm +43% ACM, ngủ muộn +15% ACM (còn tranh cãi)*
+* Bối cảnh
+  * Cân nặng: giảm cân (-54% ACM)
 
-### 6. 证据
+### 6. Bằng chứng
 
-#### 6.1. 输入
+#### 6.1. Đầu vào
 
-##### 6.1.1. 固体
+##### 6.1.1. Thực phẩm rắn
 
-* 白肉
-  * [JAMA子刊：食用红肉和加工肉类会增加心脏病和死亡风险！鱼肉和家禽肉则不会](https://zhuanlan.zhihu.com/p/268401670)
-    * 出处：[Associations of Processed Meat, Unprocessed Red Meat, Poultry, or Fish Intake With Incident Cardiovascular Disease and All-Cause Mortality](https://jamanetwork.com/journals/jamainternalmedicine/articlepdf/2759737/jamainternal_zhong_2020_oi_190112.pdf)
-    * 增加红肉摄入与死亡风险相关。八年内平均每天增加至少半份红肉摄入（半份红肉相当于14g加工红肉或40g非加工红肉）的调查对象，在接下来八年内全因死亡风险增加10％（HR, 1.10; 95%CI, 1.04-1.17）；每周吃两份红肉或加工肉类（但不包括家禽或鱼类）会使全因死亡风险增加3%
-    * ![红肉](https://user-images.githubusercontent.com/2707039/163703960-6f321de5-4daa-4ea5-95b9-af9c96f1c1bc.jpg)
-  * [红肉和白肉最大的区别是什么？为啥要这么分呢？](https://www.zhihu.com/question/67223570/answer/809785380)
-* 蔬果
-  * [每年54万人死亡，竟是因为水果吃得少！？这已成十大死亡因素之一！](https://www.sohu.com/a/322360740_164924)
-    * 出处：[Estimated Global, Regional, and National Cardiovascular Disease Burdens Related to Fruit and Vegetable Consumption: An Analysis from the Global Dietary Database (FS01-01-19) ](https://academic.oup.com/cdn/article-abstract/3/Supplement_1/nzz028.FS01-01-19/5516583)
-    * 每天摄入200克新鲜水果可使死亡率降低17%，糖尿病大血管并发症（如中风、缺血性心脏病等）风险降低13%，及糖尿病小血管并发症（如糖尿病肾病、糖尿病眼病、糖尿病足病等）风险降低28%
-  * [《自然》子刊：每天二两西兰花，健康长寿都有啦！分析近6万人23年的数据发现，吃含黄酮类食物与死亡风险降低20%相关丨临床大发现](https://mp.weixin.qq.com/s/E6BAi-Vnhr1jXBm0Pys2ZQ)
-    * 出处：[Flavonoid intake is associated with lower mortality in the Danish Diet Cancer and Health Cohort](https://www.nature.com/articles/s41467-019-11622-x)
-    * 吃含黄酮类食物与死亡风险降低20%相关
-    * ![黄酮](https://user-images.githubusercontent.com/2707039/163703969-42e64f88-e727-4e7d-85f2-07a92e29b613.jpg)
-    * Bondonno博士说道“吃不同蔬菜、水果补充，不同种类的黄酮类化合物是很重要的，这很容易通过饮食实现：一杯茶、一个苹果、一个橘子、100克蓝莓，或100克西兰花，就能提供各种黄酮类化合物，并且总含量超过500毫克。
-* 辣椒
-  * [辣椒成死亡克星？据调研，常吃辣患病死亡风险可降低61%](https://3g.163.com/dy/article/F6Q7I1ME053228ZU.html)
-    * 出处1：[Chili pepper consumption and mortality in Italian adults](https://www.sciencedirect.com/science/article/pii/S0735109719382063)
-	* 出处2：[The Association of Hot Red Chili Pepper Consumption and Mortality: A Large Population-Based Cohort Study](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0169876)
-    * 2017年Plos One 的另一项来自美国的研究以16179名，年龄在18岁以上的人群为对象，并对其进行了高达19年的随访，发现在4946例死亡患者中，食用辣椒的参与者的全因死亡率为21.6％，而未食用辣椒的参与者的全因死亡率为33.6％。相较于不吃辣或很少吃（少于每周两次）的人群，每周吃辣＞4次的人群总死亡风险降低23%，心血管死亡风险降低34%。
-* 鸡蛋
-  * [每天多吃半个蛋，增加7%的全因和心血管死亡风险？](https://m.thepaper.cn/baijiahao_11540780)
-    * 出处：[NIH-AARP工作主页](https://dietandhealth.cancer.gov/)、[Egg and cholesterol consumption and mortality from cardiovascular and different causes in the United States: A population-based cohort study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7872242/)
-    * 每天多吃半个蛋，增加7%的全因和心血管死亡风险？在假设性替代分析中，研究者发现，用等量的蛋清/鸡蛋替代物、家禽、鱼、乳制品、坚果和豆类分别替代半只全蛋（25克/天）可以降低6%、8%、9%、7%、13%和10%的全因死亡率。
-	*[鸡蛋](https://raw.githubusercontent.com/qhy040404/Image-Resources-Repo/master/pmed.1003508.g002.jpg)
-* 坚果
-  * [哈佛20年研究：吃核桃的人更长寿，显著减少全因死亡，延长寿命](https://www.163.com/dy/article/GKVOMMMF05148PF4.html)
-    * 出处：[Association of Walnut Consumption with Total and Cause-Specific Mortality and Life Expectancy in US Adults](https://www.mdpi.com/2072-6643/13/8/2699/pdf)
-    * 通过分析发现，经常食用核桃可以延长寿命，降低心血管疾病死亡风险。比起不吃核桃，每周食用核桃5份以上（1份28克）的健康预期寿命延长1.3岁，全因死亡风险降低14%，心血管疾病死亡率降低25%。
-  * [研究：每日食生坚果，死亡率降20%](https://zhuanlan.zhihu.com/p/44454030)
-    * 出处1：[Association of nut consumption with total and cause-specific mortality](https://www.nejm.org/doi/full/10.1056/NEJMoa1307352)
-    * 出处2：[APG_Health-&-Nutrition-Research-Brochure_DEC-19-18](https://americanpistachios.cn/sites/china/files/inline-files/APG_Health-%26-Nutrition-Research-Brochure_DEC-19-18.pdf)
-    * 研究人员发现，每周吃树坚果低于1盎司份量的人，死亡率降低7％。而每周吃了1盎司份量的人，减少11％的死亡率；每周吃2份量的人，减低13％；每周5至6份量者，减少了15％；一周7份以上的人，死亡率则减少20％。
-    * 另外两篇发表在《公共科学图书馆在线期刊》(Public Library of Science Online Journal)和《生物医学中心》(BioMed Central)上的医学预科研究论文，展示了试验开始时的横断面数据。这两项研究都评估了7,216名对象，以及他们食用坚果的频率和数量之间的关系。那些每周食用三份以上坚果(包括开心果)的研究对象的死亡率降低39%。
-* 钠（存有大量争议）
-  * [Eur Heart J：钠摄入量与预期寿命、全因死亡率的关系](https://nursing.medsci.cn/article/show_article.do;jsessionid=A34E8A33918A152CB55BDD2E5FB1798D?id=afe720486ee7)
-    * 出处：[Messerli F H, Hofstetter L, Syrogiannouli L, et al. Sodium intake, life expectancy, and all-cause mortality[J]. European heart journal, 2021, 42(21): 2103-2112.](https://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC8169157&blobtype=pdf)
+* Thịt trắng
+  * [Tạp chí thuộc JAMA: ăn thịt đỏ và thịt chế biến làm tăng nguy cơ mắc bệnh tim và tử vong! Cá và thịt gia cầm thì không](https://zhuanlan.zhihu.com/p/268401670)
+    * Nguồn: [Associations of Processed Meat, Unprocessed Red Meat, Poultry, or Fish Intake With Incident Cardiovascular Disease and All-Cause Mortality](https://jamanetwork.com/journals/jamainternalmedicine/articlepdf/2759737/jamainternal_zhong_2020_oi_190112.pdf)
+    * Tăng lượng thịt đỏ tiêu thụ có liên quan đến nguy cơ tử vong. Những người được khảo sát tăng lượng thịt đỏ tiêu thụ trung bình ít nhất nửa khẩu phần mỗi ngày trong tám năm (nửa khẩu phần thịt đỏ tương đương 14g thịt đỏ chế biến hoặc 40g thịt đỏ chưa chế biến) có nguy cơ tử vong do mọi nguyên nhân tăng 10％ trong tám năm tiếp theo (HR, 1.10; 95%CI, 1.04-1.17); ăn hai khẩu phần thịt đỏ hoặc thịt chế biến mỗi tuần (nhưng không bao gồm gia cầm hoặc cá) làm tăng 3% nguy cơ tử vong do mọi nguyên nhân
+    * ![Thịt đỏ](https://user-images.githubusercontent.com/2707039/163703960-6f321de5-4daa-4ea5-95b9-af9c96f1c1bc.jpg)
+  * [Khác biệt lớn nhất giữa thịt đỏ và thịt trắng là gì? Vì sao lại phân loại như vậy?](https://www.zhihu.com/question/67223570/answer/809785380)
+* Rau quả
+  * [540 nghìn người tử vong mỗi năm vì ăn quá ít trái cây!? Đây đã trở thành một trong mười yếu tố gây tử vong hàng đầu!](https://www.sohu.com/a/322360740_164924)
+    * Nguồn: [Estimated Global, Regional, and National Cardiovascular Disease Burdens Related to Fruit and Vegetable Consumption: An Analysis from the Global Dietary Database (FS01-01-19) ](https://academic.oup.com/cdn/article-abstract/3/Supplement_1/nzz028.FS01-01-19/5516583)
+    * Ăn 200 gam trái cây tươi mỗi ngày có thể làm giảm 17% tỷ lệ tử vong, giảm 13% nguy cơ biến chứng mạch máu lớn của đái tháo đường (như đột quỵ, bệnh tim thiếu máu cục bộ, v.v.) và giảm 28% nguy cơ biến chứng mạch máu nhỏ của đái tháo đường (như bệnh thận đái tháo đường, bệnh mắt đái tháo đường, bệnh bàn chân đái tháo đường, v.v.)
+  * [Tạp chí thuộc Nature: mỗi ngày hai lạng Trung Quốc (100 gam) bông cải xanh, vừa khỏe mạnh vừa sống lâu! Phân tích dữ liệu trong 23 năm của gần 60 nghìn người cho thấy ăn thực phẩm chứa flavonoid có liên quan đến giảm 20% nguy cơ tử vong | Phát hiện lâm sàng lớn](https://mp.weixin.qq.com/s/E6BAi-Vnhr1jXBm0Pys2ZQ)
+    * Nguồn: [Flavonoid intake is associated with lower mortality in the Danish Diet Cancer and Health Cohort](https://www.nature.com/articles/s41467-019-11622-x)
+    * Ăn thực phẩm chứa flavonoid có liên quan đến giảm 20% nguy cơ tử vong
+    * ![Flavonoid](https://user-images.githubusercontent.com/2707039/163703969-42e64f88-e727-4e7d-85f2-07a92e29b613.jpg)
+    * Tiến sĩ Bondonno nói: “Ăn nhiều loại rau quả để bổ sung các loại hợp chất flavonoid khác nhau là rất quan trọng; điều này rất dễ thực hiện qua chế độ ăn: một tách trà, một quả táo, một quả cam, 100 gam việt quất hoặc 100 gam bông cải xanh có thể cung cấp nhiều loại hợp chất flavonoid với tổng hàm lượng trên 500 miligam.”
+* Ớt
+  * [Ớt trở thành khắc tinh của tử vong? Theo khảo sát, thường xuyên ăn cay có thể giảm 61% nguy cơ tử vong do bệnh](https://3g.163.com/dy/article/F6Q7I1ME053228ZU.html)
+    * Nguồn 1: [Chili pepper consumption and mortality in Italian adults](https://www.sciencedirect.com/science/article/pii/S0735109719382063)
+	* Nguồn 2: [The Association of Hot Red Chili Pepper Consumption and Mortality: A Large Population-Based Cohort Study](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0169876)
+    * Một nghiên cứu khác từ Hoa Kỳ trên Plos One năm 2017 khảo sát 16179 người trên 18 tuổi, theo dõi họ trong thời gian lên tới 19 năm, và ghi nhận 4946 trường hợp tử vong. Tỷ lệ tử vong do mọi nguyên nhân ở những người tham gia ăn ớt là 21.6％, còn ở những người không ăn ớt là 33.6％. So với nhóm không ăn cay hoặc ít ăn cay (ít hơn hai lần mỗi tuần), nhóm ăn cay ＞4 lần mỗi tuần có nguy cơ tử vong chung giảm 23% và nguy cơ tử vong do tim mạch giảm 34%.
+* Trứng
+  * [Ăn thêm nửa quả trứng mỗi ngày làm tăng 7% nguy cơ tử vong do mọi nguyên nhân và do tim mạch?](https://m.thepaper.cn/baijiahao_11540780)
+    * Nguồn: [Trang chủ nghiên cứu NIH-AARP](https://dietandhealth.cancer.gov/)、[Egg and cholesterol consumption and mortality from cardiovascular and different causes in the United States: A population-based cohort study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7872242/)
+    * Ăn thêm nửa quả trứng mỗi ngày làm tăng 7% nguy cơ tử vong do mọi nguyên nhân và do tim mạch? Trong phân tích thay thế giả định, các nhà nghiên cứu phát hiện rằng thay nửa quả trứng nguyên (25 gam/ngày) bằng lượng tương đương lòng trắng trứng/sản phẩm thay thế trứng, thịt gia cầm, cá, sản phẩm sữa, các loại hạt và các loại đậu có thể lần lượt giảm 6%, 8%, 9%, 7%, 13% và 10% tỷ lệ tử vong do mọi nguyên nhân.
+	*[Trứng](https://raw.githubusercontent.com/qhy040404/Image-Resources-Repo/master/pmed.1003508.g002.jpg)
+* Các loại hạt
+  * [Nghiên cứu 20 năm của Harvard: người ăn quả óc chó sống lâu hơn, giảm đáng kể tử vong do mọi nguyên nhân, kéo dài tuổi thọ](https://www.163.com/dy/article/GKVOMMMF05148PF4.html)
+    * Nguồn: [Association of Walnut Consumption with Total and Cause-Specific Mortality and Life Expectancy in US Adults](https://www.mdpi.com/2072-6643/13/8/2699/pdf)
+    * Phân tích cho thấy thường xuyên ăn quả óc chó có thể kéo dài tuổi thọ và giảm nguy cơ tử vong do bệnh tim mạch. So với không ăn quả óc chó, ăn hơn 5 khẩu phần mỗi tuần (1 khẩu phần 28 gam) giúp tăng 1.3 năm tuổi thọ kỳ vọng khỏe mạnh, giảm 14% nguy cơ tử vong do mọi nguyên nhân và giảm 25% tỷ lệ tử vong do bệnh tim mạch.
+  * [Nghiên cứu: ăn hạt sống hằng ngày giúp giảm 20% tỷ lệ tử vong](https://zhuanlan.zhihu.com/p/44454030)
+    * Nguồn 1: [Association of nut consumption with total and cause-specific mortality](https://www.nejm.org/doi/full/10.1056/NEJMoa1307352)
+    * Nguồn 2: [APG_Health-&-Nutrition-Research-Brochure_DEC-19-18](https://americanpistachios.cn/sites/china/files/inline-files/APG_Health-%26-Nutrition-Research-Brochure_DEC-19-18.pdf)
+    * Các nhà nghiên cứu phát hiện rằng những người ăn dưới 1 ounce hạt cây mỗi tuần có tỷ lệ tử vong giảm 7%. Những người ăn 1 khẩu phần 1 ounce mỗi tuần giảm 11% tỷ lệ tử vong; người ăn 2 khẩu phần mỗi tuần giảm 13%; người ăn 5 đến 6 khẩu phần mỗi tuần giảm 15%; người ăn hơn 7 khẩu phần mỗi tuần giảm 20% tỷ lệ tử vong.
+    * Hai bài nghiên cứu y học sơ bộ khác, đăng trên Public Library of Science Online Journal và BioMed Central, trình bày dữ liệu cắt ngang vào thời điểm bắt đầu thử nghiệm. Cả hai nghiên cứu đều đánh giá 7,216 đối tượng và mối liên hệ với tần suất, lượng hạt họ ăn. Những đối tượng ăn hơn ba khẩu phần hạt mỗi tuần (bao gồm hạt dẻ cười) có tỷ lệ tử vong giảm 39%.
+* Natri (còn nhiều tranh cãi)
+  * [Eur Heart J: mối liên hệ giữa lượng natri tiêu thụ với tuổi thọ kỳ vọng và tỷ lệ tử vong do mọi nguyên nhân](https://nursing.medsci.cn/article/show_article.do;jsessionid=A34E8A33918A152CB55BDD2E5FB1798D?id=afe720486ee7)
+    * Nguồn: [Messerli F H, Hofstetter L, Syrogiannouli L, et al. Sodium intake, life expectancy, and all-cause mortality[J]. European heart journal, 2021, 42(21): 2103-2112.](https://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC8169157&blobtype=pdf)
     * ![ehaa947f6](https://user-images.githubusercontent.com/2707039/164894778-9710f18d-e055-4f62-bdcb-618687771d77.jpeg)
-    * 在该分析所包含的181个国家中，研究人员发现钠摄入量与出生时的健康预期寿命（β=2.6年/克每日钠摄入量，R<sup>2</sup>=0.66，P<0.001）和60岁时的健康预期寿命（β=0.3年/克每日钠摄入量，R<sup>2</sup>=0.60，P=0.048）之间存在正相关关系，但与非传染性疾病死亡（β=17次事件/克每日钠摄入量，R<sup>2</sup>=0.43，P=0.100）无关。相反，全因死亡率与钠摄入量成负相关（β=−131次事件/克每日钠摄入量，R<sup>2</sup>=0.60，P<0.001）。在仅限于46个收入最高国家的敏感性分析中，钠摄入量与出生时的健康预期寿命呈正相关（β=3.4年/克每日钠摄入量，R<sup>2</sup>=0.53，P<0.001），而与全因死亡率（β=−168次事件/克每日钠摄入量，R<sup>2</sup>=0.50，P<0.001）呈负相关。
-    * 该（大范围）研究认为更多的钠摄入与显著更低的全因死亡率有关
-    * [针对该论文的延伸解读和讨论：A Fresh Foray in the Salt Wars: Life Expectancy Higher With Greater Sodium Intake](https://www.tctmd.com/news/fresh-foray-salt-wars-life-expectancy-higher-greater-sodium-intake)
-  * [NEJM/Lancet：不要吃太多盐，中国饮食所致心血管病和癌症死亡全球第一，吃低钠盐可降低全因死亡率](https://ibook.antpedia.com/x/669028.html)
-    * 但也有多项研究认为用低钠盐可以降低一系列疾病的发生概率，对全因死亡率的减少有积极影响
-* 碳水（存有大量争议）
-  * [低碳生酮饮食（四）碳水化合物与长期死亡率](https://zhuanlan.zhihu.com/p/137815934)
-    * 出处：The Lancet Public Health - [Dietary carbohydrate intake and mortality: a prospective cohort study and meta-analysis](https://www.sciencedirect.com/science/article/pii/S246826671830135X)
-    * 碳水越低，寿命越短；碳水越高，寿命也轻微缩短；碳水50%左右（其实按照一般的说法，这也算高碳水）是最长寿命区间 
-    * ![碳水](https://user-images.githubusercontent.com/2707039/163703985-a2e2f8ac-101a-4f3c-903b-6850507f144b.jpg)
-  * [最强营养搭配！BMJ：这么吃，心血管疾病和死亡风险更低](https://www.chinacdc.cn/gwxx/202003/t20200323_214639.html)
-* 槟榔
-  * [如何看待槟榔嚼出来的癌症？槟榔致癌风险究竟有多大？ - 丁香医生的回答 - 知乎](https://www.zhihu.com/question/312784161/answer/603370131)
-    * 出处：Chewing Betel Quid and the Risk of Metabolic Disease, Cardiovascular Disease, and All-Cause Mortality: A Meta-Analysis(https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0070679)
-    * 嚼槟榔会增加21%的全因死亡率
-* 热量限制
-  * [怎么看待BBC《进食、断食与长寿》？](https://www.zhihu.com/question/31395511)
-    * 限制卡路里动物实验：CR（热量限制，即少吃）延迟了恒河猴的多种疾病发病和死亡率，与CR动物相比，正常喂养的猴子的各种疾病患病风险增加2.9倍，死亡风险增加3.0倍。
-    * ![热量限制-恒河猴](https://user-images.githubusercontent.com/2707039/163703988-8767185b-326a-4783-b2e2-f190322bb7d6.jpg)
-* 综合
-  * [最强营养搭配！BMJ：这么吃，心血管疾病和死亡风险更低](https://www.chinacdc.cn/gwxx/202003/t20200323_214639.html)
+    * Trong 181 quốc gia được đưa vào phân tích này, các nhà nghiên cứu phát hiện lượng natri tiêu thụ có tương quan thuận với tuổi thọ kỳ vọng khỏe mạnh khi sinh (β=2.6 năm/gam natri tiêu thụ hằng ngày, R<sup>2</sup>=0.66, P<0.001) và tuổi thọ kỳ vọng khỏe mạnh ở tuổi 60 (β=0.3 năm/gam natri tiêu thụ hằng ngày, R<sup>2</sup>=0.60, P=0.048), nhưng không liên quan đến tử vong do bệnh không lây nhiễm (β=17 biến cố/gam natri tiêu thụ hằng ngày, R<sup>2</sup>=0.43, P=0.100). Ngược lại, tỷ lệ tử vong do mọi nguyên nhân có tương quan nghịch với lượng natri tiêu thụ (β=−131 biến cố/gam natri tiêu thụ hằng ngày, R<sup>2</sup>=0.60, P<0.001). Trong phân tích độ nhạy chỉ giới hạn ở 46 quốc gia có thu nhập cao nhất, lượng natri tiêu thụ có tương quan thuận với tuổi thọ kỳ vọng khỏe mạnh khi sinh (β=3.4 năm/gam natri tiêu thụ hằng ngày, R<sup>2</sup>=0.53, P<0.001), và tương quan nghịch với tỷ lệ tử vong do mọi nguyên nhân (β=−168 biến cố/gam natri tiêu thụ hằng ngày, R<sup>2</sup>=0.50, P<0.001).
+    * Nghiên cứu (trên phạm vi rộng) này cho rằng lượng natri tiêu thụ cao hơn có liên quan đến tỷ lệ tử vong do mọi nguyên nhân thấp hơn đáng kể
+    * [Diễn giải mở rộng và thảo luận về bài báo này: A Fresh Foray in the Salt Wars: Life Expectancy Higher With Greater Sodium Intake](https://www.tctmd.com/news/fresh-foray-salt-wars-life-expectancy-higher-greater-sodium-intake)
+  * [NEJM/Lancet: đừng ăn quá nhiều muối; Trung Quốc đứng đầu thế giới về tử vong do bệnh tim mạch và ung thư liên quan đến chế độ ăn; ăn muối ít natri có thể giảm tỷ lệ tử vong do mọi nguyên nhân](https://ibook.antpedia.com/x/669028.html)
+    * Tuy nhiên, nhiều nghiên cứu cũng cho rằng sử dụng muối ít natri có thể giảm xác suất mắc một loạt bệnh và có tác động tích cực đến việc giảm tỷ lệ tử vong do mọi nguyên nhân
+* Carbohydrate (còn nhiều tranh cãi)
+  * [Chế độ ăn ketogenic ít carbohydrate (phần bốn): carbohydrate và tỷ lệ tử vong dài hạn](https://zhuanlan.zhihu.com/p/137815934)
+    * Nguồn: The Lancet Public Health - [Dietary carbohydrate intake and mortality: a prospective cohort study and meta-analysis](https://www.sciencedirect.com/science/article/pii/S246826671830135X)
+    * Lượng carbohydrate càng thấp, tuổi thọ càng ngắn; lượng carbohydrate càng cao, tuổi thọ cũng giảm nhẹ; mức carbohydrate khoảng 50% (thực ra, theo cách gọi thông thường, mức này cũng được xem là nhiều carbohydrate) là khoảng có tuổi thọ dài nhất
+    * ![Carbohydrate](https://user-images.githubusercontent.com/2707039/163703985-a2e2f8ac-101a-4f3c-903b-6850507f144b.jpg)
+  * [Phối hợp dinh dưỡng tối ưu! BMJ: ăn thế này giúp giảm nguy cơ bệnh tim mạch và tử vong](https://www.chinacdc.cn/gwxx/202003/t20200323_214639.html)
+* Cau
+  * [Nên nhìn nhận thế nào về ung thư do nhai cau? Nguy cơ gây ung thư của cau lớn đến đâu? - Câu trả lời của Bác sĩ Đinh Hương - Zhihu](https://www.zhihu.com/question/312784161/answer/603370131)
+    * Nguồn: Chewing Betel Quid and the Risk of Metabolic Disease, Cardiovascular Disease, and All-Cause Mortality: A Meta-Analysis(https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0070679)
+    * Nhai cau làm tăng 21% tỷ lệ tử vong do mọi nguyên nhân
+* Hạn chế calo
+  * [Đánh giá thế nào về chương trình «Ăn uống, nhịn ăn và sống lâu» của BBC?](https://www.zhihu.com/question/31395511)
+    * Thí nghiệm hạn chế calo trên động vật: CR (hạn chế calo, tức ăn ít hơn) trì hoãn sự khởi phát nhiều bệnh và tử vong ở khỉ rhesus; so với động vật áp dụng CR, khỉ được cho ăn bình thường có nguy cơ mắc các bệnh tăng 2.9 lần và nguy cơ tử vong tăng 3.0 lần.
+    * ![Hạn chế calo-khỉ rhesus](https://user-images.githubusercontent.com/2707039/163703988-8767185b-326a-4783-b2e2-f190322bb7d6.jpg)
+* Tổng hợp
+  * [Phối hợp dinh dưỡng tối ưu! BMJ: ăn thế này giúp giảm nguy cơ bệnh tim mạch và tử vong](https://www.chinacdc.cn/gwxx/202003/t20200323_214639.html)
   * [Associations of fat and carbohydrate intake with cardiovascular disease and mortality: prospective cohort study of UK Biobank participants](https://doi.org/10.1136/bmj.m688)
-    * 通过对这些参与者的数据进行分析，研究人员发现碳水化合物（糖、淀粉和纤维）和蛋白质的摄入与全因死亡率呈非线性关系，而脂肪则与全因死亡率呈线性相关。其中，较高的糖分摄入与全因死亡风险和患心血管疾病的风险较高均有关联，而较高的饱和脂肪酸摄入与全因死亡风险较高有关。
-    * 图1：各种营养元素与全因死亡之间的关系
-    * ![各种营养元素与全因死亡之间的关系](https://user-images.githubusercontent.com/2707039/163702022-8c2bfea9-ed5d-4fe0-8ead-e8740014b92b.jpg)
-    * 图2：各种营养元素与心血管疾病之间的关系
-    * ![各种营养元素与心血管疾病之间的关系](https://user-images.githubusercontent.com/2707039/163702084-97fb4a03-707c-475d-b88e-6fe2f8e87f92.jpg)
-    * **进一步研究表明，在所有的饮食模式中，全因死亡率风险最低的饮食方式为：10-30g高纤维、14-30%蛋白质、10-25%单不饱和脂肪酸、5%-7%多不饱和脂肪酸以及20%-30%淀粉摄入。**
-    * **最优能量来源配比：<24%淀粉，15%-17%蛋白质，>15%单不饱和脂肪酸，<15%糖，6%饱和脂肪酸，6%多不饱和脂肪酸，30g+高纤维**
-  * [BMJ | 常吃薯片汉堡巧克力等食品，平均死亡年龄仅仅为58岁，死亡风险剧增](https://med.ckcest.cn/details.html?id=5183272274855936&classesEn=news)
+    * Qua phân tích dữ liệu của những người tham gia này, các nhà nghiên cứu phát hiện lượng carbohydrate (đường, tinh bột và chất xơ) và protein tiêu thụ có mối liên hệ phi tuyến với tỷ lệ tử vong do mọi nguyên nhân, trong khi chất béo có tương quan tuyến tính với tỷ lệ tử vong do mọi nguyên nhân. Trong đó, lượng đường tiêu thụ cao hơn liên quan đến cả nguy cơ tử vong do mọi nguyên nhân cao hơn lẫn nguy cơ mắc bệnh tim mạch cao hơn, còn lượng axit béo bão hòa tiêu thụ cao hơn liên quan đến nguy cơ tử vong do mọi nguyên nhân cao hơn.
+    * Hình 1: mối liên hệ giữa các chất dinh dưỡng và tử vong do mọi nguyên nhân
+    * ![Mối liên hệ giữa các chất dinh dưỡng và tử vong do mọi nguyên nhân](https://user-images.githubusercontent.com/2707039/163702022-8c2bfea9-ed5d-4fe0-8ead-e8740014b92b.jpg)
+    * Hình 2: mối liên hệ giữa các chất dinh dưỡng và bệnh tim mạch
+    * ![Mối liên hệ giữa các chất dinh dưỡng và bệnh tim mạch](https://user-images.githubusercontent.com/2707039/163702084-97fb4a03-707c-475d-b88e-6fe2f8e87f92.jpg)
+    * **Nghiên cứu sâu hơn cho thấy, trong tất cả các kiểu ăn uống, chế độ ăn có nguy cơ tử vong do mọi nguyên nhân thấp nhất gồm: 10-30g chất xơ, 14-30% protein, 10-25% axit béo không bão hòa đơn, 5%-7% axit béo không bão hòa đa và 20%-30% tinh bột.**
+    * **Tỷ lệ nguồn năng lượng tối ưu: <24% tinh bột, 15%-17% protein, >15% axit béo không bão hòa đơn, <15% đường, 6% axit béo bão hòa, 6% axit béo không bão hòa đa, 30g+ chất xơ**
+  * [BMJ | Thường xuyên ăn khoai tây lát chiên, hamburger, sô-cô-la và các thực phẩm tương tự: tuổi tử vong trung bình chỉ 58, nguy cơ tử vong tăng mạnh](https://med.ckcest.cn/details.html?id=5183272274855936&classesEn=news)
     * [Rico-Campà A, Martínez-González M A, Alvarez-Alvarez I, et al. Association between consumption of ultra-processed foods and all cause mortality: SUN prospective cohort study[J]. bmj, 2019, 365.](https://www.bmj.com/content/365/bmj.l1949.full)
     * [Srour B, Fezeu L K, Kesse-Guyot E, et al. Ultra-processed food intake and risk of cardiovascular disease: prospective cohort study (NutriNet-Santé)[J]. bmj, 2019, 365.](https://www.bmj.com/content/365/bmj.l1451)
     * [Lawrence M A, Baker P I. Ultra-processed food and adverse health outcomes[J]. bmj, 2019, 365.](https://www.researchgate.net/profile/Phillip-Baker-5/publication/333483796_Ultra-processed_food_and_adverse_health_outcomes/links/5f0c646ca6fdcc2f32336a95/Ultra-processed-food-and-adverse-health-outcomes.pdf)
 
-##### 6.1.2. 液体
+##### 6.1.2. Chất lỏng
 
-* 牛奶
-  * [《柳叶刀》调研21个国家13万人：每天1斤牛奶或酸奶，心血管死亡风险下降23%](https://www.sohu.com/a/253940257_419768)
-  * 出处：[Association of dairy intake with cardiovascular disease and mortality in 21 countries from five continents (PURE): a prospective cohort study](http://mdrf-eprints.in/1114/1/Association_of_dietary_patterns_and_dietary_diversity_with_cardiometabolic_disease_risk_factors.pdf)
-  * 与不食用乳制品的人相比，每天摄入两份乳制品（一份指244克牛奶/酸奶，15克奶酪或5克黄油）的人，**全因死亡风险下降了17%**，心血管死亡风险下降23%，中风风险下降33%
-* 茶
-  * [10万中国人随访7年发现，每周喝三次茶与全因死亡风险降低15%，预期寿命增加1.26年相关 ](https://www.jianshu.com/p/5461a205cf95?utm_campaign=hugo)
-  * 出处：[Tea consumption and the risk of atherosclerotic cardiovascular disease and all-cause mortality: The China-PAR project](https://www.researchgate.net/profile/Fangchao-Liu-4/publication/338483323_Tea_consumption_and_the_risk_of_atherosclerotic_cardiovascular_disease_and_all-cause_mortality_The_China-PAR_project/links/5e55e5e94585152ce8efe511/Tea-consumption-and-the-risk-of-atherosclerotic-cardiovascular-disease-and-all-cause-mortality-The-China-PAR-project.pdf)
-  * [中国成年人饮茶与死亡风险的前瞻性关联研究](http://rs.yiigle.com/CN112338202202/1351516.htm)
-  * 纳入分析的438 443例研究对象随访11.1年共发生死亡34 661例。与从不饮茶者相比，当前非每日饮茶者和每日饮茶者全因死亡HR值（95%CI）依次为0.89（0.86-0.91）和0.92（0.88-0.95）。分性别分析显示，饮茶对全因死亡风险的保护作用主要见于男性（交互P<0.05）
-* 无糖（甜味）饮料
-  * [「无糖饮料使死亡风险增加 26 %」，是真的吗？](https://www.zhihu.com/question/418598272/answer/1450648364)
-    * 相比于软饮料摄入量＜1杯/月的参与者，混合软饮料摄入≥1杯/天的参与者死亡风险增加18%，而**摄入含糖软饮料或无糖软饮料会令死亡风险分别增加11%和27%。**
-    * ![饮料](https://user-images.githubusercontent.com/2707039/163704346-e7d92e7f-eba5-4673-8f15-3a96782c2e32.png)
+* Sữa bò
+  * [The Lancet khảo sát 130 nghìn người ở 21 quốc gia: mỗi ngày 1 cân Trung Quốc (500 gam) sữa bò hoặc sữa chua, nguy cơ tử vong do tim mạch giảm 23%](https://www.sohu.com/a/253940257_419768)
+  * Nguồn: [Association of dairy intake with cardiovascular disease and mortality in 21 countries from five continents (PURE): a prospective cohort study](http://mdrf-eprints.in/1114/1/Association_of_dietary_patterns_and_dietary_diversity_with_cardiometabolic_disease_risk_factors.pdf)
+  * So với người không dùng sản phẩm sữa, người dùng hai khẩu phần sản phẩm sữa mỗi ngày (một khẩu phần là 244 gam sữa bò/sữa chua, 15 gam phô mai hoặc 5 gam bơ) có **nguy cơ tử vong do mọi nguyên nhân giảm 17%**, nguy cơ tử vong do tim mạch giảm 23% và nguy cơ đột quỵ giảm 33%
+* Trà
+  * [Theo dõi 100 nghìn người Trung Quốc trong 7 năm cho thấy uống trà ba lần mỗi tuần có liên quan đến giảm 15% nguy cơ tử vong do mọi nguyên nhân và tăng 1.26 năm tuổi thọ kỳ vọng ](https://www.jianshu.com/p/5461a205cf95?utm_campaign=hugo)
+  * Nguồn: [Tea consumption and the risk of atherosclerotic cardiovascular disease and all-cause mortality: The China-PAR project](https://www.researchgate.net/profile/Fangchao-Liu-4/publication/338483323_Tea_consumption_and_the_risk_of_atherosclerotic_cardiovascular_disease_and_all-cause_mortality_The_China-PAR_project/links/5e55e5e94585152ce8efe511/Tea-consumption-and-the-risk-of-atherosclerotic-cardiovascular-disease-and-all-cause-mortality-The-China-PAR-project.pdf)
+  * [Nghiên cứu tiến cứu về mối liên hệ giữa uống trà và nguy cơ tử vong ở người trưởng thành Trung Quốc](http://rs.yiigle.com/CN112338202202/1351516.htm)
+  * Trong 438 443 đối tượng được đưa vào phân tích, tổng cộng có 34 661 trường hợp tử vong trong 11.1 năm theo dõi. So với người chưa từng uống trà, HR tử vong do mọi nguyên nhân (95%CI) của người hiện uống trà không hằng ngày và người uống hằng ngày lần lượt là 0.89 (0.86-0.91) và 0.92 (0.88-0.95). Phân tích theo giới cho thấy tác dụng bảo vệ của uống trà đối với nguy cơ tử vong do mọi nguyên nhân chủ yếu thấy ở nam giới (P tương tác<0.05)
+* Đồ uống không đường (có vị ngọt)
+  * [«Đồ uống không đường làm tăng 26 % nguy cơ tử vong», có đúng không?](https://www.zhihu.com/question/418598272/answer/1450648364)
+    * So với người tham gia uống nước giải khát <1 cốc/tháng, người uống hỗn hợp các loại nước giải khát ≥1 cốc/ngày có nguy cơ tử vong tăng 18%, còn **uống nước giải khát có đường hoặc không đường làm tăng nguy cơ tử vong lần lượt 11% và 27%.**
+    * ![Đồ uống](https://user-images.githubusercontent.com/2707039/163704346-e7d92e7f-eba5-4673-8f15-3a96782c2e32.png)
   * [Association Between Soft Drink Consumption and Mortality in 10 European Countries](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2749350)
-* 有糖饮料
-  * [可乐和奶茶，增加全因死亡率高达62%！果汁降低免疫力，影响肝代谢！含糖饮料那些事](https://zhuanlan.zhihu.com/p/400746073)
-    * 每天1杯含糖饮料增加7%全因死亡率，2杯21%
-    * 在34年的随访中，研究人员发现，相比那些一个月喝1杯或者更少含糖饮料的人，每天喝2杯的人总体死亡风险升高了21%，心血管疾病死亡风险升高了31%，癌症死亡风险上升了16%。
-    * 只要每天多喝一杯含糖饮料，总体死亡风险将增加7%，心血管疾病的风险将增加10%，癌症相关的死亡风险将16%。
-    * 发表在国际顶级期刊《BMJ》上的一篇论文就证明了含糖饮料会在增加患癌风险，当然这篇文章验证的不仅仅是果汁，奶茶也有份——和含糖饮料相关的总体患癌风险要高出通常值18%，100%的鲜榨果汁也会使得整体的患癌风险上升12%。
-* 果汁
-  * [JAMA子刊：100%纯果汁可能比含糖饮料更危险](https://zhuanlan.zhihu.com/p/66513350)
-    * 每天多摄入一份12盎司的含糖饮料，全因死亡率风险增加11%；
-    * 每天多摄入一份12盎司的果汁，全因死亡率风险增加24%。
-* 咖啡
-  * [重磅！多篇研究证实喝咖啡与人群全因死亡率降低直接相关](https://news.bioon.com/article/6725420.html)
-  * [科普 | 喝咖啡又多了一个新理由：降低死亡率！ ](https://www.sohu.com/a/439412995_100003595)
-  * [地中海成年人咖啡消耗量及全因，心血管疾病和癌症的死亡率](https://fanyi.pdf365.cn/help/249)
-    * 在最近的荟萃分析中，该研究包括来自不同国家的40项研究和3,852,651名受试者。在这项荟萃分析显示，咖啡摄入量与各种原因的死亡率，CVD和癌症死亡率之间存在非线性关系，每天摄入两杯咖啡的癌症死亡率最低(RR = 0.96)，CVD最低的死亡率，每天2.5杯(RR= 0.83)，全天最低死亡率为每天3.5杯(RR= 0.85)，并且随着咖啡消费量的增加，死亡率没有进一步降低或增加
-* 亚精胺
-  * [Science：科学背书！从精液中发现的亚精胺，竟然有着抗衰老、抗癌、保护心血管和神经、改善肥胖和2型糖尿病等逆天神效](https://www.medsci.cn/article/show_article.do?id=420d12904103)
-  * [饮食中亚精胺摄入量高会降低死亡率](https://zhuanlan.zhihu.com/p/388942219)
+* Đồ uống có đường
+  * [Cola và trà sữa làm tăng tỷ lệ tử vong do mọi nguyên nhân tới 62%! Nước ép trái cây làm giảm miễn dịch, ảnh hưởng chuyển hóa ở gan! Những điều về đồ uống có đường](https://zhuanlan.zhihu.com/p/400746073)
+    * Mỗi ngày 1 cốc đồ uống có đường làm tăng 7% tỷ lệ tử vong do mọi nguyên nhân, 2 cốc tăng 21%
+    * Trong 34 năm theo dõi, các nhà nghiên cứu phát hiện rằng so với những người uống 1 cốc đồ uống có đường hoặc ít hơn mỗi tháng, người uống 2 cốc mỗi ngày có nguy cơ tử vong chung tăng 21%, nguy cơ tử vong do bệnh tim mạch tăng 31% và nguy cơ tử vong do ung thư tăng 16%.
+    * Chỉ cần uống thêm một cốc đồ uống có đường mỗi ngày, nguy cơ tử vong chung sẽ tăng 7%, nguy cơ bệnh tim mạch tăng 10% và nguy cơ tử vong liên quan đến ung thư tăng 16%.
+    * Một bài báo đăng trên tạp chí hàng đầu quốc tế BMJ đã chứng minh rằng đồ uống có đường làm tăng nguy cơ mắc ung thư. Tất nhiên, bài báo không chỉ kiểm chứng nước ép trái cây, mà còn có cả trà sữa — nguy cơ mắc ung thư nói chung liên quan đến đồ uống có đường cao hơn mức thông thường 18%, và nước ép trái cây tươi 100% cũng làm tăng 12% nguy cơ mắc ung thư nói chung.
+* Nước ép trái cây
+  * [Tạp chí thuộc JAMA: nước ép trái cây nguyên chất 100% có thể nguy hiểm hơn đồ uống có đường](https://zhuanlan.zhihu.com/p/66513350)
+    * Mỗi ngày uống thêm một khẩu phần 12 ounce đồ uống có đường làm tăng 11% nguy cơ tử vong do mọi nguyên nhân;
+    * Mỗi ngày uống thêm một khẩu phần 12 ounce nước ép trái cây làm tăng 24% nguy cơ tử vong do mọi nguyên nhân.
+* Cà phê
+  * [Tin đáng chú ý! Nhiều nghiên cứu xác nhận uống cà phê liên quan trực tiếp đến giảm tỷ lệ tử vong do mọi nguyên nhân trong dân số](https://news.bioon.com/article/6725420.html)
+  * [Phổ biến khoa học | Thêm một lý do mới để uống cà phê: giảm tỷ lệ tử vong! ](https://www.sohu.com/a/439412995_100003595)
+  * [Tiêu thụ cà phê và tử vong do mọi nguyên nhân, bệnh tim mạch và ung thư ở người trưởng thành vùng Địa Trung Hải](https://fanyi.pdf365.cn/help/249)
+    * Trong phân tích gộp gần đây, nghiên cứu này bao gồm 40 nghiên cứu từ các quốc gia khác nhau với 3,852,651 đối tượng. Phân tích gộp cho thấy lượng cà phê tiêu thụ có mối liên hệ phi tuyến với tỷ lệ tử vong do mọi nguyên nhân, CVD và ung thư; tỷ lệ tử vong do ung thư thấp nhất khi uống hai cốc cà phê mỗi ngày (RR = 0.96), tỷ lệ tử vong do CVD thấp nhất khi uống 2.5 cốc mỗi ngày (RR= 0.83), tỷ lệ tử vong chung thấp nhất khi uống 3.5 cốc mỗi ngày (RR= 0.85), và khi lượng cà phê tiêu thụ tăng, tỷ lệ tử vong không giảm thêm hoặc tăng thêm
+* Spermidine
+  * [Science: được khoa học chứng thực! Spermidine được phát hiện trong tinh dịch lại có những tác dụng phi thường như chống lão hóa, chống ung thư, bảo vệ tim mạch và thần kinh, cải thiện béo phì và tiểu đường tuýp 2](https://www.medsci.cn/article/show_article.do?id=420d12904103)
+  * [Lượng spermidine cao trong chế độ ăn làm giảm tỷ lệ tử vong](https://zhuanlan.zhihu.com/p/388942219)
 
-##### 6.1.3. 气体
+##### 6.1.3. Chất khí
 
-* 吸烟
-  * [即使是低强度吸烟，也增加死亡风险！](https://www.medsci.cn/article/show_article.do?id=02ca2083319b)
-    * 研究发现：在42 416名男性和86 735名女性（年龄在35-89岁之间，以前没有患病）中，18 985名男性（45%）和18 072名女性（21%）目前吸烟，其中33%的男性吸烟者和39%的女性吸烟者并不每天吸烟。8866名男性（21%）和53 912名女性（62%）从不吸烟。在随访期间，与从不吸烟相比，每天<10支烟或每天≥10支烟的全因死亡率危险比分别为1.17（95%置信区间1.10-1.25）和1.54（1.42-1.67）。无论年龄或性别，危险比相似。与每日吸烟关系最密切的疾病是呼吸道癌症、慢性阻塞性肺病和胃肠道及血管疾病。在招募时已经戒烟的人的死亡率低于现在每天吸烟者。
-    * 吸烟者平均减少寿命11-12年
-  * [吸烟让人过瘾是什么原理？有节制的吸烟依旧有害吗？](https://www.zhihu.com/question/24846224/answer/1719798177)
+* Hút thuốc
+  * [Ngay cả hút thuốc ở mức độ thấp cũng làm tăng nguy cơ tử vong!](https://www.medsci.cn/article/show_article.do?id=02ca2083319b)
+    * Nghiên cứu phát hiện: trong 42 416 nam giới và 86 735 nữ giới (35-89 tuổi, trước đó không mắc bệnh), 18 985 nam giới (45%) và 18 072 nữ giới (21%) hiện hút thuốc, trong đó 33% nam giới hút thuốc và 39% nữ giới hút thuốc không hút hằng ngày. Có 8866 nam giới (21%) và 53 912 nữ giới (62%) chưa từng hút thuốc. Trong thời gian theo dõi, so với chưa từng hút thuốc, tỷ số nguy cơ tử vong do mọi nguyên nhân khi hút <10 điếu/ngày hoặc ≥10 điếu/ngày lần lượt là 1.17 (khoảng tin cậy 95% 1.10-1.25) và 1.54 (1.42-1.67). Tỷ số nguy cơ tương tự nhau bất kể tuổi hay giới. Những bệnh liên quan chặt chẽ nhất với hút thuốc hằng ngày là ung thư đường hô hấp, bệnh phổi tắc nghẽn mạn tính, bệnh đường tiêu hóa và bệnh mạch máu. Những người đã bỏ thuốc khi được tuyển vào nghiên cứu có tỷ lệ tử vong thấp hơn những người hiện hút thuốc hằng ngày.
+    * Người hút thuốc giảm trung bình 11-12 năm tuổi thọ
+  * [Cơ chế nào khiến hút thuốc gây nghiện? Hút thuốc có chừng mực vẫn có hại không?](https://www.zhihu.com/question/24846224/answer/1719798177)
 
-##### 6.1.4. 光照
+##### 6.1.4. Ánh sáng
 
-* 晒太阳
-  * [晒太阳和死亡率的关系，如何科学，安全的晒太阳？
-](https://zhuanlan.zhihu.com/p/76301306)
-    * 丹麦一项长达26年的研究发现，多晒太阳能显著延长寿命，即使是由于过度暴晒诱发皮肤癌的患者，平均寿命也比普通人长了6岁。
+* Phơi nắng
+  * [Mối liên hệ giữa phơi nắng và tỷ lệ tử vong; làm sao phơi nắng khoa học, an toàn?](https://zhuanlan.zhihu.com/p/76301306)
+    * Một nghiên cứu kéo dài 26 năm tại Đan Mạch phát hiện rằng tiếp xúc với ánh nắng nhiều hơn có thể kéo dài tuổi thọ đáng kể; ngay cả những bệnh nhân mắc ung thư da do phơi nắng quá mức cũng có tuổi thọ trung bình cao hơn người bình thường 6 năm.
 
-##### 6.1.5. 药物
+##### 6.1.5. Thuốc
 
 * NMN
-* 二甲双胍
-  * [“胍”吹必看 丨我就是神药——二甲双胍](https://zhuanlan.zhihu.com/p/419202902)
-    * 二甲双胍不仅在多种肿瘤、心血管疾病及糖尿病中发挥保护作用，而且在肥胖、肝病、肾病及衰老方面也大放异彩。
-  * [二甲双胍2020最值得了解的“吃瓜”大新闻——护胃、健脑、抗衰、防癌还是致癌？](https://zhuanlan.zhihu.com/p/357807109)
-  * [二甲双胍真的那么神吗？美研究：父亲服用二甲双胍或致子女有缺陷](https://baijiahao.baidu.com/s?id=1729999374705305768)
-  * ![二甲双胍](https://user-images.githubusercontent.com/2707039/163702325-5d427542-9ae5-4311-8979-d0d326a9832f.jpg)
-  * 不良反应
-    * 作为一种使用近百年的药物，二甲双胍的不良反应已经非常明确，常见的有：维生素B12缺乏（7%-17.4%），胃肠道不良反应（最高53%），疲倦（9%），头痛（6%）；严重但不常见的不良反应包括乳酸酸中毒、肝损伤；也有研究表明可能对胎儿致畸
-* 复合维生素
-  * [服用复合维生素可降低癌症危险8%，其他效果并不显著](https://health.qq.com/a/20121023/000026.htm)
-* 葡萄糖胺
-  * [神奇！氨糖降低心血管死亡率65%，与定期运动效果相当](https://www.sohu.com/a/436372221_120873241)
-  * 美国西弗吉尼亚大学最新研究发现 氨糖（软骨素） 可以降低心血管死亡率65%，降低总体死亡率39%，效果与坚持定期运动相对
-  * 该研究使用1999年至2010年，16,686名成年人的国家健康和营养检查(NHANES)数据，参与者的中位追踪时间为107个月，而其中有648位参与者定期且每服用日500-1000毫克的葡萄糖胺/软骨素一年以上。
-* 亚精胺
-  * [Science：科学背书！从精液中发现的亚精胺，竟然有着抗衰老、抗癌、保护心血管和神经、改善肥胖和2型糖尿病等逆天神效](https://www.medsci.cn/article/show_article.do?id=420d12904103)
-  * 亚精胺是最容易从人体肠道吸收的多胺。许多的食物中都含有大量的亚精胺，例如新鲜的青椒、小麦胚芽、花椰菜、西兰花、蘑菇和各种奶酪，尤其在纳豆等大豆制品、香菇和榴莲中含量更高。在本实验中，研究人员选择了829位年龄在45-84岁之间的参与者进行了为期20年的随访，分析了饮食中亚精胺摄入量与人类死亡率之间的潜在关联。
-  * 研究发现，女性的亚精胺摄入量高于男性，并且摄入量都会随着年龄的增长而下降。亚精胺的主要来源是全谷物（占13.4%）、苹果和梨（占13.3%）、沙拉（占9.8%）、芽菜（占7.3%）和马铃薯（占6.4%）。研究根据亚精胺摄入量将人群分为三组，低摄入量组（<62.2 µmol / d）、中摄入量组（62.2–79.8 µmol / d）和高摄入量组（> 79.8 µmol / d）。随访期间共记录了341例死亡，其中血管疾病137例，癌症94例，其他原因110例。经计算低中高三组的粗略死亡率分别为40.5%、23.7%和15.1%，这些数据表明亚精胺摄入量与全因死亡率之间的负相关关系显著。随着逐步对年龄、性别和热量的比例进行调整，这种相关关系依然显著。
-* 综合
-  * [《自然》子刊深度综述：如何开发抗衰老药](https://zhuanlan.zhihu.com/p/145495570)
-  * ![如何开发抗衰老药](https://user-images.githubusercontent.com/2707039/163702474-205baeec-f0ce-4e8d-96a4-36efe47534de.jpg)
+* Metformin
+  * [Dành cho người tung hô metformin: Tôi chính là thần dược — metformin](https://zhuanlan.zhihu.com/p/419202902)
+    * Metformin không chỉ có tác dụng bảo vệ trong nhiều loại khối u, bệnh tim mạch và đái tháo đường, mà còn cho thấy tác dụng nổi bật đối với béo phì, bệnh gan, bệnh thận và lão hóa.
+  * [Tin tức “hóng chuyện” đáng tìm hiểu nhất về metformin năm 2020 — bảo vệ dạ dày, tăng cường trí não, chống lão hóa, phòng ung thư hay gây ung thư?](https://zhuanlan.zhihu.com/p/357807109)
+  * [Metformin có thực sự thần kỳ đến vậy? Nghiên cứu tại Mỹ: người cha dùng metformin có thể khiến con bị dị tật](https://baijiahao.baidu.com/s?id=1729999374705305768)
+  * ![Metformin](https://user-images.githubusercontent.com/2707039/163702325-5d427542-9ae5-4311-8979-d0d326a9832f.jpg)
+  * Phản ứng bất lợi
+    * Là thuốc đã được sử dụng gần một trăm năm, metformin có các phản ứng bất lợi đã được xác định rất rõ; thường gặp gồm: thiếu vitamin B12 (7%-17.4%), phản ứng bất lợi đường tiêu hóa (cao nhất 53%), mệt mỏi (9%), đau đầu (6%); các phản ứng bất lợi nghiêm trọng nhưng ít gặp bao gồm nhiễm toan lactic, tổn thương gan; cũng có nghiên cứu cho thấy thuốc có thể gây dị tật thai nhi
+* Vitamin tổng hợp
+  * [Uống vitamin tổng hợp có thể giảm nguy cơ ung thư 8%, các tác dụng khác không rõ rệt](https://health.qq.com/a/20121023/000026.htm)
+* Glucosamine
+  * [Thật kỳ diệu! Glucosamine giảm tỷ lệ tử vong do bệnh tim mạch 65%, hiệu quả tương đương tập thể dục thường xuyên](https://www.sohu.com/a/436372221_120873241)
+  * Nghiên cứu mới nhất của Đại học West Virginia, Mỹ, phát hiện glucosamine (chondroitin) có thể giảm tỷ lệ tử vong do bệnh tim mạch 65%, giảm tỷ lệ tử vong chung 39%, hiệu quả tương đương việc duy trì tập thể dục thường xuyên
+  * Nghiên cứu sử dụng dữ liệu Khảo sát Kiểm tra Sức khỏe và Dinh dưỡng Quốc gia (NHANES) từ năm 1999 đến năm 2010 của 16,686 người trưởng thành; thời gian theo dõi trung vị là 107 tháng, trong đó 648 người tham gia dùng đều đặn 500-1000 miligam glucosamine/chondroitin mỗi ngày trong hơn một năm.
+* Spermidine
+  * [Science: được khoa học chứng thực! Spermidine được phát hiện trong tinh dịch lại có những tác dụng thần kỳ như chống lão hóa, chống ung thư, bảo vệ tim mạch và thần kinh, cải thiện béo phì và đái tháo đường típ 2](https://www.medsci.cn/article/show_article.do?id=420d12904103)
+  * Spermidine là polyamine dễ được hấp thu nhất qua đường ruột của con người. Nhiều thực phẩm chứa lượng lớn spermidine, chẳng hạn như ớt chuông xanh tươi, mầm lúa mì, súp lơ trắng, bông cải xanh, nấm và các loại phô mai; hàm lượng đặc biệt cao trong các sản phẩm từ đậu nành như natto, nấm hương và sầu riêng. Trong nghiên cứu này, các nhà nghiên cứu chọn 829 người tham gia ở độ tuổi 45-84 để theo dõi trong 20 năm, phân tích mối liên hệ tiềm tàng giữa lượng spermidine hấp thu qua chế độ ăn và tỷ lệ tử vong ở người.
+  * Nghiên cứu phát hiện lượng spermidine hấp thu ở nữ giới cao hơn nam giới và đều giảm dần theo tuổi. Các nguồn spermidine chính là ngũ cốc nguyên hạt (chiếm 13.4%), táo và lê (chiếm 13.3%), salad (chiếm 9.8%), rau mầm (chiếm 7.3%) và khoai tây (chiếm 6.4%). Nghiên cứu chia người tham gia thành ba nhóm theo lượng spermidine hấp thu: nhóm thấp (<62.2 µmol / d), nhóm trung bình (62.2–79.8 µmol / d) và nhóm cao (> 79.8 µmol / d). Trong thời gian theo dõi, tổng cộng ghi nhận 341 ca tử vong, trong đó 137 ca do bệnh mạch máu, 94 ca do ung thư và 110 ca do nguyên nhân khác. Tỷ lệ tử vong thô được tính toán ở ba nhóm thấp, trung bình và cao lần lượt là 40.5%, 23.7% và 15.1%; những dữ liệu này cho thấy mối tương quan nghịch có ý nghĩa giữa lượng spermidine hấp thu và tỷ lệ tử vong do mọi nguyên nhân. Sau khi lần lượt hiệu chỉnh theo tuổi, giới tính và tỷ lệ calo, mối tương quan này vẫn có ý nghĩa.
+* Tổng hợp
+  * [Bài tổng quan chuyên sâu trên tạp chí thành viên của Nature: cách phát triển thuốc chống lão hóa](https://zhuanlan.zhihu.com/p/145495570)
+  * ![Cách phát triển thuốc chống lão hóa](https://user-images.githubusercontent.com/2707039/163702474-205baeec-f0ce-4e8d-96a4-36efe47534de.jpg)
 
-#### 6.2. 输出
+#### 6.2. Đầu ra
 
-##### 6.2.1. 挥拍运动
+##### 6.2.1. Các môn thể thao dùng vợt
 
-* [哪种运动性价比最高？权威医学杂志“柳叶刀”给出答案了 ](https://www.sohu.com/a/535581770_121124216)
-  * 一周三次，每次45-60分钟，挥拍运动，降低~47%全因死亡率
-  * 羽毛球、乒乓球、网球等都算挥拍运动，但由于西化研究背景，可能指网球更多。这隐式的表达了全身锻炼更为重要
+* [Môn thể thao nào có lợi nhất so với công sức bỏ ra? Tạp chí y khoa uy tín The Lancet đã đưa ra câu trả lời ](https://www.sohu.com/a/535581770_121124216)
+  * Chơi các môn thể thao dùng vợt ba lần mỗi tuần, mỗi lần 45-60 phút, giảm ~47% tỷ lệ tử vong do mọi nguyên nhân
+  * Cầu lông, bóng bàn, quần vợt đều được tính là các môn thể thao dùng vợt, nhưng do bối cảnh nghiên cứu mang tính phương Tây nên có thể chủ yếu nói đến quần vợt. Điều này ngầm cho thấy tập luyện toàn thân quan trọng hơn
 
-##### 6.2.2. 剧烈运动
+##### 6.2.2. Vận động cường độ cao
 
-* [新研究：每天剧烈运动8分钟，可降低全因死亡和心脏病风险](https://academic.oup.com/eurheartj/advance-article/doi/10.1093/eurheartj/ehac572/6771381)
-  * 每周15-20分钟的剧烈运动，降低16-40%的全因死亡率，剧烈运动时间达到50-57分钟/周，可以进一步降低全因死亡率。这些发现表明，通过在一周的短时间内累积相对少量的剧烈运动可以降低健康风险。
-  
-##### 6.2.3. 走路
+* [Nghiên cứu mới: vận động cường độ cao 8 phút mỗi ngày có thể giảm nguy cơ tử vong do mọi nguyên nhân và bệnh tim](https://academic.oup.com/eurheartj/advance-article/doi/10.1093/eurheartj/ehac572/6771381)
+  * Vận động cường độ cao 15-20 phút mỗi tuần giúp giảm 16-40% tỷ lệ tử vong do mọi nguyên nhân; khi thời gian vận động cường độ cao đạt 50-57 phút/tuần, tỷ lệ tử vong do mọi nguyên nhân có thể giảm hơn nữa. Những phát hiện này cho thấy tích lũy một lượng vận động cường độ cao tương đối ít qua các khoảng thời gian ngắn trong tuần có thể giảm nguy cơ sức khỏe.
 
-* [走路降低全因死亡率超过50%！每天走多少步最合适？《JAMA》子刊超10年研究告诉你答案](http://www.shcell.org/219/3571.html)
-  * ![走路降低全因死亡率](https://user-images.githubusercontent.com/2707039/163704147-afec1c79-799b-4db8-b547-1a2431d504c9.jpg)
-  * 注1：这项研究参与者的平均年龄为45.2岁
-  * 注2：平均步数的多少与职业有关，此项研究仅表明相关性，还没有更深度的因果分析
+##### 6.2.3. Đi bộ
 
-##### 6.2.4. 刷牙
+* [Đi bộ giảm tỷ lệ tử vong do mọi nguyên nhân hơn 50%! Mỗi ngày đi bao nhiêu bước là phù hợp nhất? Nghiên cứu hơn 10 năm trên tạp chí thành viên của JAMA cho bạn câu trả lời](http://www.shcell.org/219/3571.html)
+  * ![Đi bộ giảm tỷ lệ tử vong do mọi nguyên nhân](https://user-images.githubusercontent.com/2707039/163704147-afec1c79-799b-4db8-b547-1a2431d504c9.jpg)
+  * Chú thích 1: tuổi trung bình của người tham gia nghiên cứu này là 45.2
+  * Chú thích 2: số bước trung bình có liên quan đến nghề nghiệp; nghiên cứu này chỉ cho thấy mối tương quan, chưa có phân tích nhân quả sâu hơn
 
-* [50万国人研究证实：不好好刷牙，致癌！血管疾病也会增多！](https://www.cn-healthcare.com/articlewm/20211209/content-1293760.html)
-  * 经常不刷牙的人：癌症、慢性阻塞性肺病及肝硬化风险分别增加了9%、12%和25%，过早死亡风险增加25%。
+##### 6.2.4. Đánh răng
 
-##### 6.2.5. 泡澡
+* [Nghiên cứu trên 500 nghìn người Trung Quốc xác nhận: đánh răng không đúng cách gây ung thư! Bệnh mạch máu cũng gia tăng!](https://www.cn-healthcare.com/articlewm/20211209/content-1293760.html)
+  * Ở những người thường xuyên không đánh răng: nguy cơ ung thư, bệnh phổi tắc nghẽn mạn tính và xơ gan lần lượt tăng 9%, 12% và 25%; nguy cơ tử vong sớm tăng 25%.
 
-* [定期洗澡降低心血管疾病发作风险](https://www.cn-healthcare.com/article/20200326/content-533379.html)
-  * 与每周一至两次泡澡或根本不泡澡相比，每天洗热水澡可以降低28%的心血管疾病总风险，降低26%的中风总风险，脑出血风险下降46%。而浴缸浴的频率与心源性猝死的风险增加无关。
+##### 6.2.5. Tắm ngâm
 
-##### 6.2.6. 做家务（老年男性）
+* [Tắm thường xuyên giảm nguy cơ mắc bệnh tim mạch](https://www.cn-healthcare.com/article/20200326/content-533379.html)
+  * So với tắm ngâm một đến hai lần mỗi tuần hoặc hoàn toàn không tắm ngâm, tắm nước nóng mỗi ngày có thể giảm 28% tổng nguy cơ bệnh tim mạch, giảm 26% tổng nguy cơ đột quỵ và giảm 46% nguy cơ xuất huyết não. Tần suất tắm bồn không liên quan đến việc tăng nguy cơ đột tử do tim.
+
+##### 6.2.6. Làm việc nhà (nam giới cao tuổi)
 
 * [Housework Reduces All-Cause and Cancer Mortality in Chinese Men](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0061529)
-  * 72岁之后男性每周做重型家务可以减少29%平均死亡率
-  * 重型家务：吸尘、擦地板、拖地、擦洗窗户、洗车、搬动家具、搬煤气罐等等。
-  * 轻型家务：掸灰尘、洗碗、手洗衣服、熨烫、晾衣服、做饭、买日用品等等。
+  * Sau 72 tuổi, nam giới làm việc nhà nặng mỗi tuần có thể giảm 29% tỷ lệ tử vong trung bình
+  * Việc nhà nặng: hút bụi, chà sàn, lau sàn, lau rửa cửa sổ, rửa xe, di chuyển đồ đạc, chuyển bình gas, v.v.
+  * Việc nhà nhẹ: phủi bụi, rửa bát, giặt quần áo bằng tay, là quần áo, phơi quần áo, nấu ăn, mua đồ dùng hằng ngày, v.v.
 
-##### 6.2.7. 睡眠
+##### 6.2.7. Giấc ngủ
 
-* [超30万亚洲人数据：每天睡几个小时最有益长寿？](https://med.sina.com/article_detail_103_1_105491.html)
-  * 在男性中，与睡眠时长为7小时相比：睡眠持续时间≥10小时与全因死亡风险增加34%相关；
-  * ![睡眠-男](https://user-images.githubusercontent.com/2707039/163704166-226b7ebb-92ce-4753-a3e7-77a87652a104.jpg)
-  * 在女性中，与睡眠持续时间7小时相比：睡眠持续时间≥10小时与全因死亡风险增加48%相关；
-  * ![睡眠-女](https://user-images.githubusercontent.com/2707039/163704169-c5c715aa-7130-403b-b0d1-ec34fab094d8.png)
-* [颠覆认知！加拿大研究发现：早睡比熬夜或许更伤身，几点睡才好？](https://www.thepaper.cn/newsDetail_forward_14461799)
-  * 其中一个结论为，就寝时间与全因死亡率的关联性强，过早睡觉和过晚睡觉都会影响健康，但是早睡增加的全因死亡率比晚睡增加的死亡率高，早睡增加了43%的死亡风险，而晚睡增加了15%的死亡风险。
-  * 这项调查研究，还存在很多局限性，比如没有直接证明就寝时间与死亡的关系，仅仅说明相关性，通过参与人群自我报告统计睡眠时间，数据不够客观
+* [Dữ liệu của hơn 300 nghìn người châu Á: ngủ bao nhiêu giờ mỗi ngày có lợi nhất cho tuổi thọ?](https://med.sina.com/article_detail_103_1_105491.html)
+  * Ở nam giới, so với thời lượng ngủ 7 giờ: thời lượng ngủ ≥10 giờ có liên quan đến nguy cơ tử vong do mọi nguyên nhân tăng 34%;
+  * ![Giấc ngủ - nam](https://user-images.githubusercontent.com/2707039/163704166-226b7ebb-92ce-4753-a3e7-77a87652a104.jpg)
+  * Ở nữ giới, so với thời lượng ngủ 7 giờ: thời lượng ngủ ≥10 giờ có liên quan đến nguy cơ tử vong do mọi nguyên nhân tăng 48%;
+  * ![Giấc ngủ - nữ](https://user-images.githubusercontent.com/2707039/163704169-c5c715aa-7130-403b-b0d1-ec34fab094d8.png)
+* [Đảo ngược nhận thức! Nghiên cứu Canada phát hiện: đi ngủ sớm có thể hại sức khỏe hơn thức khuya, vậy nên ngủ lúc mấy giờ?](https://www.thepaper.cn/newsDetail_forward_14461799)
+  * Một kết luận là giờ đi ngủ có mối liên hệ chặt chẽ với tỷ lệ tử vong do mọi nguyên nhân; đi ngủ quá sớm và quá muộn đều ảnh hưởng đến sức khỏe, nhưng mức tăng tỷ lệ tử vong do mọi nguyên nhân khi ngủ sớm cao hơn mức tăng khi ngủ muộn: ngủ sớm làm tăng nguy cơ tử vong 43%, còn ngủ muộn làm tăng nguy cơ tử vong 15%.
+  * Nghiên cứu khảo sát này vẫn còn nhiều hạn chế, chẳng hạn chưa trực tiếp chứng minh mối quan hệ giữa giờ đi ngủ và tử vong mà chỉ cho thấy mối tương quan; thời lượng ngủ được thống kê qua tự báo cáo của người tham gia nên dữ liệu chưa đủ khách quan
 
-##### 6.2.8. 久坐
+##### 6.2.8. Ngồi lâu
 
-* [中国居民膳食指南科学研究报告（2021年）](https://www.chinanutri.cn/yyjkzxpt/yyjkkpzx/yytsg/zgjm/202103/P020210311486742870527.pdf)
-  * 久坐和看电视时间与全因死亡、心血管疾病、癌症和2型糖尿病发病高风险相关，是独立风险因素。久坐时间每天每增加1小时，心血管疾病发生风险增加4%，癌症增加1%，全因死亡风险增加3%。全因死亡和CVD死亡风险增加的久坐时间阈值是6\~8h/d，看电视时间阈值是3\~4h/d。
-* [世卫组织关于身体活动和久坐行为的指南](https://apps.who.int/iris/bitstream/handle/10665/337001/9789240014947-chi.pdf)
+* [Báo cáo nghiên cứu khoa học về Hướng dẫn chế độ ăn uống cho cư dân Trung Quốc (2021)](https://www.chinanutri.cn/yyjkzxpt/yyjkkpzx/yytsg/zgjm/202103/P020210311486742870527.pdf)
+  * Thời gian ngồi lâu và xem tivi có liên quan đến nguy cơ cao tử vong do mọi nguyên nhân, mắc bệnh tim mạch, ung thư và đái tháo đường típ 2, và là yếu tố nguy cơ độc lập. Mỗi khi thời gian ngồi lâu tăng thêm 1 giờ mỗi ngày, nguy cơ mắc bệnh tim mạch tăng 4%, ung thư tăng 1% và nguy cơ tử vong do mọi nguyên nhân tăng 3%. Ngưỡng thời gian ngồi lâu làm tăng nguy cơ tử vong do mọi nguyên nhân và tử vong do CVD là 6\~8h/d, ngưỡng thời gian xem tivi là 3\~4h/d.
+* [Hướng dẫn của Tổ chức Y tế Thế giới về hoạt động thể chất và hành vi ít vận động](https://apps.who.int/iris/bitstream/handle/10665/337001/9789240014947-chi.pdf)
 
-#### 6.3. 上下文
+#### 6.3. Bối cảnh
 
-##### 6.3.1. 情绪
+##### 6.3.1. Cảm xúc
 
-* [悲观情绪与更高的全因死亡率和心血管疾病死亡率有关，但乐观情绪并不能起到保护作用](https://www.x-mol.com/paper/1288184397379059712/t?recommendPaper=1263704526086578176)
+* [Sự bi quan có liên quan đến tỷ lệ tử vong do mọi nguyên nhân và do bệnh tim mạch cao hơn, nhưng sự lạc quan không có tác dụng bảo vệ](https://www.x-mol.com/paper/1288184397379059712/t?recommendPaper=1263704526086578176)
 * [Pessimism is associated with greater all-cause and cardiovascular mortality, but optimism is not protective](https://www.nature.com/articles/s41598-020-69388-y?utm_source=xmol&utm_medium=affiliate&utm_content=meta&utm_campaign=DDCN_1_GL01_metadata_scirep)
-  * 在1993-1995年间，一项针对50岁以上澳大利亚人健康的双胞胎研究中包括了生活取向测试（LOT），其中包含乐观和悲观的项目。平均20年后，参与者与来自澳大利亚国家死亡指数的死亡信息相匹配。在2,978名具有很多可用分数的参与者中，有1,068人死亡。生存分析测试了各种乐观因素和悲观情绪分数与任何原因，癌症，心血管疾病或其他已知原因的死亡率之间的关联。年龄调整后的悲观量表上的核心与全因和心血管疾病死亡率相关（每1个标准差单位的危险比，95％置信区间和p值1.134、1.065–1.207、8.85×10 –5和1.196、1.045–1.368、0.0093 ），但不会因癌症死亡。乐观得分与悲观得分之间的相关性很弱（年龄调整后的等级相关系数= − 0.176），但与总死亡率或特定原因死亡率没有显着相关性。反向因果关系（引起悲观情绪的疾病）是不可能的，因为在那种情况下，心血管疾病和癌症都会导致悲观情绪。
+  * Trong giai đoạn 1993-1995, một nghiên cứu song sinh về sức khỏe của người Úc trên 50 tuổi đã bao gồm Bài kiểm tra Định hướng Cuộc sống (LOT), trong đó có các mục về lạc quan và bi quan. Trung bình 20 năm sau, người tham gia được đối chiếu với thông tin tử vong từ Chỉ số Tử vong Quốc gia Úc. Trong số 2,978 người tham gia có nhiều điểm số khả dụng, 1,068 người đã tử vong. Phân tích sống còn kiểm tra mối liên hệ giữa các yếu tố lạc quan và điểm số bi quan với tỷ lệ tử vong do bất kỳ nguyên nhân nào, ung thư, bệnh tim mạch hoặc các nguyên nhân đã biết khác. Điểm số trên thang đo bi quan sau hiệu chỉnh theo tuổi có liên quan đến tỷ lệ tử vong do mọi nguyên nhân và do bệnh tim mạch (tỷ số nguy cơ cho mỗi đơn vị độ lệch chuẩn, khoảng tin cậy 95％ và giá trị p lần lượt là 1.134, 1.065–1.207, 8.85×10 –5 và 1.196, 1.045–1.368, 0.0093), nhưng không liên quan đến tử vong do ung thư. Điểm số lạc quan có tương quan yếu với điểm số bi quan (hệ số tương quan thứ hạng sau hiệu chỉnh theo tuổi = − 0.176), nhưng không có tương quan có ý nghĩa với tỷ lệ tử vong chung hoặc do từng nguyên nhân cụ thể. Quan hệ nhân quả ngược (bệnh gây ra sự bi quan) là không thể, vì trong trường hợp đó, cả bệnh tim mạch và ung thư đều sẽ gây ra sự bi quan.
 
-##### 6.3.2. 贫富
+##### 6.3.2. Giàu nghèo
 
-* [JAMA子刊：贫富差距真能影响寿命？这可能是真的！](https://www.cn-healthcare.com/articlewm/20210727/content-1246348.html)
-  * 该研究使用1994-1996年第一次收集的数据，并通过生存模型来分析净资产和长寿之间的关联。结果显示，共收纳5414 名参与者，平均年龄为 46.7岁，包括 2766 名女性。较高的净资产与较低的死亡风险相关。特别是在兄弟姐妹和双胞胎中（n = 2490），在较高的净资产和较低的死亡率之间观察到类似的关联，表明拥有更多财富的兄弟姐妹或双胞胎比拥有更少财富的兄弟姐妹/双胞胎活得更久。
+* [Tạp chí thành viên của JAMA: chênh lệch giàu nghèo thực sự có thể ảnh hưởng đến tuổi thọ? Điều này có thể là thật!](https://www.cn-healthcare.com/articlewm/20210727/content-1246348.html)
+  * Nghiên cứu sử dụng dữ liệu được thu thập lần đầu vào năm 1994-1996 và phân tích mối liên hệ giữa tài sản ròng và tuổi thọ bằng mô hình sống còn. Kết quả cho thấy tổng cộng có 5414 người tham gia, tuổi trung bình 46.7, trong đó có 2766 phụ nữ. Tài sản ròng cao hơn có liên quan đến nguy cơ tử vong thấp hơn. Đặc biệt, trong nhóm anh chị em ruột và sinh đôi (n = 2490), cũng quan sát thấy mối liên hệ tương tự giữa tài sản ròng cao hơn và tỷ lệ tử vong thấp hơn, cho thấy người có nhiều của cải hơn sống lâu hơn anh chị em ruột hoặc anh chị em sinh đôi có ít của cải hơn.
 
-##### 6.3.3. 体重
+##### 6.3.3. Cân nặng
 
-* [JAMA子刊：减肥要趁早，才能有效降低死亡率风险](https://www.chinacdc.cn/gwxx/202009/t20200904_218959.html)
-  * 对体重减轻的死亡率风险评估发现，体重从肥胖减轻到超重的成年人与稳定肥胖人群相比，全因死亡率降低了54％（危险比为0.46），然而从成年初期的超重减轻到中年以前的正常体重的人群的死亡率风险并未降低（风险比为1.12）。
+* [Tạp chí thành viên của JAMA: cần giảm cân sớm mới có thể giảm nguy cơ tử vong hiệu quả](https://www.chinacdc.cn/gwxx/202009/t20200904_218959.html)
+  * Đánh giá nguy cơ tử vong khi giảm cân cho thấy, so với những người duy trì tình trạng béo phì, người trưởng thành giảm cân từ mức béo phì xuống thừa cân có tỷ lệ tử vong do mọi nguyên nhân giảm 54％ (tỷ số nguy cơ là 0.46); tuy nhiên, những người giảm từ thừa cân ở giai đoạn đầu tuổi trưởng thành xuống cân nặng bình thường trước tuổi trung niên không có nguy cơ tử vong giảm (tỷ số nguy cơ là 1.12).
   * ![Table3](https://raw.githubusercontent.com/qhy040404/Image-Resources-Repo/master/zoi200509t3_1596761185.02415.png)
 
-##### 6.3.4. 新冠
+##### 6.3.4. COVID-19
 
 * [Magnitude, demographics and dynamics of the effect of the first wave of the COVID-19 pandemic on all-cause mortality in 21 industrialized countries](https://www.nature.com/articles/s41591-020-1112-0.pdf)
-  * 目前来看，新冠死亡率（美国）在1.5%左右，人均预期寿命减少了2年
-* [如何看待美国CDC宣称新冠死亡人数被高估？](https://www.zhihu.com/question/510943670/answer/2308499719)
+  * Vào thời điểm viết bản gốc, tỷ lệ tử vong do COVID-19 (Mỹ) vào khoảng 1.5%, tuổi thọ kỳ vọng bình quân giảm 2 năm
+* [Nhìn nhận thế nào về tuyên bố của CDC Mỹ rằng số ca tử vong do COVID-19 đã bị đánh giá quá cao?](https://www.zhihu.com/question/510943670/answer/2308499719)
 * [NVSS deaths](https://www.cdc.gov/nchs/nvss/deaths.htm)
+
+Bản dịch tham khảo của giấy phép: [LICENSE_vi.md](LICENSE_vi.md). Văn bản [LICENSE](LICENSE) bằng tiếng Anh là bản áp dụng.
